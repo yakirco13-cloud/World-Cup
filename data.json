@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:22:38.218Z",
+  "updated": "2026-06-14T19:40:39.048Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -31,8 +31,8 @@
       "a": "0"
     },
     "9": {
-      "h": "1",
-      "a": "0"
+      "h": "7",
+      "a": "1"
     }
   },
   "status": {
@@ -43,7 +43,7 @@
     "6": "FINISHED",
     "7": "FINISHED",
     "8": "FINISHED",
-    "9": "IN_PLAY",
+    "9": "FINISHED",
     "10": "TIMED",
     "11": "TIMED",
     "12": "TIMED",
@@ -111,6 +111,13 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0
+    },
+    {
+      "name": "Kai Havertz",
+      "teamHe": "גרמניה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1
     },
     {
       "name": "Julián Quiñones",
@@ -229,6 +236,41 @@
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Livano Comenencia",
+      "teamHe": "קוראסאו",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "teamHe": "גרמניה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Jamal Musiala",
+      "teamHe": "גרמניה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Nathaniel Brown",
+      "teamHe": "גרמניה",
+      "goals": 1,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
+      "name": "Deniz Undav",
+      "teamHe": "גרמניה",
+      "goals": 1,
+      "assists": 2,
       "penalties": 0
     }
   ],
