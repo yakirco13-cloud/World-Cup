@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T14:09:49.857Z",
+  "updated": "2026-06-14T17:22:38.218Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -29,6 +29,10 @@
     "8": {
       "h": "2",
       "a": "0"
+    },
+    "9": {
+      "h": "1",
+      "a": "0"
     }
   },
   "status": {
@@ -39,7 +43,7 @@
     "6": "FINISHED",
     "7": "FINISHED",
     "8": "FINISHED",
-    "9": "TIMED",
+    "9": "IN_PLAY",
     "10": "TIMED",
     "11": "TIMED",
     "12": "TIMED",
@@ -216,6 +220,13 @@
     {
       "name": "Connor Metcalfe",
       "teamHe": "אוסטרליה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Felix Kalu Nmecha",
+      "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
       "penalties": 0
