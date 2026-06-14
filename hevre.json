@@ -1,0 +1,172 @@
+{
+  "updated": "2026-06-14T15:16:06.531Z",
+  "groupName": "",
+  "membersCount": 15,
+  "table": [
+    {
+      "name": "אלון לוין",
+      "points": 18.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "rank": 1
+    },
+    {
+      "name": "תומר בר",
+      "points": 16.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "הארי קיין",
+      "rank": 2
+    },
+    {
+      "name": "Guy Shmuel",
+      "points": 16.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "rank": 3
+    },
+    {
+      "name": "רועי שלו",
+      "points": 14.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "חוליאן אלבארס",
+      "rank": 4
+    },
+    {
+      "name": "תומר לידא",
+      "points": 14.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "אנגליה",
+      "scorer": "הארי קיין",
+      "rank": 5
+    },
+    {
+      "name": "Itay Mor yosef",
+      "points": 14.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "rank": 6
+    },
+    {
+      "name": "עמית לוי",
+      "points": 13.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "rank": 7
+    },
+    {
+      "name": "ברק ברהמי",
+      "points": 12.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "rank": 8
+    },
+    {
+      "name": "גל אטיאס",
+      "points": 9.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "rank": 9
+    },
+    {
+      "name": "יקיר כהן",
+      "points": 9.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "ספרד",
+      "scorer": "קיליאן אמבפה",
+      "rank": 10
+    },
+    {
+      "name": "מרום אריש",
+      "points": 9.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "rank": 11
+    },
+    {
+      "name": "רוזן",
+      "points": 9.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "rank": 12
+    },
+    {
+      "name": "עומר שדה",
+      "points": 5.5,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "rank": 13
+    },
+    {
+      "name": "אורי חיון",
+      "points": 4,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "rank": 14
+    },
+    {
+      "name": "amit yeruham",
+      "points": 4,
+      "exact": 0,
+      "direction": 4,
+      "misses": 4,
+      "guessed": 8,
+      "champion": "ברזיל",
+      "scorer": "הארי קיין",
+      "rank": 15
+    }
+  ]
+}
