@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T00:00:00.000Z",
-  "source": "seed (current page data)",
+  "updated": "2026-06-14T11:10:40.710Z",
+  "source": "football-data.org",
   "scores": {
     "1": {
       "h": "2",
@@ -8,10 +8,6 @@
     },
     "2": {
       "h": "2",
-      "a": "1"
-    },
-    "3": {
-      "h": "1",
       "a": "1"
     },
     "4": {
@@ -38,14 +34,239 @@
   "status": {
     "1": "FINISHED",
     "2": "FINISHED",
-    "3": "FINISHED",
     "4": "FINISHED",
     "5": "FINISHED",
     "6": "FINISHED",
     "7": "FINISHED",
-    "8": "FINISHED"
+    "8": "FINISHED",
+    "9": "TIMED",
+    "10": "TIMED",
+    "11": "TIMED",
+    "12": "TIMED",
+    "14": "TIMED",
+    "15": "TIMED",
+    "16": "TIMED",
+    "17": "TIMED",
+    "18": "TIMED",
+    "19": "TIMED",
+    "20": "TIMED",
+    "21": "TIMED",
+    "22": "TIMED",
+    "23": "TIMED",
+    "24": "TIMED",
+    "25": "TIMED",
+    "27": "TIMED",
+    "28": "TIMED",
+    "29": "TIMED",
+    "30": "TIMED",
+    "31": "TIMED",
+    "32": "TIMED",
+    "33": "TIMED",
+    "34": "TIMED",
+    "35": "TIMED",
+    "36": "TIMED",
+    "37": "TIMED",
+    "38": "TIMED",
+    "40": "TIMED",
+    "41": "TIMED",
+    "42": "TIMED",
+    "43": "TIMED",
+    "44": "TIMED",
+    "45": "TIMED",
+    "46": "TIMED",
+    "47": "TIMED",
+    "48": "TIMED",
+    "49": "TIMED",
+    "51": "TIMED",
+    "52": "TIMED",
+    "53": "TIMED",
+    "54": "TIMED",
+    "55": "TIMED",
+    "56": "TIMED",
+    "57": "TIMED",
+    "58": "TIMED",
+    "59": "TIMED",
+    "60": "TIMED",
+    "61": "TIMED",
+    "62": "TIMED",
+    "64": "TIMED",
+    "65": "TIMED",
+    "66": "TIMED",
+    "67": "TIMED",
+    "68": "TIMED",
+    "69": "TIMED",
+    "70": "TIMED",
+    "71": "TIMED",
+    "72": "TIMED"
   },
   "forms": {},
-  "scorers": [],
-  "crests": {}
+  "scorers": [
+    {
+      "name": "Folarin Balogun",
+      "teamHe": "ארצות הברית",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Julián Quiñones",
+      "teamHe": "מקסיקו",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Raúl Jiménez",
+      "teamHe": "מקסיקו",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ladislav Krejčí",
+      "teamHe": "צ׳כיה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "In-beom Hwang",
+      "teamHe": "דרום קוריאה",
+      "goals": 1,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
+      "name": "Hyun-Gyu Oh",
+      "teamHe": "דרום קוריאה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Jovo Lukić",
+      "teamHe": "Bosnia-Herzegovina",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Cyle Larin",
+      "teamHe": "קנדה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Mauricio",
+      "teamHe": "פרגוואי",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Gio Reyna",
+      "teamHe": "ארצות הברית",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Breel Embolo",
+      "teamHe": "שווייץ",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
+      "name": "Boualem Khoukhi",
+      "teamHe": "קטאר",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ismael Saibari",
+      "teamHe": "מרוקו",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Vinicius Junior",
+      "teamHe": "ברזיל",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "John McGinn",
+      "teamHe": "סקוטלנד",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Nestor Irankunda",
+      "teamHe": "אוסטרליה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Connor Metcalfe",
+      "teamHe": "אוסטרליה",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    }
+  ],
+  "crests": {
+    "אורוגוואי": "https://crests.football-data.org/758.svg",
+    "גרמניה": "https://crests.football-data.org/759.svg",
+    "ספרד": "https://crests.football-data.org/760.svg",
+    "פרגוואי": "https://crests.football-data.org/761.svg",
+    "ארגנטינה": "https://crests.football-data.org/762.png",
+    "גאנה": "https://crests.football-data.org/ghana.svg",
+    "ברזיל": "https://crests.football-data.org/764.svg",
+    "פורטוגל": "https://crests.football-data.org/765.svg",
+    "יפן": "https://crests.football-data.org/766.svg",
+    "מקסיקו": "https://crests.football-data.org/769.svg",
+    "אנגליה": "https://crests.football-data.org/770.svg",
+    "ארצות הברית": "https://crests.football-data.org/usa.svg",
+    "דרום קוריאה": "https://crests.football-data.org/772.png",
+    "צרפת": "https://crests.football-data.org/773.svg",
+    "דרום אפריקה": "https://crests.football-data.org/9396.svg",
+    "אלג׳יריה": "https://crests.football-data.org/algeria.svg",
+    "אוסטרליה": "https://crests.football-data.org/779.svg",
+    "ניו זילנד": "https://crests.football-data.org/783.svg",
+    "שווייץ": "https://crests.football-data.org/788.svg",
+    "אקוודור": "https://crests.football-data.org/791.svg",
+    "שוודיה": "https://crests.football-data.org/792.svg",
+    "צ׳כיה": "https://crests.football-data.org/798.svg",
+    "קרואטיה": "https://crests.football-data.org/799.svg",
+    "ערב הסעודית": "https://crests.football-data.org/saudi_arabia.svg",
+    "תוניסיה": "https://crests.football-data.org/tunisia.svg",
+    "טורקיה": "https://crests.football-data.org/803.svg",
+    "סנגל": "https://crests.football-data.org/senegal.svg",
+    "בלגיה": "https://crests.football-data.org/805.svg",
+    "מרוקו": "https://crests.football-data.org/morocco.svg",
+    "אוסטריה": "https://crests.football-data.org/816.svg",
+    "קולומביה": "https://crests.football-data.org/818.svg",
+    "מצרים": "https://crests.football-data.org/825.svg",
+    "קנדה": "https://crests.football-data.org/canada.svg",
+    "האיטי": "https://crests.football-data.org/haiti.svg",
+    "איראן": "https://crests.football-data.org/iran.svg",
+    "פנמה": "https://crests.football-data.org/panama.svg",
+    "הרפובליקה הדמוקרטית של קונגו": "https://crests.football-data.org/congo_dr.svg",
+    "חוף השנהב": "https://crests.football-data.org/787.svg",
+    "קטאר": "https://crests.football-data.org/8030.svg",
+    "ירדן": "https://crests.football-data.org/8049.png",
+    "עיראק": "https://crests.football-data.org/iraq.svg",
+    "אוזבקיסטן": "https://crests.football-data.org/8070.png",
+    "הולנד": "https://crests.football-data.org/8601.svg",
+    "נורבגיה": "https://crests.football-data.org/813.svg",
+    "סקוטלנד": "https://crests.football-data.org/814.svg",
+    "קוראסאו": "https://crests.football-data.org/curacao.svg"
+  }
 }
