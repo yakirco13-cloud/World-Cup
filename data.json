@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:16:08.821Z",
+  "updated": "2026-06-14T23:11:36.220Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -35,8 +35,8 @@
       "a": "1"
     },
     "10": {
-      "h": "1",
-      "a": "0"
+      "h": "2",
+      "a": "2"
     }
   },
   "status": {
@@ -48,7 +48,7 @@
     "7": "FINISHED",
     "8": "FINISHED",
     "9": "FINISHED",
-    "10": "IN_PLAY",
+    "10": "FINISHED",
     "11": "TIMED",
     "12": "TIMED",
     "14": "TIMED",
@@ -280,6 +280,27 @@
     {
       "name": "Virgil van Dijk",
       "teamHe": "הולנד",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Keito Nakamura",
+      "teamHe": "יפן",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Crysencio Summerville",
+      "teamHe": "הולנד",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Daichi Kamada",
+      "teamHe": "יפן",
       "goals": 1,
       "assists": 0,
       "penalties": 0
