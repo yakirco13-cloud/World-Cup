@@ -1,0 +1,13 @@
+{
+  "name": "hevre-bot",
+  "version": "1.0.0",
+  "description": "Pulls 5-חבר'ה prediction-pool standings and publishes hevre.json",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
