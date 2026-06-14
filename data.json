@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:40:39.048Z",
+  "updated": "2026-06-14T21:16:08.821Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -33,6 +33,10 @@
     "9": {
       "h": "7",
       "a": "1"
+    },
+    "10": {
+      "h": "1",
+      "a": "0"
     }
   },
   "status": {
@@ -44,7 +48,7 @@
     "7": "FINISHED",
     "8": "FINISHED",
     "9": "FINISHED",
-    "10": "TIMED",
+    "10": "IN_PLAY",
     "11": "TIMED",
     "12": "TIMED",
     "14": "TIMED",
@@ -271,6 +275,13 @@
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 2,
+      "penalties": 0
+    },
+    {
+      "name": "Virgil van Dijk",
+      "teamHe": "הולנד",
+      "goals": 1,
+      "assists": 0,
       "penalties": 0
     }
   ],
