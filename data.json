@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T23:11:36.220Z",
+  "updated": "2026-06-15T04:45:44.255Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -37,6 +37,14 @@
     "10": {
       "h": "2",
       "a": "2"
+    },
+    "11": {
+      "h": "1",
+      "a": "0"
+    },
+    "12": {
+      "h": "5",
+      "a": "1"
     }
   },
   "status": {
@@ -49,8 +57,8 @@
     "8": "FINISHED",
     "9": "FINISHED",
     "10": "FINISHED",
-    "11": "TIMED",
-    "12": "TIMED",
+    "11": "FINISHED",
+    "12": "FINISHED",
     "14": "TIMED",
     "15": "TIMED",
     "16": "TIMED",
@@ -122,6 +130,13 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1
+    },
+    {
+      "name": "Yasin Ayari",
+      "teamHe": "שוודיה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
     },
     {
       "name": "Julián Quiñones",
@@ -301,6 +316,13 @@
     {
       "name": "Daichi Kamada",
       "teamHe": "יפן",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Amad Diallo",
+      "teamHe": "חוף השנהב",
       "goals": 1,
       "assists": 0,
       "penalties": 0
