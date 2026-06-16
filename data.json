@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:55:43.725Z",
+  "updated": "2026-06-16T23:25:31.715Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -59,8 +59,12 @@
       "a": "2"
     },
     "17": {
-      "h": "2",
-      "a": "0"
+      "h": "3",
+      "a": "1"
+    },
+    "18": {
+      "h": "1",
+      "a": "2"
     }
   },
   "status": {
@@ -78,8 +82,8 @@
     "14": "FINISHED",
     "15": "FINISHED",
     "16": "FINISHED",
-    "17": "IN_PLAY",
-    "18": "TIMED",
+    "17": "FINISHED",
+    "18": "IN_PLAY",
     "19": "TIMED",
     "20": "TIMED",
     "21": "TIMED",
@@ -157,6 +161,20 @@
     {
       "name": "Elijah Just",
       "teamHe": "ניו זילנד",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Erling Haaland",
+      "teamHe": "נורבגיה",
       "goals": 2,
       "assists": 0,
       "penalties": 0
@@ -324,20 +342,6 @@
     },
     {
       "name": "Keito Nakamura",
-      "teamHe": "יפן",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Crysencio Summerville",
-      "teamHe": "הולנד",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Daichi Kamada",
       "teamHe": "יפן",
       "goals": 1,
       "assists": 0,
