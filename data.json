@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T23:25:31.715Z",
+  "updated": "2026-06-17T04:23:31.975Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -64,7 +64,15 @@
     },
     "18": {
       "h": "1",
-      "a": "2"
+      "a": "4"
+    },
+    "19": {
+      "h": "3",
+      "a": "0"
+    },
+    "20": {
+      "h": "0",
+      "a": "0"
     }
   },
   "status": {
@@ -83,9 +91,9 @@
     "15": "FINISHED",
     "16": "FINISHED",
     "17": "FINISHED",
-    "18": "IN_PLAY",
-    "19": "TIMED",
-    "20": "TIMED",
+    "18": "FINISHED",
+    "19": "FINISHED",
+    "20": "IN_PLAY",
     "21": "TIMED",
     "22": "TIMED",
     "23": "TIMED",
@@ -137,6 +145,13 @@
   },
   "forms": {},
   "scorers": [
+    {
+      "name": "Lionel Messi",
+      "teamHe": "ארגנטינה",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
     {
       "name": "Folarin Balogun",
       "teamHe": "ארצות הברית",
@@ -336,13 +351,6 @@
     {
       "name": "Virgil van Dijk",
       "teamHe": "הולנד",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Keito Nakamura",
-      "teamHe": "יפן",
       "goals": 1,
       "assists": 0,
       "penalties": 0
