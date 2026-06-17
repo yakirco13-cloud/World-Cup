@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:22:40.515Z",
+  "updated": "2026-06-17T22:03:12.911Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -77,6 +77,10 @@
     "21": {
       "h": "1",
       "a": "1"
+    },
+    "22": {
+      "h": "4",
+      "a": "2"
     }
   },
   "status": {
@@ -98,8 +102,8 @@
     "18": "FINISHED",
     "19": "FINISHED",
     "20": "FINISHED",
-    "21": "IN_PLAY",
-    "22": "TIMED",
+    "21": "FINISHED",
+    "22": "IN_PLAY",
     "23": "TIMED",
     "24": "TIMED",
     "25": "TIMED",
@@ -197,6 +201,13 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0
+    },
+    {
+      "name": "Harry Kane",
+      "teamHe": "אנגליה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1
     },
     {
       "name": "Julián Quiñones",
@@ -350,13 +361,6 @@
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 2,
-      "penalties": 0
-    },
-    {
-      "name": "Virgil van Dijk",
-      "teamHe": "הולנד",
-      "goals": 1,
-      "assists": 0,
       "penalties": 0
     }
   ],
