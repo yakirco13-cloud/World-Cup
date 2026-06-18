@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T18:27:21.520Z",
+  "updated": "2026-06-18T22:13:02.847Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -93,6 +93,10 @@
     "25": {
       "h": "1",
       "a": "1"
+    },
+    "27": {
+      "h": "0",
+      "a": "0"
     }
   },
   "status": {
@@ -119,7 +123,7 @@
     "23": "FINISHED",
     "24": "FINISHED",
     "25": "FINISHED",
-    "27": "TIMED",
+    "27": "IN_PLAY",
     "28": "TIMED",
     "29": "TIMED",
     "30": "TIMED",
@@ -222,6 +226,13 @@
       "penalties": 1
     },
     {
+      "name": "Johan Manzambi",
+      "teamHe": "שווייץ",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 1,
@@ -288,7 +299,7 @@
       "name": "Breel Embolo",
       "teamHe": "שווייץ",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "penalties": 1
     },
     {
@@ -366,13 +377,6 @@
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Deniz Undav",
-      "teamHe": "גרמניה",
-      "goals": 1,
-      "assists": 2,
       "penalties": 0
     }
   ],
