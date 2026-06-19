@@ -28,7 +28,29 @@ async function api(type, body) {
   return json;
 }
 
-function buildTable(group, statsById) {
+// Best single bet = the game where the player earned the most points.
+function computeBestBet(rounds) {
+  let best = null;
+  for (const round of (rounds || [])) {
+    for (const gme of (round.games || [])) {
+      const g1 = gme.team1?.team1Guessed, g2 = gme.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no guess made
+      const pts = Number(gme.gamepoints) || 0;
+      if (!best || pts > best.points) {
+        best = {
+          points: pts,
+          home: gme.team1?.name || '',
+          away: gme.team2?.name || '',
+          guess: `${g1}-${g2}`,
+          result: (gme.result1 != null && gme.result1 !== '') ? `${gme.result1}-${gme.result2}` : null,
+        };
+      }
+    }
+  }
+  return best;
+}
+
+function buildTable(group, statsById, bestBetById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
     return {
@@ -40,6 +62,9 @@ function buildTable(group, statsById) {
       guessed:   s.numberOfGamesGuessed   ?? null,
       champion: m.champion?.name || '',
       scorer:   m.scorer?.name   || '',
+      pointsFromChampion: s.pointsFromChampion ?? null,
+      pointsFromScorer:   s.pointsFromScrorer  ?? null,
+      bestBet: bestBetById[m._id] || null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
@@ -51,10 +76,12 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const statsById = {};
+const statsById = {}, bestBetById = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
+  try { bestBetById[m._id] = computeBestBet(await api('getFriendGuesses', { user: m._id, auid: m._id })); }
+  catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
 console.log(`Fetched stats for ${Object.keys(statsById).length}/${members.length} members.`);
 
@@ -62,7 +89,7 @@ const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
-  table: buildTable(group, statsById),
+  table: buildTable(group, statsById, bestBetById),
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`Wrote hevre.json with ${out.table.length} rows.`);
