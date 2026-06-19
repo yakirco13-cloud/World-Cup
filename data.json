@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:13:02.847Z",
+  "updated": "2026-06-19T04:44:28.064Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -95,7 +95,11 @@
       "a": "1"
     },
     "27": {
-      "h": "0",
+      "h": "6",
+      "a": "0"
+    },
+    "28": {
+      "h": "1",
       "a": "0"
     }
   },
@@ -123,8 +127,8 @@
     "23": "FINISHED",
     "24": "FINISHED",
     "25": "FINISHED",
-    "27": "IN_PLAY",
-    "28": "TIMED",
+    "27": "FINISHED",
+    "28": "FINISHED",
     "29": "TIMED",
     "30": "TIMED",
     "31": "TIMED",
@@ -173,6 +177,20 @@
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Jonathan David",
+      "teamHe": "קנדה",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Cyle Larin",
+      "teamHe": "קנדה",
+      "goals": 2,
       "assists": 0,
       "penalties": 0
     },
@@ -275,13 +293,6 @@
       "penalties": 0
     },
     {
-      "name": "Cyle Larin",
-      "teamHe": "קנדה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
       "name": "Mauricio",
       "teamHe": "פרגוואי",
       "goals": 1,
@@ -370,13 +381,6 @@
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Nathaniel Brown",
-      "teamHe": "גרמניה",
-      "goals": 1,
-      "assists": 1,
       "penalties": 0
     }
   ],
