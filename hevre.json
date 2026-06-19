@@ -1,36 +1,15 @@
 {
-  "updated": "2026-06-19T21:47:57.717Z",
+  "updated": "2026-06-19T23:08:39.101Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
-      "name": "Itay Mor yosef",
+      "name": "רוזן",
       "points": 62.5,
       "exact": 5,
-      "direction": 9,
-      "misses": 15,
-      "guessed": 29,
-      "champion": "פורטוגל",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 4,
-      "bestBet": {
-        "points": 8,
-        "home": "ספרד",
-        "away": "קייפ ורדה",
-        "guess": "1-1",
-        "result": "0-0"
-      },
-      "momentum": 1,
-      "rank": 1
-    },
-    {
-      "name": "רוזן",
-      "points": 60.5,
-      "exact": 5,
-      "direction": 12,
+      "direction": 13,
       "misses": 12,
-      "guessed": 29,
+      "guessed": 30,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -42,7 +21,28 @@
         "guess": "1-0",
         "result": "1-0"
       },
-      "momentum": 1,
+      "momentum": 2,
+      "rank": 1
+    },
+    {
+      "name": "Itay Mor yosef",
+      "points": 62.5,
+      "exact": 5,
+      "direction": 9,
+      "misses": 16,
+      "guessed": 30,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 8,
+        "home": "ספרד",
+        "away": "קייפ ורדה",
+        "guess": "1-1",
+        "result": "0-0"
+      },
+      "momentum": 0,
       "rank": 2
     },
     {
@@ -50,8 +50,8 @@
       "points": 59.5,
       "exact": 5,
       "direction": 12,
-      "misses": 12,
-      "guessed": 29,
+      "misses": 13,
+      "guessed": 30,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -63,16 +63,16 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 3,
+      "momentum": 0,
       "rank": 3
     },
     {
       "name": "אלון לוין",
-      "points": 52.5,
+      "points": 54.5,
       "exact": 3,
-      "direction": 13,
+      "direction": 14,
       "misses": 12,
-      "guessed": 28,
+      "guessed": 29,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -84,100 +84,16 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 2,
       "rank": 4
     },
     {
-      "name": "Guy Shmuel",
-      "points": 49,
-      "exact": 4,
-      "direction": 11,
-      "misses": 14,
-      "guessed": 29,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 4,
-      "bestBet": {
-        "points": 7.5,
-        "home": "צ'כיה",
-        "away": "דרום אפריקה",
-        "guess": "1-1",
-        "result": "1-1"
-      },
-      "momentum": 3,
-      "rank": 5
-    },
-    {
-      "name": "יקיר כהן",
-      "points": 48.5,
-      "exact": 2,
-      "direction": 14,
-      "misses": 13,
-      "guessed": 29,
-      "champion": "ספרד",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 4,
-      "bestBet": {
-        "points": 8,
-        "home": "בלגיה",
-        "away": "מצרים",
-        "guess": "1-1",
-        "result": "1-1"
-      },
-      "momentum": 1,
-      "rank": 6
-    },
-    {
-      "name": "עומר שדה",
-      "points": 48,
-      "exact": 3,
-      "direction": 12,
-      "misses": 14,
-      "guessed": 29,
-      "champion": "אנגליה",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 4,
-      "bestBet": {
-        "points": 9,
-        "home": "ערב הסעודית",
-        "away": "אורוגוואי",
-        "guess": "1-1",
-        "result": "1-1"
-      },
-      "momentum": 1,
-      "rank": 7
-    },
-    {
-      "name": "תומר לידא",
-      "points": 48,
-      "exact": 3,
-      "direction": 13,
-      "misses": 12,
-      "guessed": 28,
-      "champion": "אנגליה",
-      "scorer": "הארי קיין",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 4,
-      "bestBet": {
-        "points": 7,
-        "home": "דרום קוריאה",
-        "away": "צ'כיה",
-        "guess": "2-1",
-        "result": "2-1"
-      },
-      "momentum": 4,
-      "rank": 8
-    },
-    {
       "name": "amit yeruham",
-      "points": 47.5,
-      "exact": 3,
+      "points": 53.5,
+      "exact": 4,
       "direction": 10,
       "misses": 16,
-      "guessed": 29,
+      "guessed": 30,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -189,16 +105,16 @@
         "guess": "0-0",
         "result": "0-0"
       },
-      "momentum": 1,
-      "rank": 9
+      "momentum": 2,
+      "rank": 5
     },
     {
-      "name": "ברק ברהמי",
-      "points": 47,
-      "exact": 3,
-      "direction": 13,
-      "misses": 11,
-      "guessed": 27,
+      "name": "Guy Shmuel",
+      "points": 51,
+      "exact": 4,
+      "direction": 12,
+      "misses": 14,
+      "guessed": 30,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -210,38 +126,38 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 6,
-      "rank": 10
+      "momentum": 4,
+      "rank": 6
     },
     {
-      "name": "מרום אריש",
-      "points": 42,
+      "name": "יקיר כהן",
+      "points": 50.5,
       "exact": 2,
-      "direction": 14,
+      "direction": 15,
       "misses": 13,
-      "guessed": 29,
-      "champion": "פורטוגל",
+      "guessed": 30,
+      "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
       "pointsFromScorer": 4,
       "bestBet": {
-        "points": 6,
-        "home": "מקסיקו",
-        "away": "דרום אפריקה",
-        "guess": "2-0",
-        "result": "2-0"
+        "points": 8,
+        "home": "בלגיה",
+        "away": "מצרים",
+        "guess": "1-1",
+        "result": "1-1"
       },
-      "momentum": 1,
-      "rank": 11
+      "momentum": 2,
+      "rank": 7
     },
     {
-      "name": "תומר בר",
-      "points": 39.5,
+      "name": "תומר לידא",
+      "points": 50,
       "exact": 3,
-      "direction": 10,
-      "misses": 16,
+      "direction": 14,
+      "misses": 12,
       "guessed": 29,
-      "champion": "צרפת",
+      "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
       "pointsFromScorer": 4,
@@ -252,16 +168,58 @@
         "guess": "2-1",
         "result": "2-1"
       },
+      "momentum": 5,
+      "rank": 8
+    },
+    {
+      "name": "ברק ברהמי",
+      "points": 49,
+      "exact": 3,
+      "direction": 14,
+      "misses": 11,
+      "guessed": 28,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7.5,
+        "home": "צ'כיה",
+        "away": "דרום אפריקה",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "momentum": 7,
+      "rank": 9
+    },
+    {
+      "name": "עומר שדה",
+      "points": 48,
+      "exact": 3,
+      "direction": 12,
+      "misses": 15,
+      "guessed": 30,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 9,
+        "home": "ערב הסעודית",
+        "away": "אורוגוואי",
+        "guess": "1-1",
+        "result": "1-1"
+      },
       "momentum": 0,
-      "rank": 12
+      "rank": 10
     },
     {
       "name": "רועי שלו",
-      "points": 38.5,
-      "exact": 2,
+      "points": 44.5,
+      "exact": 3,
       "direction": 13,
       "misses": 12,
-      "guessed": 27,
+      "guessed": 28,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": 0,
@@ -273,16 +231,37 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
-      "rank": 13
+      "momentum": 2,
+      "rank": 11
+    },
+    {
+      "name": "מרום אריש",
+      "points": 44,
+      "exact": 2,
+      "direction": 15,
+      "misses": 13,
+      "guessed": 30,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 6,
+        "home": "מקסיקו",
+        "away": "דרום אפריקה",
+        "guess": "2-0",
+        "result": "2-0"
+      },
+      "momentum": 2,
+      "rank": 12
     },
     {
       "name": "גל אטיאס",
-      "points": 37.5,
-      "exact": 1,
+      "points": 43.5,
+      "exact": 2,
       "direction": 15,
       "misses": 13,
-      "guessed": 29,
+      "guessed": 30,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -294,16 +273,37 @@
         "guess": "2-0",
         "result": "2-0"
       },
-      "momentum": 4,
+      "momentum": 5,
+      "rank": 13
+    },
+    {
+      "name": "תומר בר",
+      "points": 41.5,
+      "exact": 3,
+      "direction": 11,
+      "misses": 16,
+      "guessed": 30,
+      "champion": "צרפת",
+      "scorer": "הארי קיין",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7,
+        "home": "דרום קוריאה",
+        "away": "צ'כיה",
+        "guess": "2-1",
+        "result": "2-1"
+      },
+      "momentum": 1,
       "rank": 14
     },
     {
       "name": "אורי חיון",
-      "points": 36.5,
+      "points": 38.5,
       "exact": 1,
-      "direction": 14,
+      "direction": 15,
       "misses": 10,
-      "guessed": 25,
+      "guessed": 26,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -315,7 +315,7 @@
         "guess": "4-2",
         "result": "4-2"
       },
-      "momentum": 0,
+      "momentum": 1,
       "rank": 15
     }
   ]
