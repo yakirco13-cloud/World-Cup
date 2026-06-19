@@ -22,8 +22,9 @@ if (!TOKEN) {
 const norm = s =>
   String(s)
     .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '') // strip accents
+    .replace(/[̀-ͯ]/g, '')        // strip accents
     .toLowerCase()
+    .replace(/\b(?:and|the|of)\b/g, '') // drop connectors: "Bosnia and Herzegovina" === "Bosnia-Herzegovina"
     .replace(/[^a-z]/g, '');
 
 // football-data.org name (normalised) -> the English name the site uses.
@@ -34,8 +35,11 @@ const ALIASES = {
   turkiye: 'Turkey',
   cotedivoire: 'Ivory Coast',
   caboverde: 'Cape Verde',
+  capeverdeislands: 'Cape Verde',
+  capverde: 'Cape Verde',
   congodr: 'DR Congo',
   drcongo: 'DR Congo',
+  bosniaherzegovina: 'Bosnia and Herzegovina', // after connector-strip both sides become this
   usa: 'United States',
   unitedstatesofamerica: 'United States',
   czechia: 'Czech Republic',
