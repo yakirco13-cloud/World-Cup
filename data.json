@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:48:21.687Z",
+  "updated": "2026-06-19T23:12:17.185Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -117,6 +117,10 @@
     "29": {
       "h": "2",
       "a": "0"
+    },
+    "30": {
+      "h": "0",
+      "a": "1"
     }
   },
   "status": {
@@ -149,7 +153,7 @@
     "27": "FINISHED",
     "28": "FINISHED",
     "29": "FINISHED",
-    "30": "TIMED",
+    "30": "PAUSED",
     "31": "TIMED",
     "32": "TIMED",
     "33": "TIMED",
@@ -219,6 +223,13 @@
     {
       "name": "Folarin Balogun",
       "teamHe": "ארצות הברית",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ismael Saibari",
+      "teamHe": "מרוקו",
       "goals": 2,
       "assists": 0,
       "penalties": 0
@@ -338,13 +349,6 @@
     {
       "name": "Boualem Khoukhi",
       "teamHe": "קטאר",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Ismael Saibari",
-      "teamHe": "מרוקו",
       "goals": 1,
       "assists": 0,
       "penalties": 0
