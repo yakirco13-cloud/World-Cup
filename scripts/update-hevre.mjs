@@ -50,7 +50,27 @@ function computeBestBet(rounds) {
   return best;
 }
 
-function buildTable(group, statsById, bestBetById) {
+// Momentum = current hot streak: consecutive most-recent PLAYED games where the
+// player earned points (no history snapshots needed; games carry timestamps).
+function computeMomentum(rounds) {
+  const games = [];
+  for (const round of (rounds || [])) {
+    for (const gme of (round.games || [])) {
+      const played = gme.result1 != null && gme.result1 !== '';
+      if (!played) continue;
+      games.push({ when: Number(gme.beggining) || 0, pts: Number(gme.gamepoints) || 0 });
+    }
+  }
+  games.sort((a, b) => a.when - b.when);
+  let streak = 0;
+  for (let i = games.length - 1; i >= 0; i--) {
+    if (games[i].pts > 0) streak++;
+    else break;
+  }
+  return streak;
+}
+
+function buildTable(group, statsById, bestBetById, momentumById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
     return {
@@ -65,6 +85,7 @@ function buildTable(group, statsById, bestBetById) {
       pointsFromChampion: s.pointsFromChampion ?? null,
       pointsFromScorer:   s.pointsFromScrorer  ?? null,
       bestBet: bestBetById[m._id] || null,
+      momentum: momentumById[m._id] ?? null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
@@ -76,12 +97,15 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const statsById = {}, bestBetById = {};
+const statsById = {}, bestBetById = {}, momentumById = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
-  try { bestBetById[m._id] = computeBestBet(await api('getFriendGuesses', { user: m._id, auid: m._id })); }
-  catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
+  try {
+    const guesses = await api('getFriendGuesses', { user: m._id, auid: m._id });
+    bestBetById[m._id] = computeBestBet(guesses);
+    momentumById[m._id] = computeMomentum(guesses);
+  } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
 console.log(`Fetched stats for ${Object.keys(statsById).length}/${members.length} members.`);
 
@@ -89,7 +113,7 @@ const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
-  table: buildTable(group, statsById, bestBetById),
+  table: buildTable(group, statsById, bestBetById, momentumById),
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`Wrote hevre.json with ${out.table.length} rows.`);
