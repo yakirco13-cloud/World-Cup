@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T18:01:11.408Z",
+  "updated": "2026-06-19T20:04:16.126Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -45,6 +45,10 @@
     "12": {
       "h": "5",
       "a": "1"
+    },
+    "13": {
+      "h": "0",
+      "a": "0"
     },
     "14": {
       "h": "1",
@@ -94,6 +98,10 @@
       "h": "1",
       "a": "1"
     },
+    "26": {
+      "h": "4",
+      "a": "1"
+    },
     "27": {
       "h": "6",
       "a": "0"
@@ -101,11 +109,16 @@
     "28": {
       "h": "1",
       "a": "0"
+    },
+    "29": {
+      "h": "2",
+      "a": "0"
     }
   },
   "status": {
     "1": "FINISHED",
     "2": "FINISHED",
+    "3": "FINISHED",
     "4": "FINISHED",
     "5": "FINISHED",
     "6": "FINISHED",
@@ -115,6 +128,7 @@
     "10": "FINISHED",
     "11": "FINISHED",
     "12": "FINISHED",
+    "13": "FINISHED",
     "14": "FINISHED",
     "15": "FINISHED",
     "16": "FINISHED",
@@ -127,9 +141,10 @@
     "23": "FINISHED",
     "24": "FINISHED",
     "25": "FINISHED",
+    "26": "FINISHED",
     "27": "FINISHED",
     "28": "FINISHED",
-    "29": "TIMED",
+    "29": "PAUSED",
     "30": "TIMED",
     "31": "TIMED",
     "32": "TIMED",
@@ -139,6 +154,7 @@
     "36": "TIMED",
     "37": "TIMED",
     "38": "TIMED",
+    "39": "TIMED",
     "40": "TIMED",
     "41": "TIMED",
     "42": "TIMED",
@@ -149,6 +165,7 @@
     "47": "TIMED",
     "48": "TIMED",
     "49": "TIMED",
+    "50": "TIMED",
     "51": "TIMED",
     "52": "TIMED",
     "53": "TIMED",
@@ -161,6 +178,7 @@
     "60": "TIMED",
     "61": "TIMED",
     "62": "TIMED",
+    "63": "TIMED",
     "64": "TIMED",
     "65": "TIMED",
     "66": "TIMED",
@@ -287,7 +305,7 @@
     },
     {
       "name": "Jovo Lukić",
-      "teamHe": "Bosnia-Herzegovina",
+      "teamHe": "בוסניה והרצגובינה",
       "goals": 1,
       "assists": 0,
       "penalties": 0
@@ -420,7 +438,9 @@
     "קנדה": "https://crests.football-data.org/canada.svg",
     "האיטי": "https://crests.football-data.org/haiti.svg",
     "איראן": "https://crests.football-data.org/iran.svg",
+    "בוסניה והרצגובינה": "https://crests.football-data.org/bosnia.svg",
     "פנמה": "https://crests.football-data.org/panama.svg",
+    "כף ורדה": "https://crests.football-data.org/cape_verde.svg",
     "הרפובליקה הדמוקרטית של קונגו": "https://crests.football-data.org/congo_dr.svg",
     "חוף השנהב": "https://crests.football-data.org/787.svg",
     "קטאר": "https://crests.football-data.org/8030.svg",
