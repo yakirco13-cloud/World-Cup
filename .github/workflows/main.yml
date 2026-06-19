@@ -1,7 +1,7 @@
 name: Update results
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch: {}
 permissions:
   contents: write
