@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T19:27:58.444Z",
+  "updated": "2026-06-19T20:42:28.107Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -12,6 +12,15 @@
       "guessed": 29,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 8,
+        "home": "ספרד",
+        "away": "קייפ ורדה",
+        "guess": "1-1",
+        "result": "0-0"
+      },
       "rank": 1
     },
     {
@@ -23,6 +32,15 @@
       "guessed": 29,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7.5,
+        "home": "חוף השנהב",
+        "away": "אקוודור",
+        "guess": "1-0",
+        "result": "1-0"
+      },
       "rank": 2
     },
     {
@@ -34,6 +52,15 @@
       "guessed": 29,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7.5,
+        "home": "צ'כיה",
+        "away": "דרום אפריקה",
+        "guess": "1-1",
+        "result": "1-1"
+      },
       "rank": 3
     },
     {
@@ -45,7 +72,36 @@
       "guessed": 28,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 8,
+        "home": "ברזיל",
+        "away": "מרוקו",
+        "guess": "1-1",
+        "result": "1-1"
+      },
       "rank": 4
+    },
+    {
+      "name": "Guy Shmuel",
+      "points": 49,
+      "exact": 4,
+      "direction": 11,
+      "misses": 14,
+      "guessed": 29,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7.5,
+        "home": "צ'כיה",
+        "away": "דרום אפריקה",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "rank": 5
     },
     {
       "name": "יקיר כהן",
@@ -56,7 +112,36 @@
       "guessed": 29,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
-      "rank": 5
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 8,
+        "home": "בלגיה",
+        "away": "מצרים",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "rank": 6
+    },
+    {
+      "name": "עומר שדה",
+      "points": 48,
+      "exact": 3,
+      "direction": 12,
+      "misses": 14,
+      "guessed": 29,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 9,
+        "home": "ערב הסעודית",
+        "away": "אורוגוואי",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "rank": 7
     },
     {
       "name": "תומר לידא",
@@ -67,7 +152,16 @@
       "guessed": 28,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
-      "rank": 6
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7,
+        "home": "דרום קוריאה",
+        "away": "צ'כיה",
+        "guess": "2-1",
+        "result": "2-1"
+      },
+      "rank": 8
     },
     {
       "name": "amit yeruham",
@@ -78,7 +172,16 @@
       "guessed": 29,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
-      "rank": 7
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 12,
+        "home": "ספרד",
+        "away": "קייפ ורדה",
+        "guess": "0-0",
+        "result": "0-0"
+      },
+      "rank": 9
     },
     {
       "name": "ברק ברהמי",
@@ -89,28 +192,15 @@
       "guessed": 27,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
-      "rank": 8
-    },
-    {
-      "name": "Guy Shmuel",
-      "points": 45,
-      "exact": 3,
-      "direction": 12,
-      "misses": 14,
-      "guessed": 29,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "rank": 9
-    },
-    {
-      "name": "עומר שדה",
-      "points": 44,
-      "exact": 2,
-      "direction": 13,
-      "misses": 14,
-      "guessed": 29,
-      "champion": "אנגליה",
-      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7.5,
+        "home": "צ'כיה",
+        "away": "דרום אפריקה",
+        "guess": "1-1",
+        "result": "1-1"
+      },
       "rank": 10
     },
     {
@@ -122,6 +212,15 @@
       "guessed": 29,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 6,
+        "home": "מקסיקו",
+        "away": "דרום אפריקה",
+        "guess": "2-0",
+        "result": "2-0"
+      },
       "rank": 11
     },
     {
@@ -133,6 +232,15 @@
       "guessed": 29,
       "champion": "צרפת",
       "scorer": "הארי קיין",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 7,
+        "home": "דרום קוריאה",
+        "away": "צ'כיה",
+        "guess": "2-1",
+        "result": "2-1"
+      },
       "rank": 12
     },
     {
@@ -144,6 +252,15 @@
       "guessed": 27,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 0,
+      "bestBet": {
+        "points": 8,
+        "home": "ברזיל",
+        "away": "מרוקו",
+        "guess": "1-1",
+        "result": "1-1"
+      },
       "rank": 13
     },
     {
@@ -155,6 +272,15 @@
       "guessed": 29,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 6,
+        "home": "מקסיקו",
+        "away": "דרום אפריקה",
+        "guess": "2-0",
+        "result": "2-0"
+      },
       "rank": 14
     },
     {
@@ -166,6 +292,15 @@
       "guessed": 25,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 4,
+      "bestBet": {
+        "points": 6,
+        "home": "אנגליה",
+        "away": "קרואטיה",
+        "guess": "4-2",
+        "result": "4-2"
+      },
       "rank": 15
     }
   ]
