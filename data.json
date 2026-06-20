@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T16:44:46.890Z",
+  "updated": "2026-06-20T18:43:29.219Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -129,6 +129,10 @@
     "32": {
       "h": "0",
       "a": "1"
+    },
+    "33": {
+      "h": "4",
+      "a": "1"
     }
   },
   "status": {
@@ -164,7 +168,7 @@
     "30": "FINISHED",
     "31": "FINISHED",
     "32": "FINISHED",
-    "33": "TIMED",
+    "33": "IN_PLAY",
     "34": "TIMED",
     "35": "TIMED",
     "36": "TIMED",
@@ -306,6 +310,20 @@
       "penalties": 0
     },
     {
+      "name": "Brian Brobbey",
+      "teamHe": "הולנד",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Cody Gakpo",
+      "teamHe": "הולנד",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 1,
@@ -398,20 +416,6 @@
     },
     {
       "name": "Felix Kalu Nmecha",
-      "teamHe": "גרמניה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Livano Comenencia",
-      "teamHe": "קוראסאו",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Nico Schlotterbeck",
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
