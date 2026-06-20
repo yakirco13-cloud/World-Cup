@@ -90,6 +90,21 @@ function computeRisk(rounds) {
   return count ? { avg: Math.round(sum / count * 10) / 10, count } : null;
 }
 
+// Collect every friend's pick + points per FINISHED game, keyed by kickoff
+// timestamp (ms) — which matches the site's match datetime exactly.
+function collectPicks(gamesByTs, name, rounds) {
+  for (const rd of (rounds || [])) {
+    for (const g of (rd.games || [])) {
+      if (g.result1 == null || g.result1 === '') continue; // finished only
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
+      const ts = Number(g.beggining) || 0;
+      if (!ts) continue;
+      (gamesByTs[ts] ||= []).push({ name, guess: `${g1}-${g2}`, points: Number(g.gamepoints) || 0 });
+    }
+  }
+}
+
 function buildTable(group, statsById, bestBetById, momentumById, riskById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
@@ -120,6 +135,7 @@ const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
 const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {};
+const gamesByTs = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
@@ -128,15 +144,18 @@ for (const m of members) {
     bestBetById[m._id] = computeBestBet(guesses);
     momentumById[m._id] = computeMomentum(guesses);
     riskById[m._id] = computeRisk(guesses);
+    collectPicks(gamesByTs, m.name, guesses);
   } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
 console.log(`Fetched stats for ${Object.keys(statsById).length}/${members.length} members.`);
+console.log(`Collected picks for ${Object.keys(gamesByTs).length} finished games.`);
 
 const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
   table: buildTable(group, statsById, bestBetById, momentumById, riskById),
+  games: gamesByTs,
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`Wrote hevre.json with ${out.table.length} rows.`);
