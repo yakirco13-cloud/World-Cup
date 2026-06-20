@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:39:08.996Z",
+  "updated": "2026-06-20T22:20:17.223Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -135,7 +135,7 @@
       "a": "1"
     },
     "34": {
-      "h": "0",
+      "h": "2",
       "a": "1"
     }
   },
@@ -173,7 +173,7 @@
     "31": "FINISHED",
     "32": "FINISHED",
     "33": "FINISHED",
-    "34": "IN_PLAY",
+    "34": "FINISHED",
     "35": "TIMED",
     "36": "TIMED",
     "37": "TIMED",
@@ -215,6 +215,13 @@
   },
   "forms": {},
   "scorers": [
+    {
+      "name": "Deniz Undav",
+      "teamHe": "גרמניה",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 0
+    },
     {
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
@@ -414,13 +421,6 @@
     {
       "name": "Connor Metcalfe",
       "teamHe": "אוסטרליה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Felix Kalu Nmecha",
-      "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
       "penalties": 0
