@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T13:08:19.100Z",
+  "updated": "2026-06-20T15:23:49.031Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -22,6 +22,8 @@
         "result": "1-0"
       },
       "momentum": 0,
+      "riskAvg": 2.9,
+      "riskCount": 32,
       "rank": 1
     },
     {
@@ -43,6 +45,8 @@
         "result": "0-0"
       },
       "momentum": 0,
+      "riskAvg": 3.7,
+      "riskCount": 32,
       "rank": 2
     },
     {
@@ -64,6 +68,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 2.9,
+      "riskCount": 32,
       "rank": 3
     },
     {
@@ -85,6 +91,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 3.1,
+      "riskCount": 29,
       "rank": 4
     },
     {
@@ -106,6 +114,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 2.8,
+      "riskCount": 32,
       "rank": 5
     },
     {
@@ -127,6 +137,8 @@
         "result": "0-0"
       },
       "momentum": 0,
+      "riskAvg": 3.3,
+      "riskCount": 30,
       "rank": 6
     },
     {
@@ -148,6 +160,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 3,
+      "riskCount": 32,
       "rank": 7
     },
     {
@@ -169,6 +183,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 3.3,
+      "riskCount": 32,
       "rank": 8
     },
     {
@@ -190,6 +206,8 @@
         "result": "2-1"
       },
       "momentum": 0,
+      "riskAvg": 3,
+      "riskCount": 31,
       "rank": 9
     },
     {
@@ -211,6 +229,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 2.8,
+      "riskCount": 30,
       "rank": 10
     },
     {
@@ -232,6 +252,8 @@
         "result": "1-1"
       },
       "momentum": 0,
+      "riskAvg": 3,
+      "riskCount": 30,
       "rank": 11
     },
     {
@@ -253,6 +275,8 @@
         "result": "2-0"
       },
       "momentum": 0,
+      "riskAvg": 2.7,
+      "riskCount": 32,
       "rank": 12
     },
     {
@@ -274,6 +298,8 @@
         "result": "2-0"
       },
       "momentum": 0,
+      "riskAvg": 2.7,
+      "riskCount": 32,
       "rank": 13
     },
     {
@@ -295,6 +321,8 @@
         "result": "4-2"
       },
       "momentum": 0,
+      "riskAvg": 2.7,
+      "riskCount": 28,
       "rank": 14
     },
     {
@@ -316,6 +344,8 @@
         "result": "2-1"
       },
       "momentum": 0,
+      "riskAvg": 2.9,
+      "riskCount": 32,
       "rank": 15
     }
   ]
