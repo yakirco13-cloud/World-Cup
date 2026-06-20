@@ -70,7 +70,27 @@ function computeMomentum(rounds) {
   return streak;
 }
 
-function buildTable(group, statsById, bestBetById, momentumById) {
+// Risk = average point-value of the outcome each player backed, over FINISHED
+// games they guessed. ratio1 = home win, ratio2 = draw, ratio3 = away win.
+// Favorites pay few points (low risk); underdogs/draws pay a lot (high risk).
+function computeRisk(rounds) {
+  let sum = 0, count = 0;
+  for (const round of (rounds || [])) {
+    for (const g of (round.games || [])) {
+      const played = g.result1 != null && g.result1 !== '';
+      if (!played) continue;
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
+      const n1 = Number(g1), n2 = Number(g2);
+      const ratio = n1 > n2 ? Number(g.ratio1) : n1 === n2 ? Number(g.ratio2) : Number(g.ratio3);
+      if (!isFinite(ratio)) continue;
+      sum += ratio; count++;
+    }
+  }
+  return count ? { avg: Math.round(sum / count * 10) / 10, count } : null;
+}
+
+function buildTable(group, statsById, bestBetById, momentumById, riskById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
     return {
@@ -86,6 +106,8 @@ function buildTable(group, statsById, bestBetById, momentumById) {
       pointsFromScorer:   s.pointsFromScrorer  ?? null,
       bestBet: bestBetById[m._id] || null,
       momentum: momentumById[m._id] ?? null,
+      riskAvg: riskById[m._id]?.avg ?? null,
+      riskCount: riskById[m._id]?.count ?? null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
@@ -97,7 +119,7 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const statsById = {}, bestBetById = {}, momentumById = {};
+const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
@@ -105,6 +127,7 @@ for (const m of members) {
     const guesses = await api('getFriendGuesses', { user: m._id, auid: m._id });
     bestBetById[m._id] = computeBestBet(guesses);
     momentumById[m._id] = computeMomentum(guesses);
+    riskById[m._id] = computeRisk(guesses);
   } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
 console.log(`Fetched stats for ${Object.keys(statsById).length}/${members.length} members.`);
@@ -113,7 +136,7 @@ const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
-  table: buildTable(group, statsById, bestBetById, momentumById),
+  table: buildTable(group, statsById, bestBetById, momentumById, riskById),
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`Wrote hevre.json with ${out.table.length} rows.`);
