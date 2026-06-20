@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:12:17.185Z",
+  "updated": "2026-06-20T01:37:40.946Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -121,6 +121,10 @@
     "30": {
       "h": "0",
       "a": "1"
+    },
+    "31": {
+      "h": "3",
+      "a": "0"
     }
   },
   "status": {
@@ -153,8 +157,8 @@
     "27": "FINISHED",
     "28": "FINISHED",
     "29": "FINISHED",
-    "30": "PAUSED",
-    "31": "TIMED",
+    "30": "FINISHED",
+    "31": "PAUSED",
     "32": "TIMED",
     "33": "TIMED",
     "34": "TIMED",
@@ -235,6 +239,13 @@
       "penalties": 0
     },
     {
+      "name": "Vinicius Junior",
+      "teamHe": "ברזיל",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0
+    },
+    {
       "name": "Kai Havertz",
       "teamHe": "גרמניה",
       "goals": 2,
@@ -279,6 +290,13 @@
     {
       "name": "Johan Manzambi",
       "teamHe": "שווייץ",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Matheus Cunha",
+      "teamHe": "ברזיל",
       "goals": 2,
       "assists": 0,
       "penalties": 0
@@ -354,13 +372,6 @@
       "penalties": 0
     },
     {
-      "name": "Vinicius Junior",
-      "teamHe": "ברזיל",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
       "name": "John McGinn",
       "teamHe": "סקוטלנד",
       "goals": 1,
@@ -397,13 +408,6 @@
     },
     {
       "name": "Nico Schlotterbeck",
-      "teamHe": "גרמניה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Jamal Musiala",
       "teamHe": "גרמניה",
       "goals": 1,
       "assists": 0,
