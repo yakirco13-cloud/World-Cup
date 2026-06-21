@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T21:59:28.247Z",
+  "updated": "2026-06-21T23:41:40.285Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -153,6 +153,10 @@
     "38": {
       "h": "0",
       "a": "0"
+    },
+    "39": {
+      "h": "2",
+      "a": "2"
     }
   },
   "status": {
@@ -194,7 +198,7 @@
     "36": "FINISHED",
     "37": "FINISHED",
     "38": "FINISHED",
-    "39": "TIMED",
+    "39": "IN_PLAY",
     "40": "TIMED",
     "41": "TIMED",
     "42": "TIMED",
@@ -299,6 +303,13 @@
       "teamHe": "שוודיה",
       "goals": 2,
       "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Maximiliano Araújo",
+      "teamHe": "אורוגוואי",
+      "goals": 2,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -433,13 +444,6 @@
       "goals": 1,
       "assists": 1,
       "penalties": 1
-    },
-    {
-      "name": "Boualem Khoukhi",
-      "teamHe": "קטאר",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
     }
   ],
   "crests": {
