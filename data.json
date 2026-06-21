@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T16:19:07.250Z",
+  "updated": "2026-06-21T18:08:50.284Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -8,10 +8,6 @@
     },
     "2": {
       "h": "2",
-      "a": "1"
-    },
-    "3": {
-      "h": "1",
       "a": "1"
     },
     "4": {
@@ -147,7 +143,7 @@
       "a": "4"
     },
     "37": {
-      "h": "1",
+      "h": "5",
       "a": "0"
     }
   },
@@ -188,7 +184,7 @@
     "34": "FINISHED",
     "35": "FINISHED",
     "36": "FINISHED",
-    "37": "IN_PLAY",
+    "37": "FINISHED",
     "38": "TIMED",
     "39": "TIMED",
     "40": "TIMED",
@@ -361,6 +357,13 @@
       "penalties": 0
     },
     {
+      "name": "Mikel Oyarzabal",
+      "teamHe": "ספרד",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 1,
@@ -426,13 +429,6 @@
     {
       "name": "Boualem Khoukhi",
       "teamHe": "קטאר",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "John McGinn",
-      "teamHe": "סקוטלנד",
       "goals": 1,
       "assists": 0,
       "penalties": 0
