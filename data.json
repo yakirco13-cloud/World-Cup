@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:15:59.704Z",
+  "updated": "2026-06-21T09:28:31.423Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -144,7 +144,7 @@
     },
     "36": {
       "h": "0",
-      "a": "2"
+      "a": "4"
     }
   },
   "status": {
@@ -183,7 +183,7 @@
     "33": "FINISHED",
     "34": "FINISHED",
     "35": "FINISHED",
-    "36": "IN_PLAY",
+    "36": "FINISHED",
     "37": "TIMED",
     "38": "TIMED",
     "39": "TIMED",
@@ -350,6 +350,13 @@
       "penalties": 0
     },
     {
+      "name": "Ayase Ueda",
+      "teamHe": "יפן",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 1,
@@ -422,13 +429,6 @@
     {
       "name": "John McGinn",
       "teamHe": "סקוטלנד",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Nestor Irankunda",
-      "teamHe": "אוסטרליה",
       "goals": 1,
       "assists": 0,
       "penalties": 0
