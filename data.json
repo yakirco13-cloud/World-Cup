@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T23:47:53.777Z",
+  "updated": "2026-06-21T05:15:59.704Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -137,6 +137,14 @@
     "34": {
       "h": "2",
       "a": "1"
+    },
+    "35": {
+      "h": "0",
+      "a": "0"
+    },
+    "36": {
+      "h": "0",
+      "a": "2"
     }
   },
   "status": {
@@ -174,8 +182,8 @@
     "32": "FINISHED",
     "33": "FINISHED",
     "34": "FINISHED",
-    "35": "TIMED",
-    "36": "TIMED",
+    "35": "FINISHED",
+    "36": "IN_PLAY",
     "37": "TIMED",
     "38": "TIMED",
     "39": "TIMED",
@@ -270,6 +278,13 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1
+    },
+    {
+      "name": "Daichi Kamada",
+      "teamHe": "יפן",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
     },
     {
       "name": "Yasin Ayari",
@@ -413,13 +428,6 @@
     },
     {
       "name": "Nestor Irankunda",
-      "teamHe": "אוסטרליה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Connor Metcalfe",
       "teamHe": "אוסטרליה",
       "goals": 1,
       "assists": 0,
