@@ -105,6 +105,20 @@ function collectPicks(gamesByTs, name, rounds) {
   }
 }
 
+// Track who HAS submitted a bet per UPCOMING game (for the "you forgot" warning).
+function collectUpcoming(guessedByTs, name, rounds) {
+  for (const rd of (rounds || [])) {
+    for (const g of (rd.games || [])) {
+      if (g.result1 != null && g.result1 !== '') continue; // upcoming only
+      const ts = Number(g.beggining) || 0;
+      if (!ts) continue;
+      (guessedByTs[ts] ||= new Set());
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 != null && g1 !== '' && g2 != null && g2 !== '') guessedByTs[ts].add(name);
+    }
+  }
+}
+
 function buildTable(group, statsById, bestBetById, momentumById, riskById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
@@ -135,7 +149,7 @@ const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
 const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {};
-const gamesByTs = {};
+const gamesByTs = {}, guessedByTs = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
@@ -145,10 +159,20 @@ for (const m of members) {
     momentumById[m._id] = computeMomentum(guesses);
     riskById[m._id] = computeRisk(guesses);
     collectPicks(gamesByTs, m.name, guesses);
+    collectUpcoming(guessedByTs, m.name, guesses);
   } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
 console.log(`Fetched stats for ${Object.keys(statsById).length}/${members.length} members.`);
 console.log(`Collected picks for ${Object.keys(gamesByTs).length} finished games.`);
+
+// Who hasn't bet yet, per upcoming game.
+const allNames = members.map(m => m.name);
+const missingBets = {};
+for (const ts of Object.keys(guessedByTs)) {
+  const missing = allNames.filter(n => !guessedByTs[ts].has(n));
+  if (missing.length) missingBets[ts] = missing;
+}
+console.log(`${Object.keys(missingBets).length} upcoming games have missing bets.`);
 
 const out = {
   updated: new Date().toISOString(),
@@ -156,6 +180,7 @@ const out = {
   membersCount: group.membersCount ?? members.length,
   table: buildTable(group, statsById, bestBetById, momentumById, riskById),
   games: gamesByTs,
+  missingBets,
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`Wrote hevre.json with ${out.table.length} rows.`);
