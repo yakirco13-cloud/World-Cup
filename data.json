@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T16:16:15.885Z",
+  "updated": "2026-06-22T19:56:52.803Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -161,6 +161,10 @@
     "40": {
       "h": "1",
       "a": "3"
+    },
+    "41": {
+      "h": "2",
+      "a": "0"
     }
   },
   "status": {
@@ -204,7 +208,7 @@
     "38": "FINISHED",
     "39": "FINISHED",
     "40": "FINISHED",
-    "41": "TIMED",
+    "41": "FINISHED",
     "42": "TIMED",
     "43": "TIMED",
     "44": "TIMED",
@@ -240,17 +244,17 @@
   "forms": {},
   "scorers": [
     {
+      "name": "Lionel Messi",
+      "teamHe": "ארגנטינה",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Deniz Undav",
       "teamHe": "גרמניה",
       "goals": 3,
       "assists": 2,
-      "penalties": 0
-    },
-    {
-      "name": "Lionel Messi",
-      "teamHe": "ארגנטינה",
-      "goals": 3,
-      "assists": 0,
       "penalties": 0
     },
     {
