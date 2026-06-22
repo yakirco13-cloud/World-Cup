@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T19:56:52.803Z",
+  "updated": "2026-06-22T22:15:11.380Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -165,6 +165,10 @@
     "41": {
       "h": "2",
       "a": "0"
+    },
+    "42": {
+      "h": "1",
+      "a": "0"
     }
   },
   "status": {
@@ -209,7 +213,7 @@
     "39": "FINISHED",
     "40": "FINISHED",
     "41": "FINISHED",
-    "42": "TIMED",
+    "42": "PAUSED",
     "43": "TIMED",
     "44": "TIMED",
     "45": "TIMED",
@@ -255,6 +259,13 @@
       "teamHe": "גרמניה",
       "goals": 3,
       "assists": 2,
+      "penalties": 0
+    },
+    {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 3,
+      "assists": 0,
       "penalties": 0
     },
     {
@@ -323,13 +334,6 @@
     {
       "name": "Elijah Just",
       "teamHe": "ניו זילנד",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Kylian Mbappé",
-      "teamHe": "צרפת",
       "goals": 2,
       "assists": 0,
       "penalties": 0
