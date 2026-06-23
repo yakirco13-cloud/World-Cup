@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:53:03.418Z",
+  "updated": "2026-06-23T04:17:47.144Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -167,6 +167,14 @@
       "a": "0"
     },
     "42": {
+      "h": "3",
+      "a": "0"
+    },
+    "43": {
+      "h": "3",
+      "a": "2"
+    },
+    "44": {
       "h": "1",
       "a": "0"
     }
@@ -213,9 +221,9 @@
     "39": "FINISHED",
     "40": "FINISHED",
     "41": "FINISHED",
-    "42": "PAUSED",
-    "43": "TIMED",
-    "44": "TIMED",
+    "42": "FINISHED",
+    "43": "FINISHED",
+    "44": "IN_PLAY",
     "45": "TIMED",
     "46": "TIMED",
     "47": "TIMED",
@@ -255,17 +263,24 @@
       "penalties": 0
     },
     {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Erling Haaland",
+      "teamHe": "נורבגיה",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Deniz Undav",
       "teamHe": "גרמניה",
       "goals": 3,
       "assists": 2,
-      "penalties": 0
-    },
-    {
-      "name": "Kylian Mbappé",
-      "teamHe": "צרפת",
-      "goals": 3,
-      "assists": 0,
       "penalties": 0
     },
     {
@@ -339,13 +354,6 @@
       "penalties": 0
     },
     {
-      "name": "Erling Haaland",
-      "teamHe": "נורבגיה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
       "name": "Harry Kane",
       "teamHe": "אנגליה",
       "goals": 2,
@@ -392,6 +400,13 @@
       "teamHe": "ספרד",
       "goals": 2,
       "assists": 1,
+      "penalties": 0
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "teamHe": "סנגל",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0
     },
     {
@@ -449,13 +464,6 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0
-    },
-    {
-      "name": "Breel Embolo",
-      "teamHe": "שווייץ",
-      "goals": 1,
-      "assists": 1,
-      "penalties": 1
     }
   ],
   "crests": {
