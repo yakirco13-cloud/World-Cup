@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T08:07:57.912Z",
+  "updated": "2026-06-23T15:22:04.049Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -8,6 +8,10 @@
     },
     "2": {
       "h": "2",
+      "a": "1"
+    },
+    "3": {
+      "h": "1",
       "a": "1"
     },
     "4": {
@@ -322,6 +326,13 @@
       "penalties": 1
     },
     {
+      "name": "Crysencio Summerville",
+      "teamHe": "הולנד",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Daichi Kamada",
       "teamHe": "יפן",
       "goals": 2,
@@ -381,7 +392,7 @@
       "name": "Cody Gakpo",
       "teamHe": "הולנד",
       "goals": 2,
-      "assists": 2,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -450,13 +461,6 @@
     {
       "name": "Mauricio",
       "teamHe": "פרגוואי",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Gio Reyna",
-      "teamHe": "ארצות הברית",
       "goals": 1,
       "assists": 0,
       "penalties": 0
