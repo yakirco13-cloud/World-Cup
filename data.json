@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T15:22:04.049Z",
+  "updated": "2026-06-23T17:28:40.404Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -177,6 +177,10 @@
     "44": {
       "h": "1",
       "a": "2"
+    },
+    "45": {
+      "h": "2",
+      "a": "0"
     }
   },
   "status": {
@@ -224,7 +228,7 @@
     "42": "FINISHED",
     "43": "FINISHED",
     "44": "FINISHED",
-    "45": "TIMED",
+    "45": "IN_PLAY",
     "46": "TIMED",
     "47": "TIMED",
     "48": "TIMED",
