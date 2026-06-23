@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:30:52.247Z",
+  "updated": "2026-06-23T21:18:41.971Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -181,6 +181,10 @@
     "45": {
       "h": "5",
       "a": "0"
+    },
+    "46": {
+      "h": "0",
+      "a": "0"
     }
   },
   "status": {
@@ -229,7 +233,7 @@
     "43": "FINISHED",
     "44": "FINISHED",
     "45": "FINISHED",
-    "46": "TIMED",
+    "46": "LIVE",
     "47": "TIMED",
     "48": "TIMED",
     "49": "TIMED",
@@ -421,6 +425,13 @@
       "penalties": 0
     },
     {
+      "name": "Cristiano Ronaldo",
+      "teamHe": "פורטוגל",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 1,
@@ -458,13 +469,6 @@
     {
       "name": "Jovo Lukić",
       "teamHe": "בוסניה והרצגובינה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Mauricio",
-      "teamHe": "פרגוואי",
       "goals": 1,
       "assists": 0,
       "penalties": 0
