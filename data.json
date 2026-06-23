@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:28:40.404Z",
+  "updated": "2026-06-23T19:30:52.247Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -179,7 +179,7 @@
       "a": "2"
     },
     "45": {
-      "h": "2",
+      "h": "5",
       "a": "0"
     }
   },
@@ -228,7 +228,7 @@
     "42": "FINISHED",
     "43": "FINISHED",
     "44": "FINISHED",
-    "45": "IN_PLAY",
+    "45": "FINISHED",
     "46": "TIMED",
     "47": "TIMED",
     "48": "TIMED",
@@ -319,7 +319,7 @@
       "name": "Vinicius Junior",
       "teamHe": "ברזיל",
       "goals": 2,
-      "assists": 2,
+      "assists": 1,
       "penalties": 0
     },
     {
