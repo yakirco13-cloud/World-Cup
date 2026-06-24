@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-24T00:05:48.598Z",
+  "updated": "2026-06-24T04:20:50.417Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "תומר לידא",
-      "points": 96.5,
+      "points": 99.5,
       "exact": 7,
-      "direction": 22,
-      "misses": 17,
-      "guessed": 46,
+      "direction": 24,
+      "misses": 16,
+      "guessed": 47,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -21,18 +21,18 @@
         "guess": "2-1",
         "result": "2-1"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 3.2,
-      "riskCount": 46,
+      "riskCount": 47,
       "rank": 1
     },
     {
       "name": "רוזן",
-      "points": 92,
+      "points": 95,
       "exact": 7,
-      "direction": 21,
-      "misses": 19,
-      "guessed": 47,
+      "direction": 23,
+      "misses": 18,
+      "guessed": 48,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -44,18 +44,18 @@
         "guess": "1-0",
         "result": "1-0"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 2.7,
-      "riskCount": 47,
+      "riskCount": 48,
       "rank": 2
     },
     {
       "name": "Itay Mor yosef",
-      "points": 80.5,
+      "points": 82,
       "exact": 5,
-      "direction": 15,
+      "direction": 16,
       "misses": 27,
-      "guessed": 47,
+      "guessed": 48,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -68,17 +68,17 @@
         "result": "0-0"
       },
       "momentum": 0,
-      "riskAvg": 3.5,
-      "riskCount": 47,
+      "riskAvg": 3.6,
+      "riskCount": 48,
       "rank": 3
     },
     {
       "name": "עמית לוי",
-      "points": 77,
+      "points": 80,
       "exact": 5,
-      "direction": 20,
-      "misses": 22,
-      "guessed": 47,
+      "direction": 22,
+      "misses": 21,
+      "guessed": 48,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -90,18 +90,18 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
-      "riskAvg": 2.7,
-      "riskCount": 47,
+      "momentum": 2,
+      "riskAvg": 2.6,
+      "riskCount": 48,
       "rank": 4
     },
     {
       "name": "רועי שלו",
-      "points": 76,
+      "points": 79,
       "exact": 6,
-      "direction": 21,
-      "misses": 17,
-      "guessed": 44,
+      "direction": 23,
+      "misses": 16,
+      "guessed": 45,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": 0,
@@ -113,18 +113,41 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
-      "riskAvg": 2.8,
-      "riskCount": 44,
+      "momentum": 2,
+      "riskAvg": 2.7,
+      "riskCount": 45,
       "rank": 5
     },
     {
+      "name": "גל אטיאס",
+      "points": 78,
+      "exact": 4,
+      "direction": 26,
+      "misses": 18,
+      "guessed": 48,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 8,
+      "bestBet": {
+        "points": 6,
+        "home": "מקסיקו",
+        "away": "דרום אפריקה",
+        "guess": "2-0",
+        "result": "2-0"
+      },
+      "momentum": 2,
+      "riskAvg": 2.5,
+      "riskCount": 48,
+      "rank": 6
+    },
+    {
       "name": "Guy Shmuel",
-      "points": 74.5,
+      "points": 77.5,
       "exact": 5,
-      "direction": 20,
-      "misses": 22,
-      "guessed": 47,
+      "direction": 22,
+      "misses": 21,
+      "guessed": 48,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -136,18 +159,18 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 2.7,
-      "riskCount": 47,
-      "rank": 6
+      "riskCount": 48,
+      "rank": 7
     },
     {
       "name": "מרום אריש",
-      "points": 73.5,
+      "points": 76.5,
       "exact": 2,
-      "direction": 26,
-      "misses": 19,
-      "guessed": 47,
+      "direction": 28,
+      "misses": 18,
+      "guessed": 48,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -159,18 +182,18 @@
         "guess": "2-0",
         "result": "2-0"
       },
-      "momentum": 0,
-      "riskAvg": 2.8,
-      "riskCount": 47,
-      "rank": 7
+      "momentum": 2,
+      "riskAvg": 2.7,
+      "riskCount": 48,
+      "rank": 8
     },
     {
       "name": "עומר שדה",
-      "points": 73.5,
+      "points": 75,
       "exact": 4,
-      "direction": 21,
+      "direction": 22,
       "misses": 22,
-      "guessed": 47,
+      "guessed": 48,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -183,17 +206,17 @@
         "result": "1-1"
       },
       "momentum": 0,
-      "riskAvg": 2.6,
-      "riskCount": 47,
-      "rank": 8
+      "riskAvg": 2.7,
+      "riskCount": 48,
+      "rank": 9
     },
     {
       "name": "ברק ברהמי",
-      "points": 71,
+      "points": 74,
       "exact": 4,
-      "direction": 21,
-      "misses": 19,
-      "guessed": 44,
+      "direction": 23,
+      "misses": 18,
+      "guessed": 45,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -205,18 +228,18 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 2.6,
-      "riskCount": 44,
-      "rank": 9
+      "riskCount": 45,
+      "rank": 10
     },
     {
       "name": "אלון לוין",
-      "points": 70.5,
+      "points": 73.5,
       "exact": 3,
-      "direction": 21,
-      "misses": 20,
-      "guessed": 44,
+      "direction": 23,
+      "misses": 19,
+      "guessed": 45,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -228,18 +251,18 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
-      "riskAvg": 2.8,
-      "riskCount": 44,
-      "rank": 10
+      "momentum": 2,
+      "riskAvg": 2.7,
+      "riskCount": 45,
+      "rank": 11
     },
     {
       "name": "יקיר כהן",
-      "points": 70,
+      "points": 73,
       "exact": 3,
-      "direction": 21,
-      "misses": 23,
-      "guessed": 47,
+      "direction": 23,
+      "misses": 22,
+      "guessed": 48,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -251,18 +274,18 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 3.1,
-      "riskCount": 47,
-      "rank": 11
+      "riskCount": 48,
+      "rank": 12
     },
     {
       "name": "amit yeruham",
-      "points": 68,
+      "points": 69.5,
       "exact": 5,
-      "direction": 15,
+      "direction": 16,
       "misses": 22,
-      "guessed": 42,
+      "guessed": 43,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -275,40 +298,17 @@
         "result": "0-0"
       },
       "momentum": 0,
-      "riskAvg": 3.2,
-      "riskCount": 42,
-      "rank": 12
-    },
-    {
-      "name": "גל אטיאס",
-      "points": 67,
-      "exact": 2,
-      "direction": 26,
-      "misses": 19,
-      "guessed": 47,
-      "champion": "אנגליה",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 8,
-      "bestBet": {
-        "points": 6,
-        "home": "מקסיקו",
-        "away": "דרום אפריקה",
-        "guess": "2-0",
-        "result": "2-0"
-      },
-      "momentum": 0,
-      "riskAvg": 2.6,
-      "riskCount": 47,
+      "riskAvg": 3.3,
+      "riskCount": 43,
       "rank": 13
     },
     {
       "name": "תומר בר",
-      "points": 65,
+      "points": 68,
       "exact": 4,
-      "direction": 21,
-      "misses": 22,
-      "guessed": 47,
+      "direction": 23,
+      "misses": 21,
+      "guessed": 48,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -320,18 +320,18 @@
         "guess": "2-1",
         "result": "2-1"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 2.7,
-      "riskCount": 47,
+      "riskCount": 48,
       "rank": 14
     },
     {
       "name": "אורי חיון",
-      "points": 64,
+      "points": 67,
       "exact": 3,
-      "direction": 21,
-      "misses": 18,
-      "guessed": 42,
+      "direction": 23,
+      "misses": 17,
+      "guessed": 43,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -343,9 +343,9 @@
         "guess": "4-2",
         "result": "4-2"
       },
-      "momentum": 0,
+      "momentum": 2,
       "riskAvg": 2.5,
-      "riskCount": 42,
+      "riskCount": 43,
       "rank": 15
     }
   ],
@@ -375,6 +375,11 @@
         "name": "רועי שלו",
         "guess": "2-1",
         "points": 2
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 6
       },
       {
         "name": "Guy Shmuel",
@@ -410,11 +415,6 @@
         "name": "amit yeruham",
         "guess": "1-0",
         "points": 2
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 6
       },
       {
         "name": "תומר בר",
@@ -454,6 +454,11 @@
         "points": 3
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-1",
         "points": 7
@@ -485,11 +490,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "1-1",
         "points": 0
       },
@@ -531,6 +531,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-2",
         "points": 0
@@ -563,11 +568,6 @@
       {
         "name": "amit yeruham",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
         "points": 0
       },
       {
@@ -608,6 +608,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-0",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-1",
         "points": 2
@@ -640,11 +645,6 @@
       {
         "name": "amit yeruham",
         "guess": "2-0",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "1-0",
         "points": 2
       },
       {
@@ -685,6 +685,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-2",
         "points": 0
@@ -717,11 +722,6 @@
       {
         "name": "amit yeruham",
         "guess": "0-3",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "0-2",
         "points": 0
       },
       {
@@ -762,6 +762,11 @@
         "points": 8
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-1",
         "points": 0
@@ -797,11 +802,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
         "name": "תומר בר",
         "guess": "2-1",
         "points": 0
@@ -831,6 +831,11 @@
       {
         "name": "רועי שלו",
         "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "0-3",
         "points": 1.5
       },
       {
@@ -869,11 +874,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
         "name": "תומר בר",
         "guess": "0-2",
         "points": 1.5
@@ -903,6 +903,11 @@
       {
         "name": "רועי שלו",
         "guess": "0-2",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -936,11 +941,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "תומר בר",
         "guess": "0-2",
         "points": 0
@@ -969,6 +969,11 @@
       },
       {
         "name": "רועי שלו",
+        "guess": "4-0",
+        "points": 1.5
+      },
+      {
+        "name": "גל אטיאס",
         "guess": "4-0",
         "points": 1.5
       },
@@ -1005,11 +1010,6 @@
       {
         "name": "amit yeruham",
         "guess": "3-0",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "4-0",
         "points": 1.5
       },
       {
@@ -1050,6 +1050,11 @@
         "points": 3
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-1",
+        "points": 3
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-1",
         "points": 0
@@ -1083,11 +1088,6 @@
         "name": "amit yeruham",
         "guess": "2-1",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "1-1",
-        "points": 3
       },
       {
         "name": "תומר בר",
@@ -1127,6 +1127,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-1",
         "points": 0
@@ -1158,11 +1163,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "1-1",
         "points": 0
       },
@@ -1199,6 +1199,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 2
@@ -1225,11 +1230,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "2-0",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "2-0",
         "points": 2
       },
@@ -1271,6 +1271,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "4-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "5-0",
         "points": 0
@@ -1304,11 +1309,6 @@
         "name": "amit yeruham",
         "guess": "0-0",
         "points": 12
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "4-0",
-        "points": 0
       },
       {
         "name": "תומר בר",
@@ -1348,6 +1348,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-1",
         "points": 0
@@ -1380,11 +1385,6 @@
       {
         "name": "amit yeruham",
         "guess": "3-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
         "points": 0
       },
       {
@@ -1425,6 +1425,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-2",
         "points": 0
@@ -1451,11 +1456,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "0-2",
         "points": 0
       },
@@ -1492,6 +1492,11 @@
         "points": 4.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-1",
         "points": 0
@@ -1525,11 +1530,6 @@
         "name": "amit yeruham",
         "guess": "1-1",
         "points": 4.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "1-0",
-        "points": 0
       },
       {
         "name": "תומר בר",
@@ -1569,6 +1569,11 @@
         "points": 5.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "5-0",
         "points": 1.5
@@ -1602,11 +1607,6 @@
         "name": "amit yeruham",
         "guess": "3-1",
         "points": 5.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 1.5
       },
       {
         "name": "תומר בר",
@@ -1646,6 +1646,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-5",
         "points": 1.5
@@ -1677,11 +1682,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "0-4",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "0-4",
         "points": 1.5
       },
@@ -1723,6 +1723,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 1.5
@@ -1755,11 +1760,6 @@
       {
         "name": "amit yeruham",
         "guess": "4-1",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -1800,6 +1800,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 1.5
@@ -1833,11 +1838,6 @@
         "name": "amit yeruham",
         "guess": "3-1",
         "points": 5.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "3-0",
-        "points": 1.5
       },
       {
         "name": "תומר בר",
@@ -1877,6 +1877,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "4-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 0
@@ -1909,11 +1914,6 @@
       {
         "name": "amit yeruham",
         "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "4-0",
         "points": 0
       },
       {
@@ -1954,6 +1954,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-2",
         "points": 0
@@ -1987,11 +1992,6 @@
         "name": "amit yeruham",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -2031,6 +2031,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-1",
         "points": 0
@@ -2062,11 +2067,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "1-1",
         "points": 0
       },
@@ -2108,6 +2108,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-3",
         "points": 1.5
@@ -2140,11 +2145,6 @@
       {
         "name": "amit yeruham",
         "guess": "0-1",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -2185,6 +2185,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-2",
         "points": 0
@@ -2217,11 +2222,6 @@
       {
         "name": "amit yeruham",
         "guess": "3-0",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
         "points": 2
       },
       {
@@ -2262,6 +2262,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 2
@@ -2295,11 +2300,6 @@
         "name": "amit yeruham",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -2339,6 +2339,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-1",
         "points": 2
@@ -2372,11 +2377,6 @@
         "name": "amit yeruham",
         "guess": "2-2",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -2416,6 +2416,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "3-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 6
@@ -2448,11 +2453,6 @@
       {
         "name": "amit yeruham",
         "guess": "2-1",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "3-1",
         "points": 2
       },
       {
@@ -2493,6 +2493,11 @@
         "points": 6
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-1",
+        "points": 6
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-3",
         "points": 2
@@ -2524,11 +2529,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "0-1",
-        "points": 6
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "0-1",
         "points": 6
       },
@@ -2570,6 +2570,11 @@
         "points": 5.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "6-0",
         "points": 1.5
@@ -2592,11 +2597,6 @@
       {
         "name": "יקיר כהן",
         "guess": "4-0",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -2637,6 +2637,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-0",
         "points": 0
@@ -2658,11 +2663,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "1-1",
         "points": 0
       },
@@ -2704,6 +2704,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 2
@@ -2732,11 +2737,6 @@
         "name": "יקיר כהן",
         "guess": "2-2",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -2771,6 +2771,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "4-0",
         "points": 1.5
@@ -2798,11 +2803,6 @@
       {
         "name": "יקיר כהן",
         "guess": "4-0",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -2843,6 +2843,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-0",
         "points": 0
@@ -2875,11 +2880,6 @@
       {
         "name": "amit yeruham",
         "guess": "0-1",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-0",
         "points": 0
       },
       {
@@ -2920,6 +2920,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-2",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "0-1",
         "points": 2
@@ -2951,11 +2956,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "0-2",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "0-2",
         "points": 2
       },
@@ -2997,6 +2997,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "4-0",
         "points": 5.5
@@ -3028,11 +3033,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "2-0",
         "points": 1.5
       },
@@ -3074,6 +3074,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-0",
         "points": 0
@@ -3109,11 +3114,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
         "name": "תומר בר",
         "guess": "2-1",
         "points": 0
@@ -3143,6 +3143,11 @@
       {
         "name": "עמית לוי",
         "guess": "4-0",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -3178,11 +3183,6 @@
       {
         "name": "amit yeruham",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
         "points": 0
       },
       {
@@ -3223,6 +3223,11 @@
         "points": 6
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-1",
         "points": 0
@@ -3255,11 +3260,6 @@
       {
         "name": "amit yeruham",
         "guess": "0-2",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "0-1",
         "points": 2
       },
       {
@@ -3300,6 +3300,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-1",
         "points": 2
@@ -3333,11 +3338,6 @@
         "name": "amit yeruham",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -3377,6 +3377,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "5-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "4-0",
         "points": 1.5
@@ -3405,11 +3410,6 @@
         "name": "amit yeruham",
         "guess": "3-0",
         "points": 5.5
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "5-0",
-        "points": 1.5
       },
       {
         "name": "תומר בר",
@@ -3449,6 +3449,11 @@
         "points": 2
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 2
@@ -3480,11 +3485,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "2-1",
-        "points": 2
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "2-1",
         "points": 2
       },
@@ -3526,6 +3526,11 @@
         "points": 6
       },
       {
+        "name": "גל אטיאס",
+        "guess": "0-1",
+        "points": 2
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-1",
         "points": 0
@@ -3554,11 +3559,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "גל אטיאס",
-        "guess": "0-1",
-        "points": 2
       },
       {
         "name": "תומר בר",
@@ -3598,6 +3598,11 @@
         "points": 1.5
       },
       {
+        "name": "גל אטיאס",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "2-0",
         "points": 1.5
@@ -3629,11 +3634,6 @@
       },
       {
         "name": "amit yeruham",
-        "guess": "3-0",
-        "points": 1.5
-      },
-      {
-        "name": "גל אטיאס",
         "guess": "3-0",
         "points": 1.5
       },
@@ -3675,6 +3675,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "3-0",
         "points": 0
@@ -3710,11 +3715,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
         "name": "תומר בר",
         "guess": "2-0",
         "points": 0
@@ -3729,77 +3729,154 @@
       {
         "name": "תומר לידא",
         "guess": "1-2",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "רוזן",
         "guess": "0-3",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "Itay Mor yosef",
         "guess": "0-2",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "עמית לוי",
         "guess": "0-3",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "רועי שלו",
         "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "Guy Shmuel",
-        "guess": "0-3",
-        "points": 0
-      },
-      {
-        "name": "מרום אריש",
-        "guess": "0-4",
-        "points": 0
-      },
-      {
-        "name": "עומר שדה",
-        "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "אלון לוין",
-        "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "amit yeruham",
-        "guess": "1-2",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "גל אטיאס",
         "guess": "0-1",
-        "points": 0
+        "points": 5.5
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "מרום אריש",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-2",
+        "points": 1.5
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "1-2",
+        "points": 1.5
       },
       {
         "name": "תומר בר",
         "guess": "0-3",
-        "points": 0
+        "points": 1.5
       },
       {
         "name": "אורי חיון",
         "guess": "1-3",
+        "points": 1.5
+      }
+    ],
+    "1782266400000": [
+      {
+        "name": "תומר לידא",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "Itay Mor yosef",
+        "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "4-0",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 1.5
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "1-0",
+        "points": 5.5
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "מרום אריש",
+        "guess": "3-1",
+        "points": 1.5
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "0-0",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 1.5
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "2-2",
+        "points": 0
+      },
+      {
+        "name": "תומר בר",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "אורי חיון",
+        "guess": "2-0",
+        "points": 1.5
       }
     ],
     "1781798400000": [
@@ -3824,6 +3901,11 @@
         "points": 0
       },
       {
+        "name": "גל אטיאס",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
         "name": "Guy Shmuel",
         "guess": "1-1",
         "points": 7.5
@@ -3859,11 +3941,6 @@
         "points": 0
       },
       {
-        "name": "גל אטיאס",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "תומר בר",
         "guess": "1-0",
         "points": 0
@@ -3876,10 +3953,10 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3888,10 +3965,10 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3900,10 +3977,10 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3912,11 +3989,11 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3925,11 +4002,11 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3938,11 +4015,11 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3951,11 +4028,11 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3964,12 +4041,12 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
       "amit yeruham",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3978,13 +4055,13 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
       "יקיר כהן",
       "amit yeruham",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -3993,13 +4070,13 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
       "יקיר כהן",
       "amit yeruham",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -4008,13 +4085,13 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
       "יקיר כהן",
       "amit yeruham",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ],
@@ -4023,13 +4100,13 @@
       "רוזן",
       "עמית לוי",
       "רועי שלו",
+      "גל אטיאס",
       "מרום אריש",
       "עומר שדה",
       "ברק ברהמי",
       "אלון לוין",
       "יקיר כהן",
       "amit yeruham",
-      "גל אטיאס",
       "תומר בר",
       "אורי חיון"
     ]
