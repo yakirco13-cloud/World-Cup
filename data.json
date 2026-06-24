@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T18:21:21.937Z",
+  "updated": "2026-06-24T20:22:35.414Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -193,6 +193,14 @@
     "48": {
       "h": "1",
       "a": "0"
+    },
+    "49": {
+      "h": "2",
+      "a": "0"
+    },
+    "50": {
+      "h": "2",
+      "a": "1"
     }
   },
   "status": {
@@ -244,8 +252,8 @@
     "46": "FINISHED",
     "47": "FINISHED",
     "48": "FINISHED",
-    "49": "TIMED",
-    "50": "TIMED",
+    "49": "IN_PLAY",
+    "50": "IN_PLAY",
     "51": "TIMED",
     "52": "TIMED",
     "53": "TIMED",
@@ -297,6 +305,13 @@
       "teamHe": "גרמניה",
       "goals": 3,
       "assists": 2,
+      "penalties": 0
+    },
+    {
+      "name": "Johan Manzambi",
+      "teamHe": "שווייץ",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -391,10 +406,10 @@
       "penalties": 0
     },
     {
-      "name": "Johan Manzambi",
+      "name": "Ruben Vargas",
       "teamHe": "שווייץ",
       "goals": 2,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -472,13 +487,6 @@
       "teamHe": "דרום קוריאה",
       "goals": 1,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Hyun-Gyu Oh",
-      "teamHe": "דרום קוריאה",
-      "goals": 1,
-      "assists": 0,
       "penalties": 0
     }
   ],
