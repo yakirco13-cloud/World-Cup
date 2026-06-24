@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T00:08:18.391Z",
+  "updated": "2026-06-24T04:49:53.787Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -188,6 +188,10 @@
     },
     "47": {
       "h": "0",
+      "a": "1"
+    },
+    "48": {
+      "h": "1",
       "a": "0"
     }
   },
@@ -238,8 +242,8 @@
     "44": "FINISHED",
     "45": "FINISHED",
     "46": "FINISHED",
-    "47": "PAUSED",
-    "48": "TIMED",
+    "47": "FINISHED",
+    "48": "FINISHED",
     "49": "TIMED",
     "50": "TIMED",
     "51": "TIMED",
@@ -380,6 +384,13 @@
       "penalties": 1
     },
     {
+      "name": "Daniel Muñoz",
+      "teamHe": "קולומביה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Johan Manzambi",
       "teamHe": "שווייץ",
       "goals": 2,
@@ -466,13 +477,6 @@
     {
       "name": "Hyun-Gyu Oh",
       "teamHe": "דרום קוריאה",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Jovo Lukić",
-      "teamHe": "בוסניה והרצגובינה",
       "goals": 1,
       "assists": 0,
       "penalties": 0
