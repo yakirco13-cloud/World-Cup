@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:22:35.414Z",
+  "updated": "2026-06-24T21:58:59.081Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -196,10 +196,10 @@
     },
     "49": {
       "h": "2",
-      "a": "0"
+      "a": "1"
     },
     "50": {
-      "h": "2",
+      "h": "3",
       "a": "1"
     }
   },
@@ -252,8 +252,8 @@
     "46": "FINISHED",
     "47": "FINISHED",
     "48": "FINISHED",
-    "49": "IN_PLAY",
-    "50": "IN_PLAY",
+    "49": "FINISHED",
+    "50": "FINISHED",
     "51": "TIMED",
     "52": "TIMED",
     "53": "TIMED",
@@ -413,6 +413,13 @@
       "penalties": 0
     },
     {
+      "name": "Ermin Mahmic",
+      "teamHe": "בוסניה והרצגובינה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Matheus Cunha",
       "teamHe": "ברזיל",
       "goals": 2,
@@ -480,13 +487,6 @@
       "teamHe": "צ׳כיה",
       "goals": 1,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "In-beom Hwang",
-      "teamHe": "דרום קוריאה",
-      "goals": 1,
-      "assists": 1,
       "penalties": 0
     }
   ],
