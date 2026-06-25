@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:19:39.612Z",
+  "updated": "2026-06-25T01:35:30.082Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -8,6 +8,10 @@
     },
     "2": {
       "h": "2",
+      "a": "1"
+    },
+    "3": {
+      "h": "1",
       "a": "1"
     },
     "4": {
@@ -199,12 +203,12 @@
       "a": "1"
     },
     "51": {
-      "h": "2",
+      "h": "4",
       "a": "2"
     },
     "52": {
       "h": "0",
-      "a": "2"
+      "a": "3"
     }
   },
   "status": {
@@ -258,8 +262,8 @@
     "48": "FINISHED",
     "49": "FINISHED",
     "50": "FINISHED",
-    "51": "IN_PLAY",
-    "52": "IN_PLAY",
+    "51": "FINISHED",
+    "52": "FINISHED",
     "53": "TIMED",
     "54": "TIMED",
     "55": "TIMED",
@@ -335,6 +339,13 @@
     {
       "name": "Jonathan David",
       "teamHe": "קנדה",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Matheus Cunha",
+      "teamHe": "ברזיל",
       "goals": 3,
       "assists": 0,
       "penalties": 0
@@ -419,13 +430,6 @@
     {
       "name": "Ermin Mahmic",
       "teamHe": "בוסניה והרצגובינה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Matheus Cunha",
-      "teamHe": "ברזיל",
       "goals": 2,
       "assists": 0,
       "penalties": 0
