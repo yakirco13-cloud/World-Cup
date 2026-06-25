@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T01:35:30.082Z",
+  "updated": "2026-06-25T05:50:47.155Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -209,6 +209,14 @@
     "52": {
       "h": "0",
       "a": "3"
+    },
+    "53": {
+      "h": "1",
+      "a": "0"
+    },
+    "54": {
+      "h": "0",
+      "a": "3"
     }
   },
   "status": {
@@ -264,8 +272,8 @@
     "50": "FINISHED",
     "51": "FINISHED",
     "52": "FINISHED",
-    "53": "TIMED",
-    "54": "TIMED",
+    "53": "FINISHED",
+    "54": "FINISHED",
     "55": "TIMED",
     "56": "TIMED",
     "57": "TIMED",
@@ -347,6 +355,13 @@
       "name": "Matheus Cunha",
       "teamHe": "ברזיל",
       "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Julián Quiñones",
+      "teamHe": "מקסיקו",
+      "goals": 2,
       "assists": 0,
       "penalties": 0
     },
@@ -473,13 +488,6 @@
       "name": "Cristiano Ronaldo",
       "teamHe": "פורטוגל",
       "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Julián Quiñones",
-      "teamHe": "מקסיקו",
-      "goals": 1,
       "assists": 0,
       "penalties": 0
     },
