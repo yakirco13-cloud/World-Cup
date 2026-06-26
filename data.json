@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:01:37.057Z",
+  "updated": "2026-06-26T00:21:25.607Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -225,6 +225,14 @@
     "56": {
       "h": "2",
       "a": "1"
+    },
+    "57": {
+      "h": "1",
+      "a": "2"
+    },
+    "58": {
+      "h": "1",
+      "a": "0"
     }
   },
   "status": {
@@ -284,8 +292,8 @@
     "54": "FINISHED",
     "55": "FINISHED",
     "56": "FINISHED",
-    "57": "TIMED",
-    "58": "TIMED",
+    "57": "IN_PLAY",
+    "58": "IN_PLAY",
     "59": "TIMED",
     "60": "TIMED",
     "61": "TIMED",
@@ -362,6 +370,13 @@
     {
       "name": "Matheus Cunha",
       "teamHe": "ברזיל",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Brian Brobbey",
+      "teamHe": "הולנד",
       "goals": 3,
       "assists": 0,
       "penalties": 0
@@ -453,13 +468,6 @@
     {
       "name": "Ermin Mahmic",
       "teamHe": "בוסניה והרצגובינה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Brian Brobbey",
-      "teamHe": "הולנד",
       "goals": 2,
       "assists": 0,
       "penalties": 0
