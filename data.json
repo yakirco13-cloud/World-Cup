@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:05:57.637Z",
+  "updated": "2026-06-26T21:39:55.574Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -244,10 +244,10 @@
     },
     "61": {
       "h": "1",
-      "a": "3"
+      "a": "4"
     },
     "62": {
-      "h": "1",
+      "h": "5",
       "a": "0"
     }
   },
@@ -312,8 +312,8 @@
     "58": "FINISHED",
     "59": "FINISHED",
     "60": "FINISHED",
-    "61": "PAUSED",
-    "62": "PAUSED",
+    "61": "FINISHED",
+    "62": "FINISHED",
     "63": "TIMED",
     "64": "TIMED",
     "65": "TIMED",
@@ -402,6 +402,13 @@
       "teamHe": "הולנד",
       "goals": 3,
       "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "teamHe": "סנגל",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -521,13 +528,6 @@
       "teamHe": "ספרד",
       "goals": 2,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Ismaïla Sarr",
-      "teamHe": "סנגל",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0
     },
     {
