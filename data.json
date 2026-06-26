@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T18:02:07.936Z",
+  "updated": "2026-06-26T20:05:57.637Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -241,6 +241,14 @@
     "60": {
       "h": "0",
       "a": "0"
+    },
+    "61": {
+      "h": "1",
+      "a": "3"
+    },
+    "62": {
+      "h": "1",
+      "a": "0"
     }
   },
   "status": {
@@ -304,8 +312,8 @@
     "58": "FINISHED",
     "59": "FINISHED",
     "60": "FINISHED",
-    "61": "TIMED",
-    "62": "TIMED",
+    "61": "PAUSED",
+    "62": "PAUSED",
     "63": "TIMED",
     "64": "TIMED",
     "65": "TIMED",
@@ -337,7 +345,7 @@
       "name": "Kylian Mbappé",
       "teamHe": "צרפת",
       "goals": 4,
-      "assists": 0,
+      "assists": 2,
       "penalties": 0
     },
     {
@@ -345,6 +353,13 @@
       "teamHe": "נורבגיה",
       "goals": 4,
       "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "teamHe": "צרפת",
+      "goals": 4,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -518,13 +533,6 @@
     {
       "name": "Cristiano Ronaldo",
       "teamHe": "פורטוגל",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Nicolas Pépé",
-      "teamHe": "חוף השנהב",
       "goals": 2,
       "assists": 0,
       "penalties": 0
