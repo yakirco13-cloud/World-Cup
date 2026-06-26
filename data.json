@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:21:25.607Z",
+  "updated": "2026-06-26T04:54:21.465Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -228,10 +228,18 @@
     },
     "57": {
       "h": "1",
-      "a": "2"
+      "a": "3"
     },
     "58": {
       "h": "1",
+      "a": "1"
+    },
+    "59": {
+      "h": "3",
+      "a": "2"
+    },
+    "60": {
+      "h": "0",
       "a": "0"
     }
   },
@@ -292,10 +300,10 @@
     "54": "FINISHED",
     "55": "FINISHED",
     "56": "FINISHED",
-    "57": "IN_PLAY",
-    "58": "IN_PLAY",
-    "59": "TIMED",
-    "60": "TIMED",
+    "57": "FINISHED",
+    "58": "FINISHED",
+    "59": "FINISHED",
+    "60": "FINISHED",
     "61": "TIMED",
     "62": "TIMED",
     "63": "TIMED",
@@ -480,6 +488,13 @@
       "penalties": 0
     },
     {
+      "name": "Anthony Elanga",
+      "teamHe": "שוודיה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Ayase Ueda",
       "teamHe": "יפן",
       "goals": 2,
@@ -511,13 +526,6 @@
       "name": "Nicolas Pépé",
       "teamHe": "חוף השנהב",
       "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Raúl Jiménez",
-      "teamHe": "מקסיקו",
-      "goals": 1,
       "assists": 0,
       "penalties": 0
     }
