@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:42:05.730Z",
+  "updated": "2026-06-27T23:15:11.191Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -268,11 +268,11 @@
     },
     "67": {
       "h": "0",
-      "a": "0"
+      "a": "2"
     },
     "68": {
-      "h": "1",
-      "a": "0"
+      "h": "2",
+      "a": "1"
     }
   },
   "status": {
@@ -342,8 +342,8 @@
     "64": "FINISHED",
     "65": "FINISHED",
     "66": "FINISHED",
-    "67": "IN_PLAY",
-    "68": "LIVE",
+    "67": "FINISHED",
+    "68": "FINISHED",
     "69": "TIMED",
     "70": "TIMED",
     "71": "TIMED",
@@ -406,6 +406,13 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0
+    },
+    {
+      "name": "Harry Kane",
+      "teamHe": "אנגליה",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1
     },
     {
       "name": "Johan Manzambi",
@@ -506,11 +513,11 @@
       "penalties": 0
     },
     {
-      "name": "Harry Kane",
+      "name": "Jude Bellingham",
       "teamHe": "אנגליה",
       "goals": 2,
-      "assists": 0,
-      "penalties": 1
+      "assists": 1,
+      "penalties": 0
     },
     {
       "name": "Daniel Muñoz",
@@ -550,13 +557,6 @@
     {
       "name": "Ayase Ueda",
       "teamHe": "יפן",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Mikel Oyarzabal",
-      "teamHe": "ספרד",
       "goals": 2,
       "assists": 1,
       "penalties": 0
