@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:31:40.442Z",
+  "updated": "2026-06-27T05:36:31.566Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -257,6 +257,14 @@
     "64": {
       "h": "0",
       "a": "1"
+    },
+    "65": {
+      "h": "1",
+      "a": "5"
+    },
+    "66": {
+      "h": "1",
+      "a": "1"
     }
   },
   "status": {
@@ -322,10 +330,10 @@
     "60": "FINISHED",
     "61": "FINISHED",
     "62": "FINISHED",
-    "63": "IN_PLAY",
-    "64": "IN_PLAY",
-    "65": "TIMED",
-    "66": "TIMED",
+    "63": "FINISHED",
+    "64": "FINISHED",
+    "65": "FINISHED",
+    "66": "FINISHED",
     "67": "TIMED",
     "68": "TIMED",
     "69": "TIMED",
@@ -382,6 +390,13 @@
       "teamHe": "גרמניה",
       "goals": 3,
       "assists": 2,
+      "penalties": 0
+    },
+    {
+      "name": "Elijah Just",
+      "teamHe": "ניו זילנד",
+      "goals": 3,
+      "assists": 0,
       "penalties": 0
     },
     {
@@ -476,10 +491,10 @@
       "penalties": 0
     },
     {
-      "name": "Elijah Just",
-      "teamHe": "ניו זילנד",
+      "name": "Ramin Rezaeian",
+      "teamHe": "איראן",
       "goals": 2,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0
     },
     {
@@ -536,13 +551,6 @@
       "teamHe": "ספרד",
       "goals": 2,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Cristiano Ronaldo",
-      "teamHe": "פורטוגל",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0
     }
   ],
