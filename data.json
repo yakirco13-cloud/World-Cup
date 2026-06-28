@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T01:37:37.657Z",
+  "updated": "2026-06-28T06:36:11.913Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -281,6 +281,14 @@
     "70": {
       "h": "3",
       "a": "1"
+    },
+    "71": {
+      "h": "3",
+      "a": "3"
+    },
+    "72": {
+      "h": "1",
+      "a": "3"
     }
   },
   "status": {
@@ -354,15 +362,15 @@
     "68": "FINISHED",
     "69": "FINISHED",
     "70": "FINISHED",
-    "71": "TIMED",
-    "72": "TIMED"
+    "71": "FINISHED",
+    "72": "FINISHED"
   },
   "forms": {},
   "scorers": [
     {
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
-      "goals": 5,
+      "goals": 6,
       "assists": 0,
       "penalties": 0
     },
@@ -528,6 +536,13 @@
       "penalties": 0
     },
     {
+      "name": "Marko Arnautovic",
+      "teamHe": "אוסטריה",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
       "name": "Jude Bellingham",
       "teamHe": "אנגליה",
       "goals": 2,
@@ -560,13 +575,6 @@
       "teamHe": "הולנד",
       "goals": 2,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Anthony Elanga",
-      "teamHe": "שוודיה",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0
     }
   ],
