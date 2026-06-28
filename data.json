@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T23:15:11.191Z",
+  "updated": "2026-06-28T01:37:37.657Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -273,6 +273,14 @@
     "68": {
       "h": "2",
       "a": "1"
+    },
+    "69": {
+      "h": "0",
+      "a": "0"
+    },
+    "70": {
+      "h": "3",
+      "a": "1"
     }
   },
   "status": {
@@ -344,8 +352,8 @@
     "66": "FINISHED",
     "67": "FINISHED",
     "68": "FINISHED",
-    "69": "TIMED",
-    "70": "TIMED",
+    "69": "FINISHED",
+    "70": "FINISHED",
     "71": "TIMED",
     "72": "TIMED"
   },
@@ -406,6 +414,13 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0
+    },
+    {
+      "name": "Yoane Wissa",
+      "teamHe": "הרפובליקה הדמוקרטית של קונגו",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1
     },
     {
       "name": "Harry Kane",
@@ -552,13 +567,6 @@
       "teamHe": "שוודיה",
       "goals": 2,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Ayase Ueda",
-      "teamHe": "יפן",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0
     }
   ],
