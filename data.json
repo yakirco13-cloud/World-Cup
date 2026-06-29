@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:30:10.033Z",
+  "updated": "2026-06-29T21:57:46.263Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -410,6 +410,13 @@
       "penalties": 0
     },
     {
+      "name": "Kai Havertz",
+      "teamHe": "גרמניה",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
       "name": "Deniz Undav",
       "teamHe": "גרמניה",
       "goals": 3,
@@ -492,13 +499,6 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0
-    },
-    {
-      "name": "Kai Havertz",
-      "teamHe": "גרמניה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1
     },
     {
       "name": "Crysencio Summerville",
