@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:17:59.807Z",
+  "updated": "2026-06-30T22:54:13.405Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -368,6 +368,13 @@
   "forms": {},
   "scorers": [
     {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 6,
+      "assists": 2,
+      "penalties": 0
+    },
+    {
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 6,
@@ -389,17 +396,10 @@
       "penalties": 0
     },
     {
-      "name": "Kylian Mbappé",
-      "teamHe": "צרפת",
-      "goals": 4,
-      "assists": 2,
-      "penalties": 0
-    },
-    {
       "name": "Ousmane Dembélé",
       "teamHe": "צרפת",
       "goals": 4,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0
     },
     {
@@ -550,6 +550,13 @@
       "penalties": 0
     },
     {
+      "name": "Bradley Barcola",
+      "teamHe": "צרפת",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Marko Arnautovic",
       "teamHe": "אוסטריה",
       "goals": 2,
@@ -568,13 +575,6 @@
       "teamHe": "קולומביה",
       "goals": 2,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Ruben Vargas",
-      "teamHe": "שווייץ",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0
     }
   ],
