@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T01:34:23.066Z",
+  "updated": "2026-06-30T05:54:29.082Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -473,6 +473,13 @@
       "penalties": 0
     },
     {
+      "name": "Cody Gakpo",
+      "teamHe": "הולנד",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Ismaïla Sarr",
       "teamHe": "סנגל",
       "goals": 3,
@@ -504,7 +511,7 @@
       "name": "Crysencio Summerville",
       "teamHe": "הולנד",
       "goals": 2,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0
     },
     {
@@ -568,13 +575,6 @@
       "teamHe": "בוסניה והרצגובינה",
       "goals": 2,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Cody Gakpo",
-      "teamHe": "הולנד",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0
     }
   ],
