@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:22:48.040Z",
+  "updated": "2026-06-30T21:17:26.040Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -8,8 +8,8 @@
       "points": 170,
       "exact": 12,
       "direction": 38,
-      "misses": 26,
-      "guessed": 76,
+      "misses": 27,
+      "guessed": 77,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -21,9 +21,9 @@
         "guess": "1-2",
         "result": "1-2"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 3.2,
-      "riskCount": 76,
+      "riskCount": 77,
       "rank": 1
     },
     {
@@ -31,8 +31,8 @@
       "points": 152.5,
       "exact": 10,
       "direction": 37,
-      "misses": 29,
-      "guessed": 76,
+      "misses": 30,
+      "guessed": 77,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -44,9 +44,9 @@
         "guess": "2-1",
         "result": "2-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 76,
+      "riskCount": 77,
       "rank": 2
     },
     {
@@ -54,8 +54,8 @@
       "points": 147.5,
       "exact": 9,
       "direction": 39,
-      "misses": 29,
-      "guessed": 77,
+      "misses": 30,
+      "guessed": 78,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -67,9 +67,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 2.8,
-      "riskCount": 77,
+      "riskCount": 78,
       "rank": 3
     },
     {
@@ -77,8 +77,8 @@
       "points": 146.5,
       "exact": 10,
       "direction": 34,
-      "misses": 33,
-      "guessed": 77,
+      "misses": 34,
+      "guessed": 78,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -90,9 +90,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
-      "riskAvg": 2.9,
-      "riskCount": 77,
+      "momentum": 0,
+      "riskAvg": 2.8,
+      "riskCount": 78,
       "rank": 4
     },
     {
@@ -100,8 +100,8 @@
       "points": 140,
       "exact": 10,
       "direction": 33,
-      "misses": 29,
-      "guessed": 72,
+      "misses": 30,
+      "guessed": 73,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -115,7 +115,7 @@
       },
       "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 72,
+      "riskCount": 73,
       "rank": 5
     },
     {
@@ -123,8 +123,8 @@
       "points": 139.5,
       "exact": 8,
       "direction": 36,
-      "misses": 31,
-      "guessed": 75,
+      "misses": 32,
+      "guessed": 76,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -136,9 +136,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 3,
-      "riskCount": 75,
+      "riskCount": 76,
       "rank": 6
     },
     {
@@ -146,8 +146,8 @@
       "points": 138.5,
       "exact": 9,
       "direction": 36,
-      "misses": 32,
-      "guessed": 77,
+      "misses": 33,
+      "guessed": 78,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -159,9 +159,9 @@
         "guess": "1-2",
         "result": "1-2"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 77,
+      "riskCount": 78,
       "rank": 7
     },
     {
@@ -169,8 +169,8 @@
       "points": 136,
       "exact": 9,
       "direction": 36,
-      "misses": 26,
-      "guessed": 71,
+      "misses": 27,
+      "guessed": 72,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -182,9 +182,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 2.8,
-      "riskCount": 71,
+      "riskCount": 72,
       "rank": 8
     },
     {
@@ -192,8 +192,8 @@
       "points": 135.5,
       "exact": 7,
       "direction": 31,
-      "misses": 39,
-      "guessed": 77,
+      "misses": 40,
+      "guessed": 78,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -205,9 +205,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 3.5,
-      "riskCount": 77,
+      "riskCount": 78,
       "rank": 9
     },
     {
@@ -215,8 +215,8 @@
       "points": 133,
       "exact": 10,
       "direction": 34,
-      "misses": 29,
-      "guessed": 73,
+      "misses": 30,
+      "guessed": 74,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": 0,
@@ -228,9 +228,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 3,
-      "riskCount": 73,
+      "riskCount": 74,
       "rank": 10
     },
     {
@@ -238,8 +238,8 @@
       "points": 132.5,
       "exact": 5,
       "direction": 42,
-      "misses": 30,
-      "guessed": 77,
+      "misses": 31,
+      "guessed": 78,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -251,9 +251,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 77,
+      "riskCount": 78,
       "rank": 11
     },
     {
@@ -261,8 +261,8 @@
       "points": 117,
       "exact": 6,
       "direction": 33,
-      "misses": 38,
-      "guessed": 77,
+      "misses": 39,
+      "guessed": 78,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -274,9 +274,9 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 0,
       "riskAvg": 3.2,
-      "riskCount": 77,
+      "riskCount": 78,
       "rank": 12
     },
     {
@@ -284,8 +284,8 @@
       "points": 113.5,
       "exact": 8,
       "direction": 23,
-      "misses": 36,
-      "guessed": 67,
+      "misses": 37,
+      "guessed": 68,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -299,7 +299,7 @@
       },
       "momentum": 0,
       "riskAvg": 3.1,
-      "riskCount": 67,
+      "riskCount": 68,
       "rank": 13
     },
     {
@@ -307,8 +307,8 @@
       "points": 113,
       "exact": 4,
       "direction": 37,
-      "misses": 33,
-      "guessed": 74,
+      "misses": 34,
+      "guessed": 75,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -321,8 +321,8 @@
         "result": "1-1"
       },
       "momentum": 0,
-      "riskAvg": 2.9,
-      "riskCount": 74,
+      "riskAvg": 2.8,
+      "riskCount": 75,
       "rank": 14
     },
     {
@@ -330,8 +330,8 @@
       "points": 99.5,
       "exact": 3,
       "direction": 37,
-      "misses": 28,
-      "guessed": 68,
+      "misses": 29,
+      "guessed": 69,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -343,9 +343,9 @@
         "guess": "4-2",
         "result": "4-2"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 68,
+      "riskCount": 69,
       "rank": 15
     }
   ],
@@ -5983,6 +5983,83 @@
         "points": 0
       }
     ],
+    "1782853200000": [
+      {
+        "name": "תומר לידא",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "4-1",
+        "points": 0
+      },
+      {
+        "name": "תומר בר",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "4-0",
+        "points": 0
+      },
+      {
+        "name": "Itay Mor yosef",
+        "guess": "4-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "מרום אריש",
+        "guess": "4-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "אורי חיון",
+        "guess": "3-0",
+        "points": 0
+      }
+    ],
     "1781798400000": [
       {
         "name": "רוזן",
@@ -6056,7 +6133,6 @@
       "רוזן",
       "תומר בר",
       "ברק ברהמי",
-      "מרום אריש",
       "אלון לוין",
       "אורי חיון"
     ],
@@ -6065,7 +6141,6 @@
       "עמית לוי",
       "תומר בר",
       "ברק ברהמי",
-      "מרום אריש",
       "אלון לוין",
       "אורי חיון"
     ],
@@ -6075,10 +6150,6 @@
       "תומר בר",
       "ברק ברהמי",
       "אלון לוין",
-      "אורי חיון"
-    ],
-    "1782867600000": [
-      "תומר בר",
       "אורי חיון"
     ],
     "1783033200000": [
@@ -6094,7 +6165,6 @@
       "עמית לוי",
       "תומר בר",
       "ברק ברהמי",
-      "מרום אריש",
       "אלון לוין",
       "אורי חיון"
     ],
@@ -6107,16 +6177,13 @@
     "1782936000000": [
       "תומר בר",
       "ברק ברהמי",
-      "מרום אריש",
       "אלון לוין",
       "אורי חיון"
     ],
     "1783018800000": [
       "רוזן",
       "תומר בר",
-      "עומר שדה",
       "ברק ברהמי",
-      "מרום אריש",
       "אלון לוין",
       "אורי חיון"
     ],
@@ -6126,12 +6193,28 @@
       "תומר בר",
       "עומר שדה",
       "ברק ברהמי",
-      "מרום אריש",
       "amit yeruham",
       "אלון לוין",
       "אורי חיון"
     ],
     "1783191600000": [
+      "תומר לידא",
+      "רוזן",
+      "גל אטיאס",
+      "עמית לוי",
+      "תומר בר",
+      "עומר שדה",
+      "Guy Shmuel",
+      "ברק ברהמי",
+      "Itay Mor yosef",
+      "רועי שלו",
+      "מרום אריש",
+      "יקיר כהן",
+      "amit yeruham",
+      "אלון לוין",
+      "אורי חיון"
+    ],
+    "1783281600000": [
       "תומר לידא",
       "רוזן",
       "גל אטיאס",
