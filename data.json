@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:11:00.446Z",
+  "updated": "2026-07-01T22:50:43.186Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -410,6 +410,13 @@
       "penalties": 0
     },
     {
+      "name": "Ismaïla Sarr",
+      "teamHe": "סנגל",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Julián Quiñones",
       "teamHe": "מקסיקו",
       "goals": 3,
@@ -482,13 +489,6 @@
     {
       "name": "Cody Gakpo",
       "teamHe": "הולנד",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Ismaïla Sarr",
-      "teamHe": "סנגל",
       "goals": 3,
       "assists": 1,
       "penalties": 0
