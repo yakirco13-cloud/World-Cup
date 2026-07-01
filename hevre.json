@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-01T17:31:17.743Z",
+  "updated": "2026-07-01T19:20:33.386Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "תומר לידא",
-      "points": 177,
+      "points": 186,
       "exact": 12,
-      "direction": 40,
-      "misses": 27,
+      "direction": 41,
+      "misses": 26,
       "guessed": 79,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
-      "pointsFromScorer": 6,
+      "pointsFromScorer": 12,
       "bestBet": {
         "points": 10,
         "home": "חוף השנהב",
@@ -21,17 +21,17 @@
         "guess": "1-2",
         "result": "1-2"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 3.1,
       "riskCount": 79,
       "rank": 1
     },
     {
       "name": "רוזן",
-      "points": 161.5,
+      "points": 164.5,
       "exact": 10,
-      "direction": 38,
-      "misses": 31,
+      "direction": 39,
+      "misses": 30,
       "guessed": 79,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
@@ -44,17 +44,17 @@
         "guess": "2-1",
         "result": "2-1"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 2.9,
       "riskCount": 79,
       "rank": 2
     },
     {
       "name": "גל אטיאס",
-      "points": 160.5,
+      "points": 163.5,
       "exact": 9,
-      "direction": 41,
-      "misses": 30,
+      "direction": 42,
+      "misses": 29,
       "guessed": 80,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
@@ -67,17 +67,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 2.8,
       "riskCount": 80,
       "rank": 3
     },
     {
       "name": "עמית לוי",
-      "points": 159.5,
+      "points": 162.5,
       "exact": 10,
-      "direction": 36,
-      "misses": 34,
+      "direction": 37,
+      "misses": 33,
       "guessed": 80,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
@@ -90,22 +90,22 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 2.8,
       "riskCount": 80,
       "rank": 4
     },
     {
       "name": "תומר בר",
-      "points": 153,
+      "points": 162,
       "exact": 11,
-      "direction": 34,
-      "misses": 30,
+      "direction": 35,
+      "misses": 29,
       "guessed": 75,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
-      "pointsFromScorer": 6,
+      "pointsFromScorer": 12,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -113,17 +113,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 3,
       "riskAvg": 2.9,
       "riskCount": 75,
       "rank": 5
     },
     {
       "name": "עומר שדה",
-      "points": 152.5,
+      "points": 155.5,
       "exact": 8,
-      "direction": 38,
-      "misses": 32,
+      "direction": 39,
+      "misses": 31,
       "guessed": 78,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
@@ -136,17 +136,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 2.9,
       "riskCount": 78,
       "rank": 6
     },
     {
       "name": "ברק ברהמי",
-      "points": 149,
+      "points": 152,
       "exact": 9,
-      "direction": 38,
-      "misses": 27,
+      "direction": 39,
+      "misses": 26,
       "guessed": 74,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
@@ -159,17 +159,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 2.8,
       "riskCount": 74,
       "rank": 7
     },
     {
       "name": "Guy Shmuel",
-      "points": 147.5,
+      "points": 150.5,
       "exact": 9,
-      "direction": 37,
-      "misses": 34,
+      "direction": 38,
+      "misses": 33,
       "guessed": 80,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
@@ -182,17 +182,17 @@
         "guess": "1-2",
         "result": "1-2"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 2.9,
       "riskCount": 80,
       "rank": 8
     },
     {
       "name": "מרום אריש",
-      "points": 145.5,
+      "points": 148.5,
       "exact": 5,
-      "direction": 44,
-      "misses": 31,
+      "direction": 45,
+      "misses": 30,
       "guessed": 80,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
@@ -205,17 +205,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 5,
       "riskAvg": 2.9,
       "riskCount": 80,
       "rank": 9
     },
     {
       "name": "Itay Mor yosef",
-      "points": 144.5,
+      "points": 147.5,
       "exact": 7,
-      "direction": 32,
-      "misses": 41,
+      "direction": 33,
+      "misses": 40,
       "guessed": 80,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
@@ -228,17 +228,17 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 3.5,
       "riskCount": 80,
       "rank": 10
     },
     {
       "name": "רועי שלו",
-      "points": 136,
+      "points": 139,
       "exact": 10,
-      "direction": 35,
-      "misses": 31,
+      "direction": 36,
+      "misses": 30,
       "guessed": 76,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
@@ -251,22 +251,22 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 3,
       "riskCount": 76,
       "rank": 11
     },
     {
       "name": "amit yeruham",
-      "points": 126.5,
+      "points": 135.5,
       "exact": 9,
-      "direction": 24,
-      "misses": 37,
+      "direction": 25,
+      "misses": 36,
       "guessed": 70,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
-      "pointsFromScorer": 6,
+      "pointsFromScorer": 12,
       "bestBet": {
         "points": 12,
         "home": "ספרד",
@@ -274,30 +274,30 @@
         "guess": "0-0",
         "result": "0-0"
       },
-      "momentum": 0,
+      "momentum": 3,
       "riskAvg": 3.1,
       "riskCount": 70,
       "rank": 12
     },
     {
       "name": "אלון לוין",
-      "points": 126,
-      "exact": 4,
+      "points": 135,
+      "exact": 5,
       "direction": 39,
-      "misses": 34,
+      "misses": 33,
       "guessed": 77,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
       "pointsFromScorer": 14,
       "bestBet": {
-        "points": 8,
-        "home": "ברזיל",
-        "away": "מרוקו",
-        "guess": "1-1",
-        "result": "1-1"
+        "points": 9,
+        "home": "אנגליה",
+        "away": "קונגו הדמוקרטית",
+        "guess": "2-1",
+        "result": "2-1"
       },
-      "momentum": 0,
+      "momentum": 3,
       "riskAvg": 2.8,
       "riskCount": 77,
       "rank": 13
@@ -327,10 +327,10 @@
     },
     {
       "name": "אורי חיון",
-      "points": 114.5,
-      "exact": 4,
+      "points": 123.5,
+      "exact": 5,
       "direction": 37,
-      "misses": 30,
+      "misses": 29,
       "guessed": 71,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
@@ -343,7 +343,7 @@
         "guess": "3-0",
         "result": "3-0"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 2.9,
       "riskCount": 71,
       "rank": 15
@@ -412,13 +412,13 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-1",
+        "name": "אלון לוין",
+        "guess": "3-0",
         "points": 2
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-0",
+        "name": "יקיר כהן",
+        "guess": "2-1",
         "points": 2
       },
       {
@@ -489,13 +489,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-3",
+        "name": "אלון לוין",
+        "guess": "0-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-0",
+        "name": "יקיר כהן",
+        "guess": "1-3",
         "points": 0
       },
       {
@@ -566,14 +566,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 7
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -643,14 +643,14 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 2
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
+        "points": 2
       },
       {
         "name": "אורי חיון",
@@ -720,13 +720,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-3",
+        "name": "אלון לוין",
+        "guess": "0-2",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-2",
+        "name": "יקיר כהן",
+        "guess": "0-3",
         "points": 0
       },
       {
@@ -797,14 +797,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-2",
-        "points": 4
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 8
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-2",
+        "points": 4
       }
     ],
     "1781398800000": [
@@ -869,13 +869,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-4",
+        "name": "אלון לוין",
+        "guess": "0-2",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-2",
+        "name": "יקיר כהן",
+        "guess": "1-4",
         "points": 1.5
       }
     ],
@@ -936,13 +936,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-3",
+        "name": "אלון לוין",
+        "guess": "0-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-0",
+        "name": "יקיר כהן",
+        "guess": "1-3",
         "points": 0
       }
     ],
@@ -1008,13 +1008,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "5-1",
+        "name": "אלון לוין",
+        "guess": "4-0",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "4-0",
+        "name": "יקיר כהן",
+        "guess": "5-1",
         "points": 1.5
       },
       {
@@ -1085,14 +1085,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 3
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-2",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -1162,14 +1162,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
-        "points": 3.5
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-0",
         "points": 7.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
+        "points": 3.5
       },
       {
         "name": "אורי חיון",
@@ -1229,13 +1229,13 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
+        "name": "אלון לוין",
+        "guess": "3-0",
         "points": 2
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-0",
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 2
       },
       {
@@ -1306,13 +1306,13 @@
         "points": 12
       },
       {
-        "name": "יקיר כהן",
-        "guess": "5-0",
+        "name": "אלון לוין",
+        "guess": "4-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "4-1",
+        "name": "יקיר כהן",
+        "guess": "5-0",
         "points": 0
       },
       {
@@ -1383,14 +1383,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 8
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
+        "points": 8
       },
       {
         "name": "אורי חיון",
@@ -1527,12 +1527,12 @@
         "points": 4.5
       },
       {
-        "name": "יקיר כהן",
+        "name": "אלון לוין",
         "guess": "1-1",
         "points": 4.5
       },
       {
-        "name": "אלון לוין",
+        "name": "יקיר כהן",
         "guess": "1-1",
         "points": 4.5
       },
@@ -1604,14 +1604,14 @@
         "points": 5.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "3-1",
-        "points": 5.5
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "3-1",
+        "points": 5.5
       },
       {
         "name": "אורי חיון",
@@ -1681,13 +1681,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-2",
+        "name": "אלון לוין",
+        "guess": "0-3",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-3",
+        "name": "יקיר כהן",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -1758,13 +1758,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
+        "name": "אלון לוין",
+        "guess": "2-1",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
+        "name": "יקיר כהן",
+        "guess": "1-0",
         "points": 1.5
       },
       {
@@ -1835,13 +1835,13 @@
         "points": 5.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
+        "name": "אלון לוין",
+        "guess": "2-1",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
+        "name": "יקיר כהן",
+        "guess": "1-0",
         "points": 1.5
       },
       {
@@ -1912,13 +1912,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "3-0",
+        "name": "אלון לוין",
+        "guess": "2-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
+        "name": "יקיר כהן",
+        "guess": "3-0",
         "points": 0
       },
       {
@@ -1989,14 +1989,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-0",
         "points": 2
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -2066,13 +2066,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-0",
+        "name": "אלון לוין",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "1-1",
+        "name": "יקיר כהן",
+        "guess": "0-0",
         "points": 0
       },
       {
@@ -2143,13 +2143,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-2",
+        "name": "אלון לוין",
+        "guess": "0-4",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-4",
+        "name": "יקיר כהן",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -2220,14 +2220,14 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "3-1",
-        "points": 2
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "3-1",
+        "points": 2
       },
       {
         "name": "אורי חיון",
@@ -2297,13 +2297,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-0",
+        "name": "אלון לוין",
+        "guess": "1-2",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "1-2",
+        "name": "יקיר כהן",
+        "guess": "0-0",
         "points": 0
       },
       {
@@ -2374,13 +2374,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
+        "name": "אלון לוין",
+        "guess": "2-2",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-2",
+        "name": "יקיר כהן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -2451,12 +2451,12 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
+        "name": "אלון לוין",
         "guess": "2-1",
         "points": 2
       },
       {
-        "name": "אלון לוין",
+        "name": "יקיר כהן",
         "guess": "2-1",
         "points": 2
       },
@@ -2528,13 +2528,13 @@
         "points": 6
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
+        "name": "אלון לוין",
+        "guess": "0-2",
         "points": 2
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-2",
+        "name": "יקיר כהן",
+        "guess": "1-2",
         "points": 2
       },
       {
@@ -2734,14 +2734,14 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-2",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 2
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-2",
+        "points": 0
       }
     ],
     "1781985600000": [
@@ -2801,13 +2801,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "4-0",
+        "name": "אלון לוין",
+        "guess": "4-1",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "4-1",
+        "name": "יקיר כהן",
+        "guess": "4-0",
         "points": 1.5
       },
       {
@@ -2878,13 +2878,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
+        "name": "אלון לוין",
+        "guess": "3-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-0",
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 0
       },
       {
@@ -2955,13 +2955,13 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-2",
+        "name": "אלון לוין",
+        "guess": "1-3",
         "points": 2
       },
       {
-        "name": "אלון לוין",
-        "guess": "1-3",
+        "name": "יקיר כהן",
+        "guess": "0-2",
         "points": 2
       },
       {
@@ -3032,13 +3032,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "4-1",
+        "name": "אלון לוין",
+        "guess": "2-1",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
+        "name": "יקיר כהן",
+        "guess": "4-1",
         "points": 1.5
       },
       {
@@ -3109,13 +3109,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
+        "name": "אלון לוין",
+        "guess": "2-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
+        "name": "יקיר כהן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -3181,13 +3181,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
+        "name": "אלון לוין",
+        "guess": "2-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-0",
+        "name": "יקיר כהן",
+        "guess": "1-0",
         "points": 0
       },
       {
@@ -3258,13 +3258,13 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-1",
+        "name": "אלון לוין",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "1-1",
+        "name": "יקיר כהן",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -3335,12 +3335,12 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
+        "name": "אלון לוין",
         "guess": "3-1",
         "points": 2
       },
       {
-        "name": "אלון לוין",
+        "name": "יקיר כהן",
         "guess": "3-1",
         "points": 2
       },
@@ -3407,13 +3407,13 @@
         "points": 5.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "6-0",
+        "name": "אלון לוין",
+        "guess": "5-0",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "5-0",
+        "name": "יקיר כהן",
+        "guess": "6-0",
         "points": 1.5
       },
       {
@@ -3484,13 +3484,13 @@
         "points": 2
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-1",
+        "name": "אלון לוין",
+        "guess": "2-2",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-2",
+        "name": "יקיר כהן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -3556,12 +3556,12 @@
         "points": 6
       },
       {
-        "name": "יקיר כהן",
+        "name": "אלון לוין",
         "guess": "1-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
+        "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
       },
@@ -3633,14 +3633,14 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "5-0",
-        "points": 5.5
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-0",
         "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "5-0",
+        "points": 5.5
       },
       {
         "name": "אורי חיון",
@@ -3710,13 +3710,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "3-0",
+        "name": "אלון לוין",
+        "guess": "3-1",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-1",
+        "name": "יקיר כהן",
+        "guess": "3-0",
         "points": 0
       },
       {
@@ -3787,13 +3787,13 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
+        "name": "אלון לוין",
+        "guess": "0-2",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "0-2",
+        "name": "יקיר כהן",
+        "guess": "1-2",
         "points": 1.5
       },
       {
@@ -3864,13 +3864,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
+        "name": "אלון לוין",
+        "guess": "3-0",
         "points": 1.5
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-0",
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -3991,16 +3991,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-2",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "0-0",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-2",
         "points": 0
@@ -4009,6 +3999,16 @@
         "name": "אלון לוין",
         "guess": "3-0",
         "points": 2
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-2",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-0",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -4133,16 +4133,6 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-1",
-        "points": 1.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
         "name": "אלון לוין",
         "guess": "0-2",
         "points": 1.5
@@ -4150,6 +4140,16 @@
       {
         "name": "אלון לוין",
         "guess": "3-1",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-1",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -4275,16 +4275,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-2",
         "points": 2.5
@@ -4292,6 +4282,16 @@
       {
         "name": "אלון לוין",
         "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -4427,16 +4427,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-2",
-        "points": 5.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 0
@@ -4444,6 +4434,16 @@
       {
         "name": "אלון לוין",
         "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-2",
+        "points": 5.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -4579,16 +4579,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-5",
-        "points": 1.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "0-3",
         "points": 1.5
@@ -4597,6 +4587,16 @@
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 7
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-5",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-1",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -4721,22 +4721,22 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "0-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-2",
         "points": 0
       },
       {
         "name": "אלון לוין",
+        "guess": "0-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
         "guess": "0-1",
         "points": 0
       },
@@ -4868,16 +4868,6 @@
         "points": 1.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-3",
-        "points": 2
-      },
-      {
         "name": "אלון לוין",
         "guess": "3-0",
         "points": 1.5
@@ -4885,6 +4875,16 @@
       {
         "name": "אלון לוין",
         "guess": "2-4",
+        "points": 2
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-3",
         "points": 2
       },
       {
@@ -5020,16 +5020,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "2-2",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 3.5
@@ -5037,6 +5027,16 @@
       {
         "name": "אלון לוין",
         "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-2",
         "points": 0
       },
       {
@@ -5167,16 +5167,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 7
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 0
@@ -5184,6 +5174,16 @@
       {
         "name": "אלון לוין",
         "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
+        "points": 7
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
         "points": 0
       },
       {
@@ -5309,16 +5309,6 @@
         "points": 2.5
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 2.5
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 3.5
@@ -5326,6 +5316,16 @@
       {
         "name": "אלון לוין",
         "guess": "2-1",
+        "points": 2.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
         "points": 2.5
       }
     ],
@@ -5441,16 +5441,6 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "0-4",
         "points": 1.5
@@ -5459,6 +5449,16 @@
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 3.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-0",
+        "points": 0
       }
     ],
     "1782594000000": [
@@ -5583,22 +5583,22 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-2",
-        "points": 5.5
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-3",
         "points": 1.5
       },
       {
         "name": "אלון לוין",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-2",
+        "points": 5.5
+      },
+      {
+        "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
       },
@@ -5670,14 +5670,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 4
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-2",
+        "points": 4
       },
       {
         "name": "אורי חיון",
@@ -5742,14 +5742,14 @@
         "points": 10
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "3-2",
         "points": 4
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-2",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -5819,14 +5819,14 @@
         "points": 12
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-2",
-        "points": 6
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-2",
+        "points": 6
       },
       {
         "name": "אורי חיון",
@@ -5891,14 +5891,14 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "1-3",
-        "points": 4
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-3",
+        "points": 4
       },
       {
         "name": "אורי חיון",
@@ -5968,13 +5968,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "3-1",
+        "name": "אלון לוין",
+        "guess": "2-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-0",
+        "name": "יקיר כהן",
+        "guess": "3-1",
         "points": 0
       },
       {
@@ -6045,13 +6045,13 @@
         "points": 3
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
+        "name": "אלון לוין",
+        "guess": "3-1",
         "points": 3
       },
       {
-        "name": "אלון לוין",
-        "guess": "3-1",
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 3
       },
       {
@@ -6122,14 +6122,14 @@
         "points": 10
       },
       {
-        "name": "יקיר כהן",
-        "guess": "0-1",
-        "points": 0
-      },
-      {
         "name": "אלון לוין",
         "guess": "2-1",
         "points": 4
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-1",
+        "points": 0
       },
       {
         "name": "אורי חיון",
@@ -6141,62 +6141,67 @@
       {
         "name": "תומר לידא",
         "guess": "2-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "רוזן",
         "guess": "3-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "גל אטיאס",
         "guess": "2-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "עמית לוי",
         "guess": "4-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "תומר בר",
         "guess": "3-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "עומר שדה",
         "guess": "3-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "ברק ברהמי",
         "guess": "4-1",
-        "points": 0
+        "points": 3
       },
       {
         "name": "Guy Shmuel",
         "guess": "2-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "מרום אריש",
         "guess": "2-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "Itay Mor yosef",
         "guess": "2-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "רועי שלו",
         "guess": "3-0",
-        "points": 0
+        "points": 3
       },
       {
         "name": "amit yeruham",
         "guess": "3-0",
-        "points": 0
+        "points": 3
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "2-1",
+        "points": 9
       },
       {
         "name": "יקיר כהן",
@@ -6204,14 +6209,9 @@
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
         "name": "אורי חיון",
         "guess": "2-1",
-        "points": 0
+        "points": 9
       }
     ],
     "1781798400000": [
@@ -6271,13 +6271,13 @@
         "points": 0
       },
       {
-        "name": "יקיר כהן",
-        "guess": "2-0",
+        "name": "אלון לוין",
+        "guess": "1-0",
         "points": 0
       },
       {
-        "name": "אלון לוין",
-        "guess": "1-0",
+        "name": "יקיר כהן",
+        "guess": "2-0",
         "points": 0
       }
     ]
@@ -6354,8 +6354,8 @@
       "Itay Mor yosef",
       "רועי שלו",
       "amit yeruham",
-      "יקיר כהן",
       "אלון לוין",
+      "יקיר כהן",
       "אורי חיון"
     ],
     "1783281600000": [
@@ -6371,8 +6371,42 @@
       "Itay Mor yosef",
       "רועי שלו",
       "amit yeruham",
-      "יקיר כהן",
       "אלון לוין",
+      "יקיר כהן",
+      "אורי חיון"
+    ],
+    "1783296000000": [
+      "תומר לידא",
+      "רוזן",
+      "גל אטיאס",
+      "עמית לוי",
+      "תומר בר",
+      "עומר שדה",
+      "ברק ברהמי",
+      "Guy Shmuel",
+      "מרום אריש",
+      "Itay Mor yosef",
+      "רועי שלו",
+      "amit yeruham",
+      "אלון לוין",
+      "יקיר כהן",
+      "אורי חיון"
+    ],
+    "1783198800000": [
+      "תומר לידא",
+      "רוזן",
+      "גל אטיאס",
+      "עמית לוי",
+      "תומר בר",
+      "עומר שדה",
+      "ברק ברהמי",
+      "Guy Shmuel",
+      "מרום אריש",
+      "Itay Mor yosef",
+      "רועי שלו",
+      "amit yeruham",
+      "אלון לוין",
+      "יקיר כהן",
       "אורי חיון"
     ]
   }
