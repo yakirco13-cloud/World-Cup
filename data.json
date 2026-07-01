@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:32:25.990Z",
+  "updated": "2026-07-01T19:22:54.431Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -389,6 +389,13 @@
       "penalties": 0
     },
     {
+      "name": "Harry Kane",
+      "teamHe": "אנגליה",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
       "name": "Vinicius Junior",
       "teamHe": "ברזיל",
       "goals": 4,
@@ -440,13 +447,6 @@
     {
       "name": "Yoane Wissa",
       "teamHe": "הרפובליקה הדמוקרטית של קונגו",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1
-    },
-    {
-      "name": "Harry Kane",
-      "teamHe": "אנגליה",
       "goals": 3,
       "assists": 0,
       "penalties": 1
