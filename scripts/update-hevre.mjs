@@ -7,7 +7,7 @@
 //
 // Node 18+ (global fetch). No npm dependencies. Commits via the GitHub Action.
 
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -134,6 +134,31 @@ function collectPicks(gamesByTs, matchesByTs, name, rounds) {
   }
 }
 
+// Build an ordered timeline of finished games keyed by the UNIQUE game id (gid),
+// NOT the kickoff timestamp — two matches that kick off at the same time (the
+// simultaneous final-round group games) share a `beggining` and would otherwise
+// collapse into one entry, hiding one score. Each entry carries teams + result +
+// every friend's pick. The bar-chart race replays this as one frame per game.
+function collectTimeline(timelineByGid, name, rounds) {
+  for (const rd of (rounds || [])) {
+    for (const g of (rd.games || [])) {
+      if (g.result1 == null || g.result1 === '') continue; // finished only
+      const gid = g.gid; if (!gid) continue;
+      const e = (timelineByGid[gid] ||= {
+        gid,
+        ts: Number(g.beggining) || 0,
+        home: g.team1?.name || '',
+        away: g.team2?.name || '',
+        result: `${g.result1}-${g.result2}`,
+        picks: [],
+      });
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
+      e.picks.push({ name, guess: `${g1}-${g2}`, points: Number(g.gamepoints) || 0 });
+    }
+  }
+}
+
 // Track who HAS submitted a bet per UPCOMING game (for the "you forgot" warning).
 function collectUpcoming(guessedByTs, name, rounds) {
   for (const rd of (rounds || [])) {
@@ -148,10 +173,77 @@ function collectUpcoming(guessedByTs, name, rounds) {
   }
 }
 
-function buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById) {
+// ── 85th-minute stats (from wc2026_scores_85min.csv) ─────────────────────────
+const normEng = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .toLowerCase().replace(/\b(?:and|the|of)\b/g, '').replace(/[^a-z]/g, '');
+const ENG_ALIAS = { usa: 'unitedstates' };
+// hevre's Hebrew spellings that differ from the site's DATA spellings.
+const HEVRE_TO_SITE = {
+  "צ'כיה": 'צ׳כיה',
+  'בוסניה הרצגובינה': 'בוסניה והרצגובינה',
+  'פראגוואי': 'פרגוואי',
+  'שוויץ': 'שווייץ',
+  'קורסאו': 'קוראסאו',
+  'שבדיה': 'שוודיה',
+  'טוניסיה': 'תוניסיה',
+  'קייפ ורדה': 'כף ורדה',
+  'נורווגיה': 'נורבגיה',
+  "אלג'יריה": 'אלג׳יריה',
+  'קונגו הדמוקרטית': 'הרפובליקה הדמוקרטית של קונגו',
+};
+
+// Build a lookup of {85', 90'} scores keyed by the site's Hebrew "home|away".
+function loadScores85() {
+  let engToHe;
+  try {
+    const html = readFileSync(join(ROOT, 'index.html'), 'utf8');
+    const DATA = JSON.parse(html.match(/const DATA = (\{[\s\S]*?\});\s*\nconst POSITIONS/)[1]);
+    engToHe = {};
+    for (const [he, sq] of Object.entries(DATA.squads)) if (sq.english) engToHe[normEng(sq.english)] = he;
+  } catch (e) { console.warn('scores85: index.html DATA unreadable -', e.message); return {}; }
+  const engHe = eng => { const k = normEng(eng); return engToHe[ENG_ALIAS[k] || k]; };
+  let raw;
+  try { raw = readFileSync(join(ROOT, 'wc2026_scores_85min.csv'), 'utf8'); }
+  catch (e) { console.warn('scores85: CSV not found -', e.message); return {}; }
+  const parse = s => { const [h, a] = String(s || '').split('-').map(Number); return (Number.isFinite(h) && Number.isFinite(a)) ? [h, a] : null; };
+  const byPair = {};
+  for (const line of raw.replace(/^﻿/, '').trim().split(/\r?\n/).slice(1)) {
+    const c = line.split(',');
+    const home = engHe(c[2]), away = engHe(c[3]);
+    const s85 = parse(c[4]), s90 = parse(c[5]);
+    if (home && away && s85 && s90) byPair[`${home}|${away}`] = { s85, s90 };
+  }
+  return byPair;
+}
+
+// Per player: exact predictions vs the 85' score, and how many of those were
+// then ruined by a goal after the 85th minute (score changed by 90').
+function computeMinuteStats(rounds, csvByPair) {
+  let perfect85 = 0, robbed85 = 0, covered = 0;
+  for (const rd of (rounds || [])) {
+    for (const g of (rd.games || [])) {
+      if (g.result1 == null || g.result1 === '') continue;
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue;
+      const home = HEVRE_TO_SITE[g.team1?.name] || g.team1?.name;
+      const away = HEVRE_TO_SITE[g.team2?.name] || g.team2?.name;
+      const cell = csvByPair[`${home}|${away}`];
+      if (!cell) continue;
+      covered++;
+      if (Number(g1) === cell.s85[0] && Number(g2) === cell.s85[1]) {
+        perfect85++;
+        if (cell.s85[0] !== cell.s90[0] || cell.s85[1] !== cell.s90[1]) robbed85++;
+      }
+    }
+  }
+  return { perfect85, robbed85, covered };
+}
+
+function buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById, minStatsById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
     const gg = goalGapById[m._id];
+    const ms = minStatsById[m._id];
     return {
       name: m.name,
       points: m.points ?? 0,
@@ -169,6 +261,9 @@ function buildTable(group, statsById, bestBetById, momentumById, riskById, goalG
       riskCount: riskById[m._id]?.count ?? null,
       goalGap:      gg?.sum   ?? null,
       goalGapGames: gg?.count ?? null,
+      perfect85:  ms?.perfect85 ?? null,
+      robbed85:   ms?.robbed85  ?? null,
+      covered85:  ms?.covered   ?? null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
@@ -180,8 +275,11 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {}, goalGapById = {};
-const gamesByTs = {}, matchesByTs = {}, guessedByTs = {};
+const csvByPair = loadScores85();
+console.log(`Loaded 85' scores for ${Object.keys(csvByPair).length} games.`);
+
+const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {}, goalGapById = {}, minStatsById = {};
+const gamesByTs = {}, matchesByTs = {}, guessedByTs = {}, timelineByGid = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
@@ -191,7 +289,9 @@ for (const m of members) {
     momentumById[m._id] = computeMomentum(guesses);
     riskById[m._id] = computeRisk(guesses);
     goalGapById[m._id] = computeGoalGap(guesses);
+    minStatsById[m._id] = computeMinuteStats(guesses, csvByPair);
     collectPicks(gamesByTs, matchesByTs, m.name, guesses);
+    collectTimeline(timelineByGid, m.name, guesses);
     collectUpcoming(guessedByTs, m.name, guesses);
   } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
@@ -211,9 +311,11 @@ const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
-  table: buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById),
+  table: buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById, minStatsById),
   games: gamesByTs,
   matches: matchesByTs,
+  // ordered, one entry per real game (unique gid) — powers the bar-chart race
+  timeline: Object.values(timelineByGid).sort((a, b) => (a.ts - b.ts) || a.gid.localeCompare(b.gid)),
   missingBets,
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');

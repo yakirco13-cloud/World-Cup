@@ -1,0 +1,84 @@
+﻿stage,date,home,away,score_85min,score_90min,final_after_extra_time,penalties,result_changed_85_to_90,home_goal_minutes,away_goal_minutes
+Group A,Thu June 11,Mexico,South Africa,2-0,2-0,,,,9 67,
+Group A,Thu June 11,South Korea,Czech Republic,2-1,2-1,,,,67 80,59
+Group A,Thu June 18,Czech Republic,South Africa,1-1,1-1,,,,6,83
+Group A,Thu June 18,Mexico,South Korea,1-0,1-0,,,,50,
+Group A,Wed June 24,Czech Republic,Mexico,0-2,0-3,,,,,55 61 90+4
+Group A,Wed June 24,South Africa,South Korea,1-0,1-0,,,,63,
+Group B,Fri June 12,Canada,Bosnia & Herzegovina,1-1,1-1,,,,78,21
+Group B,Sat June 13,Qatar,Switzerland,0-1,1-1,,,yes,90+4,17
+Group B,Thu June 18,Switzerland,Bosnia & Herzegovina,2-0,4-1,,,,74 90 84 90+7,90+3
+Group B,Thu June 18,Canada,Qatar,5-0,6-0,,,,16 29 45+3 64 75 90+2,
+Group B,Wed June 24,Switzerland,Canada,2-1,2-1,,,,46 57,76
+Group B,Wed June 24,Bosnia & Herzegovina,Qatar,3-1,3-1,,,,29 34 80,42
+Group C,Sat June 13,Brazil,Morocco,1-1,1-1,,,,32,21
+Group C,Sat June 13,Haiti,Scotland,0-1,0-1,,,,,28
+Group C,Fri June 19,Scotland,Morocco,0-1,0-1,,,,,2
+Group C,Fri June 19,Brazil,Haiti,3-0,3-0,,,,23 36 45+3,
+Group C,Wed June 24,Scotland,Brazil,0-3,0-3,,,,,7 45+3 60
+Group C,Wed June 24,Morocco,Haiti,3-2,4-2,,,,39 45+1 78 89,10 43
+Group D,Fri June 12,USA,Paraguay,3-1,4-1,,,,7 31 45+5 90+8,73
+Group D,Sat June 13,Australia,Turkey,2-0,2-0,,,,27 75,
+Group D,Fri June 19,USA,Australia,2-0,2-0,,,,11 43,
+Group D,Fri June 19,Turkey,Paraguay,0-1,0-1,,,,,2
+Group D,Thu June 25,Turkey,USA,2-2,3-2,,,yes,10 31 90+8,3 49
+Group D,Thu June 25,Paraguay,Australia,0-0,0-0,,,,,
+Group E,Sun June 14,Germany,Curaçao,6-1,7-1,,,,6 38 45+5 88 47 68 78,21
+Group E,Sun June 14,Ivory Coast,Ecuador,0-0,1-0,,,yes,90,
+Group E,Sat June 20,Germany,Ivory Coast,1-1,2-1,,,yes,68 90+4,30
+Group E,Sat June 20,Ecuador,Curaçao,0-0,0-0,,,,,
+Group E,Thu June 25,Curaçao,Ivory Coast,0-2,0-2,,,,,7 64
+Group E,Thu June 25,Ecuador,Germany,2-1,2-1,,,,9 77,2
+Group F,Sun June 14,Netherlands,Japan,2-1,2-2,,,yes,51 64,57 88
+Group F,Sun June 14,Sweden,Tunisia,4-1,5-1,,,,7 90+6 30 59 84,43
+Group F,Sat June 20,Netherlands,Sweden,4-1,5-1,,,,5 17 47 54 89,59
+Group F,Sat June 20,Tunisia,Japan,0-4,0-4,,,,,4 31 83 69
+Group F,Thu June 25,Japan,Sweden,1-1,1-1,,,,56,62
+Group F,Thu June 25,Tunisia,Netherlands,1-3,1-3,,,,54,3 7 62
+Group G,Mon June 15,Belgium,Egypt,1-1,1-1,,,,66,19
+Group G,Mon June 15,Iran,New Zealand,2-2,2-2,,,,32 64,7 54
+Group G,Sun June 21,Belgium,Iran,0-0,0-0,,,,,
+Group G,Sun June 21,New Zealand,Egypt,1-3,1-3,,,,15,58 67 82
+Group G,Fri June 26,Egypt,Iran,1-1,1-1,,,,5,14
+Group G,Fri June 26,New Zealand,Belgium,1-3,1-5,,,,84,28 50 66 86 90+4
+Group H,Mon June 15,Spain,Cape Verde,0-0,0-0,,,,,
+Group H,Mon June 15,Saudi Arabia,Uruguay,1-1,1-1,,,,41,80
+Group H,Sun June 21,Spain,Saudi Arabia,4-0,4-0,,,,10 21 24 49,
+Group H,Sun June 21,Uruguay,Cape Verde,2-2,2-2,,,,44 45+6,21 61
+Group H,Fri June 26,Cape Verde,Saudi Arabia,0-0,0-0,,,,,
+Group H,Fri June 26,Uruguay,Spain,0-1,0-1,,,,,42
+Group I,Tue June 16,France,Senegal,2-0,3-1,,,,66 90+6 82,90+5
+Group I,Tue June 16,Iraq,Norway,1-3,1-4,,,,39,29 43 76 90+6
+Group I,Mon June 22,France,Iraq,3-0,3-0,,,,14 54 66,
+Group I,Mon June 22,Norway,Senegal,3-1,3-2,,,,43 48 58,53 90+3
+Group I,Fri June 26,Norway,France,1-3,1-4,,,,21,7 20 32 90+4
+Group I,Fri June 26,Senegal,Iraq,5-0,5-0,,,,4 56 59 71 82,
+Group J,Tue June 16,Argentina,Algeria,3-0,3-0,,,,17 60 76,
+Group J,Tue June 16,Austria,Jordan,2-1,3-1,,,,21 76 90+12,50
+Group J,Mon June 22,Argentina,Austria,1-0,2-0,,,,38 90+5,
+Group J,Mon June 22,Jordan,Algeria,1-2,1-2,,,,36,69 82
+Group J,Sat June 27,Algeria,Austria,2-2,3-3,,,,45 60 90+3,28 55 90+6
+Group J,Sat June 27,Jordan,Argentina,1-3,1-3,,,,55,19 31 80
+Group K,Wed June 17,Portugal,DR Congo,1-1,1-1,,,,6,45+5
+Group K,Wed June 17,Uzbekistan,Colombia,1-2,1-3,,,,60,40 65 90+9
+Group K,Tue June 23,Portugal,Uzbekistan,4-0,5-0,,,,6 39 17 60 87,
+Group K,Tue June 23,Colombia,DR Congo,1-0,1-0,,,,76,
+Group K,Sat June 27,Colombia,Portugal,0-0,0-0,,,,,
+Group K,Sat June 27,DR Congo,Uzbekistan,2-1,3-1,,,,68 78 90+1,10
+Group L,Wed June 17,England,Croatia,3-2,4-2,,,,12 42 47 85,36 45+5
+Group L,Wed June 17,Ghana,Panama,0-0,1-0,,,yes,90+5,
+Group L,Tue June 23,England,Ghana,0-0,0-0,,,,,
+Group L,Tue June 23,Panama,Croatia,0-1,0-1,,,,,54
+Group L,Sat June 27,Panama,England,0-2,0-2,,,,,62 67
+Group L,Sat June 27,Croatia,Ghana,2-1,2-1,,,,31 83,73
+Round of 32,Sun Jun 28,South Africa,Canada,0-0,0-1,,,yes,,90+2
+Round of 32,Mon Jun 29,Germany,Paraguay,1-1,1-1,1-1,3-4,,54,42
+Round of 32,Mon Jun 29,Netherlands,Morocco,1-0,1-1,1-1,2-3,yes,72,90+1
+Round of 32,Mon Jun 29,Brazil,Japan,1-1,2-1,,,yes,56 90+5,29
+Round of 32,Tue Jun 30,France,Sweden,3-0,3-0,,,,45 53 74,
+Round of 32,Tue Jun 30,Ivory Coast,Norway,1-1,1-2,,,yes,74,39 86
+Round of 32,Tue Jun 30,Mexico,Ecuador,2-0,2-0,,,,31 45+1,
+Round of 32,Wed Jul 1,England,DR Congo,1-1,2-1,,,yes,75 86,7
+Round of 32,Wed Jul 1,USA,Bosnia & Herzegovina,2-0,2-0,,,,45 82,
+Round of 32,Wed Jul 1,Belgium,Senegal,0-2,2-2,3-2,,yes,86 89 120+5,25 51
+Round of 32,Thu Jul 2,Spain,Austria,2-0,3-0,,,,36 66 89,
