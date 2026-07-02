@@ -90,16 +90,45 @@ function computeRisk(rounds) {
   return count ? { avg: Math.round(sum / count * 10) / 10, count } : null;
 }
 
+// Goal-gap: total goals a player's scoreline predictions were off, over finished
+// games. e.g. guessed 2-0, actual 2-1 -> +1; guessed 1-0, actual 5-0 -> +4.
+// Computed per game from the player's own guess+result (immune to simultaneous
+// games that share a kickoff timestamp).
+function computeGoalGap(rounds) {
+  let sum = 0, count = 0;
+  for (const round of (rounds || [])) {
+    for (const g of (round.games || [])) {
+      if (g.result1 == null || g.result1 === '') continue; // finished only
+      const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
+      const gh = Number(g1), ga = Number(g2), rh = Number(g.result1), ra = Number(g.result2);
+      if (![gh, ga, rh, ra].every(Number.isFinite)) continue;
+      sum += Math.abs(gh - rh) + Math.abs(ga - ra);
+      count++;
+    }
+  }
+  return count ? { sum, count } : null;
+}
+
 // Collect every friend's pick + points per FINISHED game, keyed by kickoff
-// timestamp (ms) — which matches the site's match datetime exactly.
-function collectPicks(gamesByTs, name, rounds) {
+// timestamp (ms) — which matches the site's match datetime exactly. Also record
+// the match teams + result once per game (in matchesByTs) so consumers like the
+// bar-chart race can label each frame with the fixture that just played.
+function collectPicks(gamesByTs, matchesByTs, name, rounds) {
   for (const rd of (rounds || [])) {
     for (const g of (rd.games || [])) {
       if (g.result1 == null || g.result1 === '') continue; // finished only
       const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
-      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
       const ts = Number(g.beggining) || 0;
       if (!ts) continue;
+      if (!matchesByTs[ts]) {
+        matchesByTs[ts] = {
+          home: g.team1?.name || '',
+          away: g.team2?.name || '',
+          result: `${g.result1}-${g.result2}`,
+        };
+      }
+      if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
       (gamesByTs[ts] ||= []).push({ name, guess: `${g1}-${g2}`, points: Number(g.gamepoints) || 0 });
     }
   }
@@ -119,9 +148,10 @@ function collectUpcoming(guessedByTs, name, rounds) {
   }
 }
 
-function buildTable(group, statsById, bestBetById, momentumById, riskById) {
+function buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById) {
   const rows = (group.members || []).map(m => {
     const s = statsById[m._id] || {};
+    const gg = goalGapById[m._id];
     return {
       name: m.name,
       points: m.points ?? 0,
@@ -137,6 +167,8 @@ function buildTable(group, statsById, bestBetById, momentumById, riskById) {
       momentum: momentumById[m._id] ?? null,
       riskAvg: riskById[m._id]?.avg ?? null,
       riskCount: riskById[m._id]?.count ?? null,
+      goalGap:      gg?.sum   ?? null,
+      goalGapGames: gg?.count ?? null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
@@ -148,8 +180,8 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {};
-const gamesByTs = {}, guessedByTs = {};
+const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {}, goalGapById = {};
+const gamesByTs = {}, matchesByTs = {}, guessedByTs = {};
 for (const m of members) {
   try { statsById[m._id] = await api('getAppUserStats', { auid: m._id }); }
   catch (e) { console.warn('stats failed for', m.name, '-', e.message); }
@@ -158,7 +190,8 @@ for (const m of members) {
     bestBetById[m._id] = computeBestBet(guesses);
     momentumById[m._id] = computeMomentum(guesses);
     riskById[m._id] = computeRisk(guesses);
-    collectPicks(gamesByTs, m.name, guesses);
+    goalGapById[m._id] = computeGoalGap(guesses);
+    collectPicks(gamesByTs, matchesByTs, m.name, guesses);
     collectUpcoming(guessedByTs, m.name, guesses);
   } catch (e) { console.warn('guesses failed for', m.name, '-', e.message); }
 }
@@ -178,8 +211,9 @@ const out = {
   updated: new Date().toISOString(),
   groupName: group.name || '',
   membersCount: group.membersCount ?? members.length,
-  table: buildTable(group, statsById, bestBetById, momentumById, riskById),
+  table: buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById),
   games: gamesByTs,
+  matches: matchesByTs,
   missingBets,
 };
 writeFileSync(join(ROOT, 'hevre.json'), JSON.stringify(out, null, 2) + '\n');
