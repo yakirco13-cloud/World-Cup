@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:46:54.826Z",
+  "updated": "2026-07-02T21:21:29.884Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -403,6 +403,13 @@
       "penalties": 0
     },
     {
+      "name": "Mikel Oyarzabal",
+      "teamHe": "ספרד",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Ousmane Dembélé",
       "teamHe": "צרפת",
       "goals": 4,
@@ -496,13 +503,6 @@
     {
       "name": "Cody Gakpo",
       "teamHe": "הולנד",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Mikel Oyarzabal",
-      "teamHe": "ספרד",
       "goals": 3,
       "assists": 1,
       "penalties": 0
