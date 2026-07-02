@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T00:18:48.402Z",
+  "updated": "2026-07-02T04:44:38.653Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -424,6 +424,13 @@
       "penalties": 0
     },
     {
+      "name": "Folarin Balogun",
+      "teamHe": "ארצות הברית",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Ismael Saibari",
       "teamHe": "מרוקו",
       "goals": 3,
@@ -503,13 +510,6 @@
     {
       "name": "Cyle Larin",
       "teamHe": "קנדה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Folarin Balogun",
-      "teamHe": "ארצות הברית",
       "goals": 2,
       "assists": 0,
       "penalties": 0
