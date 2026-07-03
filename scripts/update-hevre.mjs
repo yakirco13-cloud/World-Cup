@@ -185,7 +185,7 @@ function collectUpcoming(guessedByTs, name, rounds) {
   }
 }
 
-// ── 85th-minute stats (from wc2026_scores_85min.csv) ─────────────────────────
+// ── 88th-minute stats (from wc2026_scores_88min.csv) ─────────────────────────
 const normEng = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '')
   .toLowerCase().replace(/\b(?:and|the|of)\b/g, '').replace(/[^a-z]/g, '');
 const ENG_ALIAS = { usa: 'unitedstates' };
@@ -204,38 +204,38 @@ const HEVRE_TO_SITE = {
   'קונגו הדמוקרטית': 'הרפובליקה הדמוקרטית של קונגו',
 };
 
-// Build a lookup of {85', 90'} scores keyed by the site's Hebrew "home|away".
-function loadScores85() {
+// Build a lookup of {88', 90'} scores keyed by the site's Hebrew "home|away".
+function loadScores88() {
   let engToHe;
   try {
     const html = readFileSync(join(ROOT, 'index.html'), 'utf8');
     const DATA = JSON.parse(html.match(/const DATA = (\{[\s\S]*?\});\s*\nconst POSITIONS/)[1]);
     engToHe = {};
     for (const [he, sq] of Object.entries(DATA.squads)) if (sq.english) engToHe[normEng(sq.english)] = he;
-  } catch (e) { console.warn('scores85: index.html DATA unreadable -', e.message); return {}; }
+  } catch (e) { console.warn('scores88: index.html DATA unreadable -', e.message); return {}; }
   const engHe = eng => { const k = normEng(eng); return engToHe[ENG_ALIAS[k] || k]; };
   let raw;
-  try { raw = readFileSync(join(ROOT, 'wc2026_scores_85min.csv'), 'utf8'); }
-  catch (e) { console.warn('scores85: CSV not found -', e.message); return {}; }
+  try { raw = readFileSync(join(ROOT, 'wc2026_scores_88min.csv'), 'utf8'); }
+  catch (e) { console.warn('scores88: CSV not found -', e.message); return {}; }
   const parse = s => { const [h, a] = String(s || '').split('-').map(Number); return (Number.isFinite(h) && Number.isFinite(a)) ? [h, a] : null; };
   const byPair = {};
   for (const line of raw.replace(/^﻿/, '').trim().split(/\r?\n/).slice(1)) {
     const c = line.split(',');
     const home = engHe(c[2]), away = engHe(c[3]);
-    const s85 = parse(c[4]), s90 = parse(c[5]);
-    if (home && away && s85 && s90) byPair[`${home}|${away}`] = { s85, s90 };
+    const s88 = parse(c[4]), s90 = parse(c[5]);
+    if (home && away && s88 && s90) byPair[`${home}|${away}`] = { s88, s90 };
   }
   return byPair;
 }
 
-// Per player, over games with 85' data:
-//  - perfect85 : exact predictions vs the 85' score
-//  - robbed85  : of those, how many a post-85' goal ruined (score changed by 90')
-//  - pointsLost: total POINTS lost to post-85' goals — for each game, the points
-//    the guess would have earned at the 85' score minus the points it actually
+// Per player, over games with 88' data:
+//  - perfect88 : exact predictions vs the 88' score
+//  - robbed88  : of those, how many a post-88' goal ruined (score changed by 90')
+//  - pointsLost: total POINTS lost to post-88' goals — for each game, the points
+//    the guess would have earned at the 88' score minus the points it actually
 //    earned (hevre's gamepoints), summed where positive.
 function computeMinuteStats(rounds, csvByPair) {
-  let perfect85 = 0, robbed85 = 0, covered = 0, pointsLost = 0, pointsLostGames = 0;
+  let perfect88 = 0, robbed88 = 0, covered = 0, pointsLost = 0, pointsLostGames = 0;
   for (const rd of (rounds || [])) {
     for (const g of (rd.games || [])) {
       if (g.result1 == null || g.result1 === '') continue;
@@ -247,16 +247,16 @@ function computeMinuteStats(rounds, csvByPair) {
       if (!cell) continue;
       covered++;
       const gh = Number(g1), ga = Number(g2);
-      if (gh === cell.s85[0] && ga === cell.s85[1]) {
-        perfect85++;
-        if (cell.s85[0] !== cell.s90[0] || cell.s85[1] !== cell.s90[1]) robbed85++;
+      if (gh === cell.s88[0] && ga === cell.s88[1]) {
+        perfect88++;
+        if (cell.s88[0] !== cell.s90[0] || cell.s88[1] !== cell.s90[1]) robbed88++;
       }
-      const p85 = pointsIfScore(gh, ga, cell.s85[0], cell.s85[1], g);
+      const p88 = pointsIfScore(gh, ga, cell.s88[0], cell.s88[1], g);
       const pFinal = Number(g.gamepoints) || 0;
-      if (p85 - pFinal > 0) { pointsLost += p85 - pFinal; pointsLostGames++; }
+      if (p88 - pFinal > 0) { pointsLost += p88 - pFinal; pointsLostGames++; }
     }
   }
-  return { perfect85, robbed85, covered, pointsLost: Math.round(pointsLost * 10) / 10, pointsLostGames };
+  return { perfect88, robbed88, covered, pointsLost: Math.round(pointsLost * 10) / 10, pointsLostGames };
 }
 
 function buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById, minStatsById) {
@@ -281,9 +281,9 @@ function buildTable(group, statsById, bestBetById, momentumById, riskById, goalG
       riskCount: riskById[m._id]?.count ?? null,
       goalGap:      gg?.sum   ?? null,
       goalGapGames: gg?.count ?? null,
-      perfect85:  ms?.perfect85 ?? null,
-      robbed85:   ms?.robbed85  ?? null,
-      covered85:  ms?.covered   ?? null,
+      perfect88:  ms?.perfect88 ?? null,
+      robbed88:   ms?.robbed88  ?? null,
+      covered88:  ms?.covered   ?? null,
       pointsLost:      ms?.pointsLost      ?? null,
       pointsLostGames: ms?.pointsLostGames ?? null,
     };
@@ -297,8 +297,8 @@ const group = await api('getGroup', { membersGroup: GROUP_ID });
 const members = group.members || [];
 console.log(`Fetched group "${group.name || '(no name)'}" with ${members.length} members.`);
 
-const csvByPair = loadScores85();
-console.log(`Loaded 85' scores for ${Object.keys(csvByPair).length} games.`);
+const csvByPair = loadScores88();
+console.log(`Loaded 88' scores for ${Object.keys(csvByPair).length} games.`);
 
 const statsById = {}, bestBetById = {}, momentumById = {}, riskById = {}, goalGapById = {}, minStatsById = {};
 const gamesByTs = {}, matchesByTs = {}, guessedByTs = {}, timelineByGid = {};
