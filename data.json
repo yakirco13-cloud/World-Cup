@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:20:49.446Z",
+  "updated": "2026-07-03T22:39:27.097Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -368,17 +368,17 @@
   "forms": {},
   "scorers": [
     {
+      "name": "Lionel Messi",
+      "teamHe": "ארגנטינה",
+      "goals": 7,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
       "name": "Kylian Mbappé",
       "teamHe": "צרפת",
       "goals": 6,
       "assists": 2,
-      "penalties": 0
-    },
-    {
-      "name": "Lionel Messi",
-      "teamHe": "ארגנטינה",
-      "goals": 6,
-      "assists": 0,
       "penalties": 0
     },
     {
