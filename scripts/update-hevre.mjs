@@ -71,7 +71,7 @@ function computeMomentum(rounds) {
 }
 
 // Risk = average point-value of the outcome each player backed, over FINISHED
-// games they guessed. ratio1 = home win, ratio2 = draw, ratio3 = away win.
+// games they guessed. ratio1 = home win, ratio2 = AWAY win, ratio3 = DRAW.
 // Favorites pay few points (low risk); underdogs/draws pay a lot (high risk).
 function computeRisk(rounds) {
   let sum = 0, count = 0;
@@ -82,12 +82,24 @@ function computeRisk(rounds) {
       const g1 = g.team1?.team1Guessed, g2 = g.team2?.team2Guessed;
       if (g1 == null || g1 === '' || g2 == null || g2 === '') continue; // no pick
       const n1 = Number(g1), n2 = Number(g2);
-      const ratio = n1 > n2 ? Number(g.ratio1) : n1 === n2 ? Number(g.ratio2) : Number(g.ratio3);
+      const ratio = n1 > n2 ? Number(g.ratio1) : n1 < n2 ? Number(g.ratio2) : Number(g.ratio3);
       if (!isFinite(ratio)) continue;
       sum += ratio; count++;
     }
   }
   return count ? { avg: Math.round(sum / count * 10) / 10, count } : null;
+}
+
+// Points a guess would earn if the final score were sh-sa (hevre scoring:
+// ratio1=home, ratio2=away, ratio3=draw; × multiplier; + exact bonus).
+function pointsIfScore(gh, ga, sh, sa, g) {
+  const go = gh > ga ? 'H' : gh < ga ? 'A' : 'D';
+  const so = sh > sa ? 'H' : sh < sa ? 'A' : 'D';
+  if (go !== so) return 0;
+  const mult = Number(g.fixturedata?.pointsMultplyer) || 1;
+  const ratio = so === 'H' ? Number(g.ratio1) : so === 'A' ? Number(g.ratio2) : Number(g.ratio3);
+  const exact = gh === sh && ga === sa;
+  return (Number.isFinite(ratio) ? ratio * mult : 0) + (exact ? Number(g.fixturedata?.bonusExact || 0) : 0);
 }
 
 // Goal-gap: total goals a player's scoreline predictions were off, over finished
@@ -216,10 +228,14 @@ function loadScores85() {
   return byPair;
 }
 
-// Per player: exact predictions vs the 85' score, and how many of those were
-// then ruined by a goal after the 85th minute (score changed by 90').
+// Per player, over games with 85' data:
+//  - perfect85 : exact predictions vs the 85' score
+//  - robbed85  : of those, how many a post-85' goal ruined (score changed by 90')
+//  - pointsLost: total POINTS lost to post-85' goals — for each game, the points
+//    the guess would have earned at the 85' score minus the points it actually
+//    earned (hevre's gamepoints), summed where positive.
 function computeMinuteStats(rounds, csvByPair) {
-  let perfect85 = 0, robbed85 = 0, covered = 0;
+  let perfect85 = 0, robbed85 = 0, covered = 0, pointsLost = 0, pointsLostGames = 0;
   for (const rd of (rounds || [])) {
     for (const g of (rd.games || [])) {
       if (g.result1 == null || g.result1 === '') continue;
@@ -230,13 +246,17 @@ function computeMinuteStats(rounds, csvByPair) {
       const cell = csvByPair[`${home}|${away}`];
       if (!cell) continue;
       covered++;
-      if (Number(g1) === cell.s85[0] && Number(g2) === cell.s85[1]) {
+      const gh = Number(g1), ga = Number(g2);
+      if (gh === cell.s85[0] && ga === cell.s85[1]) {
         perfect85++;
         if (cell.s85[0] !== cell.s90[0] || cell.s85[1] !== cell.s90[1]) robbed85++;
       }
+      const p85 = pointsIfScore(gh, ga, cell.s85[0], cell.s85[1], g);
+      const pFinal = Number(g.gamepoints) || 0;
+      if (p85 - pFinal > 0) { pointsLost += p85 - pFinal; pointsLostGames++; }
     }
   }
-  return { perfect85, robbed85, covered };
+  return { perfect85, robbed85, covered, pointsLost: Math.round(pointsLost * 10) / 10, pointsLostGames };
 }
 
 function buildTable(group, statsById, bestBetById, momentumById, riskById, goalGapById, minStatsById) {
@@ -264,6 +284,8 @@ function buildTable(group, statsById, bestBetById, momentumById, riskById, goalG
       perfect85:  ms?.perfect85 ?? null,
       robbed85:   ms?.robbed85  ?? null,
       covered85:  ms?.covered   ?? null,
+      pointsLost:      ms?.pointsLost      ?? null,
+      pointsLostGames: ms?.pointsLostGames ?? null,
     };
   });
   rows.sort((a, b) => (b.points - a.points) || String(a.name).localeCompare(String(b.name), 'he'));
