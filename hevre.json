@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T16:57:55.910Z",
+  "updated": "2026-07-03T18:19:38.985Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -8,8 +8,8 @@
       "points": 210,
       "exact": 13,
       "direction": 44,
-      "misses": 27,
-      "guessed": 84,
+      "misses": 28,
+      "guessed": 85,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -23,9 +23,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 84,
-      "goalGap": 148,
-      "goalGapGames": 84,
+      "riskCount": 85,
+      "goalGap": 150,
+      "goalGapGames": 85,
       "perfect85": 10,
       "robbed85": 1,
       "covered85": 83,
@@ -36,10 +36,10 @@
     {
       "name": "גל אטיאס",
       "points": 197.5,
-      "exact": 11,
+      "exact": 12,
       "direction": 45,
       "misses": 29,
-      "guessed": 85,
+      "guessed": 86,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -51,11 +51,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 10,
+      "momentum": 11,
       "riskAvg": 2,
-      "riskCount": 85,
+      "riskCount": 86,
       "goalGap": 153,
-      "goalGapGames": 85,
+      "goalGapGames": 86,
       "perfect85": 10,
       "robbed85": 2,
       "covered85": 84,
@@ -66,10 +66,10 @@
     {
       "name": "Guy Shmuel",
       "points": 190.5,
-      "exact": 12,
+      "exact": 13,
       "direction": 40,
       "misses": 33,
-      "guessed": 85,
+      "guessed": 86,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -81,11 +81,11 @@
         "guess": "2-2",
         "result": "2-2"
       },
-      "momentum": 6,
-      "riskAvg": 2.1,
-      "riskCount": 85,
+      "momentum": 7,
+      "riskAvg": 2.2,
+      "riskCount": 86,
       "goalGap": 167,
-      "goalGapGames": 85,
+      "goalGapGames": 86,
       "perfect85": 9,
       "robbed85": 1,
       "covered85": 84,
@@ -98,8 +98,8 @@
       "points": 188,
       "exact": 13,
       "direction": 37,
-      "misses": 30,
-      "guessed": 80,
+      "misses": 31,
+      "guessed": 81,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -111,11 +111,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 4,
+      "momentum": 0,
       "riskAvg": 2,
-      "riskCount": 80,
-      "goalGap": 149,
-      "goalGapGames": 80,
+      "riskCount": 81,
+      "goalGap": 152,
+      "goalGapGames": 81,
       "perfect85": 10,
       "robbed85": 3,
       "covered85": 79,
@@ -128,8 +128,8 @@
       "points": 180.5,
       "exact": 8,
       "direction": 46,
-      "misses": 31,
-      "guessed": 85,
+      "misses": 32,
+      "guessed": 86,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -141,11 +141,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 4,
+      "momentum": 0,
       "riskAvg": 2.1,
-      "riskCount": 85,
-      "goalGap": 182,
-      "goalGapGames": 85,
+      "riskCount": 86,
+      "goalGap": 183,
+      "goalGapGames": 86,
       "perfect85": 6,
       "robbed85": 2,
       "covered85": 84,
@@ -156,10 +156,10 @@
     {
       "name": "עומר שדה",
       "points": 173.5,
-      "exact": 8,
+      "exact": 9,
       "direction": 43,
       "misses": 32,
-      "guessed": 83,
+      "guessed": 84,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -171,11 +171,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 2,
       "riskAvg": 2.2,
-      "riskCount": 83,
+      "riskCount": 84,
       "goalGap": 157,
-      "goalGapGames": 83,
+      "goalGapGames": 84,
       "perfect85": 10,
       "robbed85": 5,
       "covered85": 82,
@@ -187,9 +187,9 @@
       "name": "עמית לוי",
       "points": 172.5,
       "exact": 10,
-      "direction": 40,
+      "direction": 41,
       "misses": 35,
-      "guessed": 85,
+      "guessed": 86,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -201,11 +201,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 2,
       "riskAvg": 2.4,
-      "riskCount": 85,
-      "goalGap": 169,
-      "goalGapGames": 85,
+      "riskCount": 86,
+      "goalGap": 170,
+      "goalGapGames": 86,
       "perfect85": 6,
       "robbed85": 0,
       "covered85": 84,
@@ -214,72 +214,12 @@
       "rank": 7
     },
     {
-      "name": "ברק ברהמי",
-      "points": 168,
-      "exact": 10,
-      "direction": 41,
-      "misses": 28,
-      "guessed": 79,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 14,
-      "bestBet": {
-        "points": 12,
-        "home": "מרוקו",
-        "away": "הולנד",
-        "guess": "1-1",
-        "result": "1-1"
-      },
-      "momentum": 1,
-      "riskAvg": 2,
-      "riskCount": 79,
-      "goalGap": 147,
-      "goalGapGames": 79,
-      "perfect85": 12,
-      "robbed85": 4,
-      "covered85": 78,
-      "pointsLost": 38.5,
-      "pointsLostGames": 7,
-      "rank": 8
-    },
-    {
-      "name": "רוזן",
-      "points": 167.5,
-      "exact": 10,
-      "direction": 40,
-      "misses": 34,
-      "guessed": 84,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": 0,
-      "pointsFromScorer": 14,
-      "bestBet": {
-        "points": 10,
-        "home": "ברזיל",
-        "away": "יפן",
-        "guess": "2-1",
-        "result": "2-1"
-      },
-      "momentum": 0,
-      "riskAvg": 2.3,
-      "riskCount": 84,
-      "goalGap": 156,
-      "goalGapGames": 84,
-      "perfect85": 4,
-      "robbed85": 1,
-      "covered85": 83,
-      "pointsLost": 25.5,
-      "pointsLostGames": 5,
-      "rank": 9
-    },
-    {
       "name": "רועי שלו",
-      "points": 164,
+      "points": 170,
       "exact": 11,
       "direction": 39,
-      "misses": 31,
-      "guessed": 81,
+      "misses": 32,
+      "guessed": 82,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": 0,
@@ -291,16 +231,76 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 3,
+      "momentum": 0,
       "riskAvg": 2.2,
-      "riskCount": 81,
-      "goalGap": 159,
-      "goalGapGames": 81,
+      "riskCount": 82,
+      "goalGap": 160,
+      "goalGapGames": 82,
       "perfect85": 8,
       "robbed85": 1,
       "covered85": 80,
       "pointsLost": 8.5,
       "pointsLostGames": 3,
+      "rank": 8
+    },
+    {
+      "name": "ברק ברהמי",
+      "points": 168,
+      "exact": 10,
+      "direction": 42,
+      "misses": 28,
+      "guessed": 80,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 14,
+      "bestBet": {
+        "points": 12,
+        "home": "מרוקו",
+        "away": "הולנד",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "momentum": 2,
+      "riskAvg": 2,
+      "riskCount": 80,
+      "goalGap": 149,
+      "goalGapGames": 80,
+      "perfect85": 12,
+      "robbed85": 4,
+      "covered85": 78,
+      "pointsLost": 38.5,
+      "pointsLostGames": 7,
+      "rank": 9
+    },
+    {
+      "name": "רוזן",
+      "points": 167.5,
+      "exact": 10,
+      "direction": 41,
+      "misses": 34,
+      "guessed": 85,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": 0,
+      "pointsFromScorer": 14,
+      "bestBet": {
+        "points": 10,
+        "home": "ברזיל",
+        "away": "יפן",
+        "guess": "2-1",
+        "result": "2-1"
+      },
+      "momentum": 1,
+      "riskAvg": 2.3,
+      "riskCount": 85,
+      "goalGap": 157,
+      "goalGapGames": 85,
+      "perfect85": 4,
+      "robbed85": 1,
+      "covered85": 83,
+      "pointsLost": 25.5,
+      "pointsLostGames": 5,
       "rank": 10
     },
     {
@@ -308,8 +308,8 @@
       "points": 160.5,
       "exact": 8,
       "direction": 34,
-      "misses": 43,
-      "guessed": 85,
+      "misses": 44,
+      "guessed": 86,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -323,9 +323,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.9,
-      "riskCount": 85,
-      "goalGap": 161,
-      "goalGapGames": 85,
+      "riskCount": 86,
+      "goalGap": 162,
+      "goalGapGames": 86,
       "perfect85": 9,
       "robbed85": 5,
       "covered85": 84,
@@ -338,8 +338,8 @@
       "points": 155,
       "exact": 6,
       "direction": 41,
-      "misses": 35,
-      "guessed": 82,
+      "misses": 36,
+      "guessed": 83,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -353,9 +353,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.5,
-      "riskCount": 82,
-      "goalGap": 155,
-      "goalGapGames": 82,
+      "riskCount": 83,
+      "goalGap": 157,
+      "goalGapGames": 83,
       "perfect85": 6,
       "robbed85": 2,
       "covered85": 81,
@@ -366,10 +366,10 @@
     {
       "name": "amit yeruham",
       "points": 145.5,
-      "exact": 10,
+      "exact": 11,
       "direction": 25,
       "misses": 40,
-      "guessed": 75,
+      "guessed": 76,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": 0,
@@ -381,11 +381,11 @@
         "guess": "0-0",
         "result": "0-0"
       },
-      "momentum": 1,
+      "momentum": 2,
       "riskAvg": 2.7,
-      "riskCount": 75,
+      "riskCount": 76,
       "goalGap": 131,
-      "goalGapGames": 75,
+      "goalGapGames": 76,
       "perfect85": 10,
       "robbed85": 4,
       "covered85": 74,
@@ -398,8 +398,8 @@
       "points": 139,
       "exact": 7,
       "direction": 35,
-      "misses": 43,
-      "guessed": 85,
+      "misses": 44,
+      "guessed": 86,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": 0,
@@ -411,11 +411,11 @@
         "guess": "2-0",
         "result": "2-0"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2.7,
-      "riskCount": 85,
-      "goalGap": 179,
-      "goalGapGames": 85,
+      "riskCount": 86,
+      "goalGap": 180,
+      "goalGapGames": 86,
       "perfect85": 8,
       "robbed85": 3,
       "covered85": 84,
@@ -492,6 +492,11 @@
         "points": 6
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 2
@@ -500,11 +505,6 @@
         "name": "רוזן",
         "guess": "2-0",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "Itay Mor yosef",
@@ -569,6 +569,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 3
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 0
@@ -577,11 +582,6 @@
         "name": "רוזן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-0",
-        "points": 3
       },
       {
         "name": "Itay Mor yosef",
@@ -646,6 +646,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 7
@@ -653,11 +658,6 @@
       {
         "name": "רוזן",
         "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
         "points": 0
       },
       {
@@ -723,6 +723,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
@@ -731,11 +736,6 @@
         "name": "רוזן",
         "guess": "3-1",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
       },
       {
         "name": "Itay Mor yosef",
@@ -800,17 +800,17 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-3",
         "points": 0
       },
       {
         "name": "רוזן",
-        "guess": "0-3",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
         "guess": "0-3",
         "points": 0
       },
@@ -877,6 +877,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 8
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 0
@@ -885,11 +890,6 @@
         "name": "רוזן",
         "guess": "2-0",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 8
       },
       {
         "name": "Itay Mor yosef",
@@ -949,17 +949,17 @@
         "points": 5.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-4",
         "points": 1.5
       },
       {
         "name": "רוזן",
-        "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
         "guess": "0-2",
         "points": 1.5
       },
@@ -1021,13 +1021,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-1",
+        "name": "רועי שלו",
+        "guess": "0-2",
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -1088,6 +1088,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "4-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "5-0",
         "points": 1.5
@@ -1095,11 +1100,6 @@
       {
         "name": "רוזן",
         "guess": "6-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "4-0",
         "points": 1.5
       },
       {
@@ -1165,6 +1165,11 @@
         "points": 7
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-0",
+        "points": 3
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 0
@@ -1173,11 +1178,6 @@
         "name": "רוזן",
         "guess": "3-1",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-0",
-        "points": 3
       },
       {
         "name": "Itay Mor yosef",
@@ -1242,6 +1242,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-1",
         "points": 0
@@ -1250,11 +1255,6 @@
         "name": "רוזן",
         "guess": "1-0",
         "points": 7.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
       },
       {
         "name": "Itay Mor yosef",
@@ -1386,6 +1386,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "5-0",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "6-0",
         "points": 0
@@ -1393,11 +1398,6 @@
       {
         "name": "רוזן",
         "guess": "4-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "5-0",
         "points": 0
       },
       {
@@ -1463,6 +1463,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 0
@@ -1470,11 +1475,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
         "points": 0
       },
       {
@@ -1540,6 +1540,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 0
@@ -1547,11 +1552,6 @@
       {
         "name": "רוזן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
         "points": 0
       },
       {
@@ -1684,17 +1684,17 @@
         "points": 5.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 5.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 1.5
       },
       {
         "name": "רוזן",
-        "guess": "3-1",
-        "points": 5.5
-      },
-      {
-        "name": "רועי שלו",
         "guess": "3-1",
         "points": 5.5
       },
@@ -1761,6 +1761,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-4",
         "points": 1.5
@@ -1768,11 +1773,6 @@
       {
         "name": "רוזן",
         "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-4",
         "points": 1.5
       },
       {
@@ -1838,17 +1838,17 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 5.5
       },
       {
         "name": "רוזן",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
         "guess": "2-0",
         "points": 1.5
       },
@@ -1915,6 +1915,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 1.5
@@ -1923,11 +1928,6 @@
         "name": "רוזן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 1.5
       },
       {
         "name": "Itay Mor yosef",
@@ -1992,6 +1992,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "4-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
@@ -1999,11 +2004,6 @@
       {
         "name": "רוזן",
         "guess": "4-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "4-1",
         "points": 0
       },
       {
@@ -2069,6 +2069,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
@@ -2077,11 +2082,6 @@
         "name": "רוזן",
         "guess": "2-1",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
       },
       {
         "name": "Itay Mor yosef",
@@ -2146,6 +2146,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
@@ -2154,11 +2159,6 @@
         "name": "רוזן",
         "guess": "1-0",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "Itay Mor yosef",
@@ -2223,17 +2223,17 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-4",
         "points": 1.5
       },
       {
         "name": "רוזן",
-        "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
         "guess": "0-2",
         "points": 1.5
       },
@@ -2300,6 +2300,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
@@ -2307,11 +2312,6 @@
       {
         "name": "רוזן",
         "guess": "1-0",
-        "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
         "points": 2
       },
       {
@@ -2377,6 +2377,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 2
@@ -2384,11 +2389,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-0",
         "points": 2
       },
       {
@@ -2454,6 +2454,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 2
@@ -2461,11 +2466,6 @@
       {
         "name": "רוזן",
         "guess": "2-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
         "points": 0
       },
       {
@@ -2531,6 +2531,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
@@ -2538,11 +2543,6 @@
       {
         "name": "רוזן",
         "guess": "3-1",
-        "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
         "points": 2
       },
       {
@@ -2608,6 +2608,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-1",
+        "points": 6
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 2
@@ -2616,11 +2621,6 @@
         "name": "רוזן",
         "guess": "0-2",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-1",
-        "points": 6
       },
       {
         "name": "Itay Mor yosef",
@@ -2685,6 +2685,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 5.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "6-0",
         "points": 1.5
@@ -2693,11 +2698,6 @@
         "name": "רוזן",
         "guess": "4-1",
         "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-0",
-        "points": 5.5
       },
       {
         "name": "Itay Mor yosef",
@@ -2752,17 +2752,17 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
       },
       {
         "name": "רוזן",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
         "guess": "2-1",
         "points": 0
       },
@@ -2819,6 +2819,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
@@ -2827,11 +2832,6 @@
         "name": "רוזן",
         "guess": "1-2",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-0",
-        "points": 2
       },
       {
         "name": "Itay Mor yosef",
@@ -2886,6 +2886,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 1.5
@@ -2893,11 +2898,6 @@
       {
         "name": "רוזן",
         "guess": "3-1",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -2958,6 +2958,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 0
@@ -2965,11 +2970,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
         "points": 0
       },
       {
@@ -3035,6 +3035,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 2
@@ -3042,11 +3047,6 @@
       {
         "name": "רוזן",
         "guess": "1-3",
-        "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
         "points": 2
       },
       {
@@ -3112,6 +3112,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 1.5
@@ -3119,11 +3124,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
         "points": 1.5
       },
       {
@@ -3189,17 +3189,17 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
       },
       {
         "name": "רוזן",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
         "guess": "2-0",
         "points": 0
       },
@@ -3338,6 +3338,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 6
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-1",
         "points": 2
@@ -3346,11 +3351,6 @@
         "name": "רוזן",
         "guess": "1-2",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
-        "points": 6
       },
       {
         "name": "Itay Mor yosef",
@@ -3415,6 +3415,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 6
@@ -3423,11 +3428,6 @@
         "name": "רוזן",
         "guess": "2-0",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "Itay Mor yosef",
@@ -3492,13 +3492,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "5-1",
+        "name": "רועי שלו",
+        "guess": "4-0",
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "4-0",
+        "name": "רוזן",
+        "guess": "5-1",
         "points": 1.5
       },
       {
@@ -3564,6 +3564,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
@@ -3572,11 +3577,6 @@
         "name": "רוזן",
         "guess": "3-2",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "Itay Mor yosef",
@@ -3641,6 +3641,11 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 6
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
@@ -3649,11 +3654,6 @@
         "name": "רוזן",
         "guess": "0-1",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 6
       },
       {
         "name": "Itay Mor yosef",
@@ -3713,17 +3713,17 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 1.5
       },
       {
         "name": "רוזן",
-        "guess": "3-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
         "guess": "3-0",
         "points": 1.5
       },
@@ -3790,6 +3790,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 0
@@ -3797,11 +3802,6 @@
       {
         "name": "רוזן",
         "guess": "4-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
         "points": 0
       },
       {
@@ -3867,6 +3867,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 1.5
@@ -3874,11 +3879,6 @@
       {
         "name": "רוזן",
         "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -3944,6 +3944,11 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 1.5
@@ -3951,11 +3956,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
         "points": 1.5
       },
       {
@@ -4046,6 +4046,16 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 6
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 6.5
@@ -4064,16 +4074,6 @@
         "name": "רוזן",
         "guess": "1-0",
         "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
-        "points": 6
       },
       {
         "name": "Itay Mor yosef",
@@ -4188,6 +4188,16 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 1.5
@@ -4205,16 +4215,6 @@
       {
         "name": "רוזן",
         "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-0",
         "points": 1.5
       },
       {
@@ -4330,6 +4330,16 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 2.5
@@ -4347,16 +4357,6 @@
       {
         "name": "רוזן",
         "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-2",
         "points": 0
       },
       {
@@ -4482,6 +4482,16 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-4",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-3",
         "points": 1.5
@@ -4499,16 +4509,6 @@
       {
         "name": "רוזן",
         "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-4",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
         "points": 0
       },
       {
@@ -4634,6 +4634,16 @@
         "points": 7
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-4",
         "points": 1.5
@@ -4651,16 +4661,6 @@
       {
         "name": "רוזן",
         "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
         "points": 0
       },
       {
@@ -4786,16 +4786,6 @@
         "points": 7
       },
       {
-        "name": "רוזן",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 3
-      },
-      {
         "name": "רועי שלו",
         "guess": "1-1",
         "points": 0
@@ -4804,6 +4794,16 @@
         "name": "רועי שלו",
         "guess": "2-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
+        "points": 3
       },
       {
         "name": "Itay Mor yosef",
@@ -4928,6 +4928,16 @@
         "points": 2
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 2
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 1.5
@@ -4945,16 +4955,6 @@
       {
         "name": "רוזן",
         "guess": "2-4",
-        "points": 2
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
         "points": 2
       },
       {
@@ -5075,6 +5075,16 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 0
@@ -5092,16 +5102,6 @@
       {
         "name": "רוזן",
         "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
         "points": 1.5
       },
       {
@@ -5227,6 +5227,16 @@
         "points": 1.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
@@ -5240,16 +5250,6 @@
         "name": "רוזן",
         "guess": "1-0",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
       },
       {
         "name": "Itay Mor yosef",
@@ -5374,6 +5374,16 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 2.5
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 0
@@ -5392,16 +5402,6 @@
         "name": "רוזן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 2.5
       },
       {
         "name": "Itay Mor yosef",
@@ -5506,6 +5506,16 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 5.5
@@ -5523,16 +5533,6 @@
       {
         "name": "רוזן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
         "points": 0
       },
       {
@@ -5638,6 +5638,16 @@
         "points": 6
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 5.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-4",
         "points": 1.5
@@ -5656,16 +5666,6 @@
         "name": "רוזן",
         "guess": "2-1",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-2",
-        "points": 5.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
       },
       {
         "name": "Itay Mor yosef",
@@ -5827,14 +5827,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
-        "points": 10
-      },
-      {
         "name": "רועי שלו",
         "guess": "2-0",
         "points": 4
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-1",
+        "points": 10
       },
       {
         "name": "Itay Mor yosef",
@@ -5899,6 +5899,11 @@
         "points": 12
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 12
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 12
@@ -5907,11 +5912,6 @@
         "name": "רוזן",
         "guess": "2-2",
         "points": 6
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 12
       },
       {
         "name": "Itay Mor yosef",
@@ -5976,6 +5976,11 @@
         "points": 3
       },
       {
+        "name": "רועי שלו",
+        "guess": "0-0",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 3
@@ -5983,11 +5988,6 @@
       {
         "name": "רוזן",
         "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-0",
         "points": 0
       },
       {
@@ -6048,17 +6048,17 @@
         "points": 10
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 10
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 4
       },
       {
         "name": "רוזן",
-        "guess": "1-2",
-        "points": 10
-      },
-      {
-        "name": "רועי שלו",
         "guess": "1-2",
         "points": 10
       },
@@ -6125,6 +6125,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 0
@@ -6132,11 +6137,6 @@
       {
         "name": "רוזן",
         "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
         "points": 0
       },
       {
@@ -6202,6 +6202,11 @@
         "points": 3
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 3
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "4-0",
         "points": 3
@@ -6209,11 +6214,6 @@
       {
         "name": "רוזן",
         "guess": "3-1",
-        "points": 3
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
         "points": 3
       },
       {
@@ -6240,6 +6240,78 @@
         "name": "אורי חיון",
         "guess": "3-0",
         "points": 9
+      }
+    ],
+    "1783101600000": [
+      {
+        "name": "תומר לידא",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "0-1",
+        "points": 11
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "0-1",
+        "points": 11
+      },
+      {
+        "name": "תומר בר",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "מרום אריש",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "0-1",
+        "points": 11
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "0-2",
+        "points": 5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-2",
+        "points": 5
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-2",
+        "points": 5
+      },
+      {
+        "name": "Itay Mor yosef",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "0-1",
+        "points": 11
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "0-0",
+        "points": 0
       }
     ],
     "1782867600000": [
@@ -6279,6 +6351,11 @@
         "points": 4
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 4
@@ -6286,11 +6363,6 @@
       {
         "name": "רוזן",
         "guess": "2-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
         "points": 0
       },
       {
@@ -6356,6 +6428,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 10
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
@@ -6364,11 +6441,6 @@
         "name": "רוזן",
         "guess": "2-2",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 10
       },
       {
         "name": "Itay Mor yosef",
@@ -6433,17 +6505,17 @@
         "points": 3
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 3
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 3
       },
       {
         "name": "רוזן",
-        "guess": "3-0",
-        "points": 3
-      },
-      {
-        "name": "רועי שלו",
         "guess": "3-0",
         "points": 3
       },
@@ -6510,6 +6582,11 @@
         "points": 0
       },
       {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 8
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
@@ -6518,11 +6595,6 @@
         "name": "רוזן",
         "guess": "1-2",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 8
       },
       {
         "name": "Itay Mor yosef",
@@ -6587,6 +6659,11 @@
         "points": 3
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 3
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 3
@@ -6594,11 +6671,6 @@
       {
         "name": "רוזן",
         "guess": "2-1",
-        "points": 3
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
         "points": 3
       },
       {
@@ -6664,6 +6736,11 @@
         "points": 4
       },
       {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 4
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 10
@@ -6672,11 +6749,6 @@
         "name": "רוזן",
         "guess": "0-1",
         "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-1",
-        "points": 4
       },
       {
         "name": "Itay Mor yosef",
@@ -6736,6 +6808,11 @@
         "points": 7.5
       },
       {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 7.5
@@ -6744,11 +6821,6 @@
         "name": "רוזן",
         "guess": "1-1",
         "points": 7.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 0
       },
       {
         "name": "Itay Mor yosef",
@@ -7108,6 +7180,11 @@
       "away": "שבדיה",
       "result": "3-0"
     },
+    "1783101600000": {
+      "home": "אוסטרליה",
+      "away": "מצרים",
+      "result": "0-1"
+    },
     "1782867600000": {
       "home": "מקסיקו",
       "away": "אקוודור",
@@ -7183,6 +7260,11 @@
           "points": 6
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 2
@@ -7191,11 +7273,6 @@
           "name": "רוזן",
           "guess": "2-0",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "Itay Mor yosef",
@@ -7267,6 +7344,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 3
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 0
@@ -7275,11 +7357,6 @@
           "name": "רוזן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-0",
-          "points": 3
         },
         {
           "name": "Itay Mor yosef",
@@ -7351,6 +7428,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7
@@ -7358,11 +7440,6 @@
         {
           "name": "רוזן",
           "guess": "1-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
           "points": 0
         },
         {
@@ -7435,6 +7512,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
@@ -7443,11 +7525,6 @@
           "name": "רוזן",
           "guess": "3-1",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -7519,17 +7596,17 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-3",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-3",
           "points": 0
         },
         {
           "name": "רוזן",
-          "guess": "0-3",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
           "guess": "0-3",
           "points": 0
         },
@@ -7603,6 +7680,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 8
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 0
@@ -7611,11 +7693,6 @@
           "name": "רוזן",
           "guess": "2-0",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 8
         },
         {
           "name": "Itay Mor yosef",
@@ -7682,17 +7759,17 @@
           "points": 5.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-4",
           "points": 1.5
         },
         {
           "name": "רוזן",
-          "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "0-2",
           "points": 1.5
         },
@@ -7761,13 +7838,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
+          "name": "רועי שלו",
+          "guess": "0-2",
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-1",
           "points": 0
         },
         {
@@ -7835,6 +7912,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "4-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "5-0",
           "points": 1.5
@@ -7842,11 +7924,6 @@
         {
           "name": "רוזן",
           "guess": "6-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "4-0",
           "points": 1.5
         },
         {
@@ -7919,6 +7996,11 @@
           "points": 7
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-0",
+          "points": 3
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 0
@@ -7927,11 +8009,6 @@
           "name": "רוזן",
           "guess": "3-1",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-0",
-          "points": 3
         },
         {
           "name": "Itay Mor yosef",
@@ -8003,6 +8080,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-1",
           "points": 0
@@ -8011,11 +8093,6 @@
           "name": "רוזן",
           "guess": "1-0",
           "points": 7.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -8161,6 +8238,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "5-0",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "6-0",
           "points": 0
@@ -8168,11 +8250,6 @@
         {
           "name": "רוזן",
           "guess": "4-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "5-0",
           "points": 0
         },
         {
@@ -8245,6 +8322,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 0
@@ -8252,11 +8334,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
           "points": 0
         },
         {
@@ -8329,6 +8406,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 0
@@ -8336,11 +8418,6 @@
         {
           "name": "רוזן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-3",
           "points": 0
         },
         {
@@ -8487,17 +8564,17 @@
           "points": 5.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 5.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 1.5
         },
         {
           "name": "רוזן",
-          "guess": "3-1",
-          "points": 5.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "3-1",
           "points": 5.5
         },
@@ -8571,6 +8648,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-4",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-4",
           "points": 1.5
@@ -8578,11 +8660,6 @@
         {
           "name": "רוזן",
           "guess": "0-3",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-4",
           "points": 1.5
         },
         {
@@ -8655,17 +8732,17 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 5.5
         },
         {
           "name": "רוזן",
-          "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "2-0",
           "points": 1.5
         },
@@ -8739,6 +8816,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 1.5
@@ -8747,11 +8829,6 @@
           "name": "רוזן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-0",
-          "points": 1.5
         },
         {
           "name": "Itay Mor yosef",
@@ -8823,6 +8900,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "4-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
@@ -8830,11 +8912,6 @@
         {
           "name": "רוזן",
           "guess": "4-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "4-1",
           "points": 0
         },
         {
@@ -8907,6 +8984,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
@@ -8915,11 +8997,6 @@
           "name": "רוזן",
           "guess": "2-1",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -8991,6 +9068,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
@@ -8999,11 +9081,6 @@
           "name": "רוזן",
           "guess": "1-0",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "Itay Mor yosef",
@@ -9075,17 +9152,17 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-4",
           "points": 1.5
         },
         {
           "name": "רוזן",
-          "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "0-2",
           "points": 1.5
         },
@@ -9154,6 +9231,11 @@
           "points": 7.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7.5
@@ -9162,11 +9244,6 @@
           "name": "רוזן",
           "guess": "1-1",
           "points": 7.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -9233,6 +9310,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
@@ -9240,11 +9322,6 @@
         {
           "name": "רוזן",
           "guess": "1-0",
-          "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-0",
           "points": 2
         },
         {
@@ -9317,6 +9394,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 2
@@ -9324,11 +9406,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-0",
           "points": 2
         },
         {
@@ -9401,6 +9478,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 2
@@ -9408,11 +9490,6 @@
         {
           "name": "רוזן",
           "guess": "2-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
           "points": 0
         },
         {
@@ -9485,6 +9562,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
@@ -9492,11 +9574,6 @@
         {
           "name": "רוזן",
           "guess": "3-1",
-          "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
           "points": 2
         },
         {
@@ -9569,6 +9646,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-1",
+          "points": 6
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 2
@@ -9577,11 +9659,6 @@
           "name": "רוזן",
           "guess": "0-2",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-1",
-          "points": 6
         },
         {
           "name": "Itay Mor yosef",
@@ -9653,6 +9730,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-0",
+          "points": 5.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "6-0",
           "points": 1.5
@@ -9661,11 +9743,6 @@
           "name": "רוזן",
           "guess": "4-1",
           "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-0",
-          "points": 5.5
         },
         {
           "name": "Itay Mor yosef",
@@ -9727,17 +9804,17 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
         },
         {
           "name": "רוזן",
-          "guess": "2-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
           "guess": "2-1",
           "points": 0
         },
@@ -9801,6 +9878,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
@@ -9809,11 +9891,6 @@
           "name": "רוזן",
           "guess": "1-2",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-0",
-          "points": 2
         },
         {
           "name": "Itay Mor yosef",
@@ -9875,6 +9952,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 1.5
@@ -9882,11 +9964,6 @@
         {
           "name": "רוזן",
           "guess": "3-1",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-0",
           "points": 1.5
         },
         {
@@ -9954,6 +10031,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 0
@@ -9961,11 +10043,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
           "points": 0
         },
         {
@@ -10038,6 +10115,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 2
@@ -10045,11 +10127,6 @@
         {
           "name": "רוזן",
           "guess": "1-3",
-          "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 2
         },
         {
@@ -10122,6 +10199,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 1.5
@@ -10129,11 +10211,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
           "points": 1.5
         },
         {
@@ -10206,17 +10283,17 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
         },
         {
           "name": "רוזן",
-          "guess": "2-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
           "guess": "2-0",
           "points": 0
         },
@@ -10369,6 +10446,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 6
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-1",
           "points": 2
@@ -10377,11 +10459,6 @@
           "name": "רוזן",
           "guess": "1-2",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-3",
-          "points": 6
         },
         {
           "name": "Itay Mor yosef",
@@ -10453,6 +10530,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 6
@@ -10461,11 +10543,6 @@
           "name": "רוזן",
           "guess": "2-0",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "Itay Mor yosef",
@@ -10537,13 +10614,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "5-1",
+          "name": "רועי שלו",
+          "guess": "4-0",
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "4-0",
+          "name": "רוזן",
+          "guess": "5-1",
           "points": 1.5
         },
         {
@@ -10616,6 +10693,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
@@ -10624,11 +10706,6 @@
           "name": "רוזן",
           "guess": "3-2",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "Itay Mor yosef",
@@ -10700,6 +10777,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 6
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
@@ -10708,11 +10790,6 @@
           "name": "רוזן",
           "guess": "0-1",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 6
         },
         {
           "name": "Itay Mor yosef",
@@ -10779,17 +10856,17 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 1.5
         },
         {
           "name": "רוזן",
-          "guess": "3-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "3-0",
           "points": 1.5
         },
@@ -10863,6 +10940,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 0
@@ -10870,11 +10952,6 @@
         {
           "name": "רוזן",
           "guess": "4-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
           "points": 0
         },
         {
@@ -10947,6 +11024,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 1.5
@@ -10954,11 +11036,6 @@
         {
           "name": "רוזן",
           "guess": "0-3",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -11031,6 +11108,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 1.5
@@ -11038,11 +11120,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
           "points": 1.5
         },
         {
@@ -11110,6 +11187,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 6.5
@@ -11117,11 +11199,6 @@
         {
           "name": "רוזן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
           "points": 0
         },
         {
@@ -11189,6 +11266,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 6
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 2
@@ -11197,11 +11279,6 @@
           "name": "רוזן",
           "guess": "1-0",
           "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
-          "points": 6
         },
         {
           "name": "Itay Mor yosef",
@@ -11268,6 +11345,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 1.5
@@ -11275,11 +11357,6 @@
         {
           "name": "רוזן",
           "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 1.5
         },
         {
@@ -11347,6 +11424,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 1.5
@@ -11354,11 +11436,6 @@
         {
           "name": "רוזן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -11426,6 +11503,11 @@
           "points": 2.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 2.5
@@ -11434,11 +11516,6 @@
           "name": "רוזן",
           "guess": "1-2",
           "points": 2.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -11505,6 +11582,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-2",
           "points": 0
@@ -11512,11 +11594,6 @@
         {
           "name": "רוזן",
           "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-2",
           "points": 0
         },
         {
@@ -11589,6 +11666,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-4",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-3",
           "points": 1.5
@@ -11596,11 +11678,6 @@
         {
           "name": "רוזן",
           "guess": "0-1",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-4",
           "points": 1.5
         },
         {
@@ -11673,6 +11750,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 0
@@ -11680,11 +11762,6 @@
         {
           "name": "רוזן",
           "guess": "0-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-3",
           "points": 0
         },
         {
@@ -11757,17 +11834,17 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-3",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-4",
           "points": 1.5
         },
         {
           "name": "רוזן",
-          "guess": "0-3",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "0-3",
           "points": 1.5
         },
@@ -11841,6 +11918,11 @@
           "points": 7
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7
@@ -11848,11 +11930,6 @@
         {
           "name": "רוזן",
           "guess": "2-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 0
         },
         {
@@ -11925,13 +12002,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-3",
+          "name": "רועי שלו",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
+          "name": "רוזן",
+          "guess": "1-3",
           "points": 0
         },
         {
@@ -12004,14 +12081,14 @@
           "points": 7
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
-          "points": 3
-        },
-        {
           "name": "רועי שלו",
           "guess": "2-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-1",
+          "points": 3
         },
         {
           "name": "Itay Mor yosef",
@@ -12083,6 +12160,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 1.5
@@ -12090,11 +12172,6 @@
         {
           "name": "רוזן",
           "guess": "3-1",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -12167,6 +12244,11 @@
           "points": 2
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 2
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 2
@@ -12174,11 +12256,6 @@
         {
           "name": "רוזן",
           "guess": "2-4",
-          "points": 2
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 2
         },
         {
@@ -12246,6 +12323,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 0
@@ -12253,11 +12335,6 @@
         {
           "name": "רוזן",
           "guess": "2-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 0
         },
         {
@@ -12330,6 +12407,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 1.5
@@ -12337,11 +12419,6 @@
         {
           "name": "רוזן",
           "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 1.5
         },
         {
@@ -12414,6 +12491,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
@@ -12421,11 +12503,6 @@
         {
           "name": "רוזן",
           "guess": "1-0",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-0",
           "points": 0
         },
         {
@@ -12498,13 +12575,13 @@
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-2",
+          "name": "רועי שלו",
+          "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "1-2",
           "points": 1.5
         },
         {
@@ -12577,6 +12654,11 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 5.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-4",
           "points": 1.5
@@ -12585,11 +12667,6 @@
           "name": "רוזן",
           "guess": "0-3",
           "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-2",
-          "points": 5.5
         },
         {
           "name": "Itay Mor yosef",
@@ -12661,6 +12738,11 @@
           "points": 6
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 6
@@ -12669,11 +12751,6 @@
           "name": "רוזן",
           "guess": "2-1",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 0
         },
         {
           "name": "Itay Mor yosef",
@@ -12745,6 +12822,11 @@
           "points": 3.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 0
@@ -12752,11 +12834,6 @@
         {
           "name": "רוזן",
           "guess": "2-3",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-2",
           "points": 0
         },
         {
@@ -12819,6 +12896,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 2.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 2.5
@@ -12827,11 +12909,6 @@
           "name": "רוזן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-0",
-          "points": 2.5
         },
         {
           "name": "Itay Mor yosef",
@@ -12893,17 +12970,17 @@
           "points": 1.5
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-3",
+          "points": 1.5
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 5.5
         },
         {
           "name": "רוזן",
-          "guess": "0-3",
-          "points": 1.5
-        },
-        {
-          "name": "רועי שלו",
           "guess": "0-3",
           "points": 1.5
         },
@@ -12967,6 +13044,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-1",
           "points": 0
@@ -12974,11 +13056,6 @@
         {
           "name": "רוזן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-3",
           "points": 0
         },
         {
@@ -13120,14 +13197,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
-          "points": 10
-        },
-        {
           "name": "רועי שלו",
           "guess": "2-0",
           "points": 4
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-1",
+          "points": 10
         },
         {
           "name": "Itay Mor yosef",
@@ -13199,6 +13276,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 0
@@ -13206,11 +13288,6 @@
         {
           "name": "רוזן",
           "guess": "2-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
           "points": 0
         },
         {
@@ -13283,6 +13360,11 @@
           "points": 12
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 12
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 12
@@ -13291,11 +13373,6 @@
           "name": "רוזן",
           "guess": "2-2",
           "points": 6
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 12
         },
         {
           "name": "Itay Mor yosef",
@@ -13362,17 +13439,17 @@
           "points": 10
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 10
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 4
         },
         {
           "name": "רוזן",
-          "guess": "1-2",
-          "points": 10
-        },
-        {
-          "name": "רועי שלו",
           "guess": "1-2",
           "points": 10
         },
@@ -13446,6 +13523,11 @@
           "points": 3
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 3
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "4-0",
           "points": 3
@@ -13453,11 +13535,6 @@
         {
           "name": "רוזן",
           "guess": "3-1",
-          "points": 3
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
           "points": 3
         },
         {
@@ -13530,6 +13607,11 @@
           "points": 4
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 4
@@ -13537,11 +13619,6 @@
         {
           "name": "רוזן",
           "guess": "2-2",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
           "points": 0
         },
         {
@@ -13614,17 +13691,17 @@
           "points": 3
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-0",
+          "points": 3
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 3
         },
         {
           "name": "רוזן",
-          "guess": "3-0",
-          "points": 3
-        },
-        {
-          "name": "רועי שלו",
           "guess": "3-0",
           "points": 3
         },
@@ -13698,6 +13775,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 8
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
@@ -13706,11 +13788,6 @@
           "name": "רוזן",
           "guess": "1-2",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 8
         },
         {
           "name": "Itay Mor yosef",
@@ -13782,6 +13859,11 @@
           "points": 3
         },
         {
+          "name": "רועי שלו",
+          "guess": "0-0",
+          "points": 0
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 3
@@ -13789,11 +13871,6 @@
         {
           "name": "רוזן",
           "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "0-0",
           "points": 0
         },
         {
@@ -13866,6 +13943,11 @@
           "points": 3
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 3
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 3
@@ -13873,11 +13955,6 @@
         {
           "name": "רוזן",
           "guess": "2-1",
-          "points": 3
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
           "points": 3
         },
         {
@@ -13950,6 +14027,11 @@
           "points": 0
         },
         {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 10
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
@@ -13958,11 +14040,6 @@
           "name": "רוזן",
           "guess": "2-2",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 10
         },
         {
           "name": "Itay Mor yosef",
@@ -14034,6 +14111,11 @@
           "points": 4
         },
         {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 4
+        },
+        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 10
@@ -14042,11 +14124,6 @@
           "name": "רוזן",
           "guess": "0-1",
           "points": 0
-        },
-        {
-          "name": "רועי שלו",
-          "guess": "3-1",
-          "points": 4
         },
         {
           "name": "Itay Mor yosef",
@@ -14074,31 +14151,102 @@
           "points": 0
         }
       ]
+    },
+    {
+      "gid": "76a3f9ecdebdcc",
+      "ts": 1783101600000,
+      "home": "אוסטרליה",
+      "away": "מצרים",
+      "result": "0-1",
+      "picks": [
+        {
+          "name": "תומר לידא",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "גל אטיאס",
+          "guess": "0-1",
+          "points": 11
+        },
+        {
+          "name": "Guy Shmuel",
+          "guess": "0-1",
+          "points": 11
+        },
+        {
+          "name": "תומר בר",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
+          "name": "מרום אריש",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
+          "name": "עומר שדה",
+          "guess": "0-1",
+          "points": 11
+        },
+        {
+          "name": "עמית לוי",
+          "guess": "0-2",
+          "points": 5
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
+          "name": "ברק ברהמי",
+          "guess": "1-2",
+          "points": 5
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-2",
+          "points": 5
+        },
+        {
+          "name": "Itay Mor yosef",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
+          "name": "אלון לוין",
+          "guess": "1-0",
+          "points": 0
+        },
+        {
+          "name": "amit yeruham",
+          "guess": "0-1",
+          "points": 11
+        },
+        {
+          "name": "יקיר כהן",
+          "guess": "0-0",
+          "points": 0
+        }
+      ]
     }
   ],
   "missingBets": {
-    "1783101600000": [
-      "תומר בר",
-      "אורי חיון"
-    ],
     "1783116000000": [
-      "תומר בר",
       "אורי חיון"
     ],
     "1783128600000": [
-      "גל אטיאס",
-      "תומר בר",
       "אורי חיון"
     ],
     "1783191600000": [
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
@@ -14110,9 +14258,9 @@
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
@@ -14124,9 +14272,9 @@
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
@@ -14134,13 +14282,12 @@
     ],
     "1783198800000": [
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
@@ -14152,9 +14299,9 @@
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
@@ -14168,9 +14315,9 @@
       "תומר בר",
       "מרום אריש",
       "עומר שדה",
+      "רועי שלו",
       "ברק ברהמי",
       "רוזן",
-      "רועי שלו",
       "Itay Mor yosef",
       "אלון לוין",
       "amit yeruham",
