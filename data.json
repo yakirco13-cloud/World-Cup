@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T17:01:55.756Z",
+  "updated": "2026-07-03T18:23:04.946Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -564,15 +564,15 @@
       "penalties": 0
     },
     {
-      "name": "Maximiliano Araújo",
-      "teamHe": "אורוגוואי",
+      "name": "Emam Ashour",
+      "teamHe": "מצרים",
       "goals": 2,
-      "assists": 1,
+      "assists": 0,
       "penalties": 0
     },
     {
-      "name": "Ramin Rezaeian",
-      "teamHe": "איראן",
+      "name": "Maximiliano Araújo",
+      "teamHe": "אורוגוואי",
       "goals": 2,
       "assists": 1,
       "penalties": 0
