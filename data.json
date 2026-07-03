@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:16:56.902Z",
+  "updated": "2026-07-03T04:29:18.638Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -476,7 +476,7 @@
       "name": "Johan Manzambi",
       "teamHe": "שווייץ",
       "goals": 3,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0
     },
     {
@@ -508,6 +508,13 @@
       "penalties": 0
     },
     {
+      "name": "Cristiano Ronaldo",
+      "teamHe": "פורטוגל",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
       "name": "Raúl Jiménez",
       "teamHe": "מקסיקו",
       "goals": 2,
@@ -520,6 +527,13 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0
+    },
+    {
+      "name": "Breel Embolo",
+      "teamHe": "שווייץ",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 1
     },
     {
       "name": "Crysencio Summerville",
@@ -562,20 +576,6 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0
-    },
-    {
-      "name": "Bradley Barcola",
-      "teamHe": "צרפת",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Marko Arnautovic",
-      "teamHe": "אוסטריה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1
     }
   ],
   "crests": {
