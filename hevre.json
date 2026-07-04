@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:26:23.282Z",
+  "updated": "2026-07-04T20:31:04.089Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -65,7 +65,7 @@
     },
     {
       "name": "גל אטיאס",
-      "points": 210.5,
+      "points": 204.5,
       "exact": 11,
       "direction": 47,
       "misses": 31,
