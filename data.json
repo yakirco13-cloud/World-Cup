@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:12:13.039Z",
+  "updated": "2026-07-04T22:35:23.533Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -453,7 +453,7 @@
     "87": "FINISHED",
     "88": "FINISHED",
     "89": "FINISHED",
-    "90": "LIVE",
+    "90": "IN_PLAY",
     "91": "TIMED",
     "92": "TIMED",
     "93": "TIMED",
@@ -462,17 +462,17 @@
   "forms": {},
   "scorers": [
     {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 7,
+      "assists": 2,
+      "penalties": 1
+    },
+    {
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 7,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Kylian Mbappé",
-      "teamHe": "צרפת",
-      "goals": 6,
-      "assists": 2,
       "penalties": 0
     },
     {
