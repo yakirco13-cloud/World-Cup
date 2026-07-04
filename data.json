@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T00:15:36.323Z",
+  "updated": "2026-07-04T04:23:19.775Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -371,7 +371,7 @@
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 7,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0
     },
     {
