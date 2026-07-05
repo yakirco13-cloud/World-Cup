@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:16:40.020Z",
+  "updated": "2026-07-05T22:36:41.259Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -363,8 +363,8 @@
       "a": "1"
     },
     "91": {
-      "h": "0",
-      "a": "0"
+      "h": "1",
+      "a": "2"
     }
   },
   "status": {
@@ -458,7 +458,7 @@
     "88": "FINISHED",
     "89": "FINISHED",
     "90": "FINISHED",
-    "91": "LIVE",
+    "91": "FINISHED",
     "92": "TIMED",
     "93": "TIMED",
     "94": "TIMED"
@@ -473,16 +473,16 @@
       "penalties": 1
     },
     {
-      "name": "Lionel Messi",
-      "teamHe": "ארגנטינה",
+      "name": "Erling Haaland",
+      "teamHe": "נורבגיה",
       "goals": 7,
       "assists": 0,
       "penalties": 0
     },
     {
-      "name": "Erling Haaland",
-      "teamHe": "נורבגיה",
-      "goals": 5,
+      "name": "Lionel Messi",
+      "teamHe": "ארגנטינה",
+      "goals": 7,
       "assists": 0,
       "penalties": 0
     },
