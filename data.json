@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T23:44:09.106Z",
+  "updated": "2026-07-06T04:35:52.964Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -365,6 +365,10 @@
     "91": {
       "h": "1",
       "a": "2"
+    },
+    "92": {
+      "h": "2",
+      "a": "3"
     }
   },
   "status": {
@@ -459,7 +463,7 @@
     "89": "FINISHED",
     "90": "FINISHED",
     "91": "FINISHED",
-    "92": "2026-07-06 01:00:00Z",
+    "92": "FINISHED",
     "93": "TIMED",
     "94": "TIMED"
   },
@@ -489,13 +493,27 @@
     {
       "name": "Harry Kane",
       "teamHe": "אנגליה",
-      "goals": 5,
-      "assists": 0,
-      "penalties": 1
+      "goals": 6,
+      "assists": 1,
+      "penalties": 2
+    },
+    {
+      "name": "Julián Quiñones",
+      "teamHe": "מקסיקו",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0
     },
     {
       "name": "Vinicius Junior",
       "teamHe": "ברזיל",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
+      "name": "Jude Bellingham",
+      "teamHe": "אנגליה",
       "goals": 4,
       "assists": 1,
       "penalties": 0
@@ -522,11 +540,11 @@
       "penalties": 0
     },
     {
-      "name": "Julián Quiñones",
+      "name": "Raúl Jiménez",
       "teamHe": "מקסיקו",
       "goals": 3,
-      "assists": 1,
-      "penalties": 0
+      "assists": 0,
+      "penalties": 1
     },
     {
       "name": "Folarin Balogun",
@@ -613,13 +631,6 @@
       "penalties": 1
     },
     {
-      "name": "Raúl Jiménez",
-      "teamHe": "מקסיקו",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
       "name": "Cyle Larin",
       "teamHe": "קנדה",
       "goals": 2,
@@ -666,13 +677,6 @@
       "teamHe": "מצרים",
       "goals": 2,
       "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Maximiliano Araújo",
-      "teamHe": "אורוגוואי",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0
     }
   ],
