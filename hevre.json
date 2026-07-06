@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-06T18:27:42.406Z",
+  "updated": "2026-07-06T20:28:58.312Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "מרום אריש",
-      "points": 225.5,
+      "points": 231.5,
       "exact": 10,
-      "direction": 49,
+      "direction": 50,
       "misses": 33,
-      "guessed": 92,
+      "guessed": 93,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -21,11 +21,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 0,
+      "momentum": 1,
       "riskAvg": 2.2,
-      "riskCount": 92,
-      "goalGap": 193,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 195,
+      "goalGapGames": 93,
       "perfect85": 6,
       "robbed85": 2,
       "covered85": 84,
@@ -38,8 +38,8 @@
       "points": 220,
       "exact": 13,
       "direction": 46,
-      "misses": 32,
-      "guessed": 91,
+      "misses": 33,
+      "guessed": 92,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -53,9 +53,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 91,
-      "goalGap": 164,
-      "goalGapGames": 91,
+      "riskCount": 92,
+      "goalGap": 167,
+      "goalGapGames": 92,
       "perfect85": 10,
       "robbed85": 1,
       "covered85": 83,
@@ -68,8 +68,8 @@
       "points": 214.5,
       "exact": 11,
       "direction": 49,
-      "misses": 32,
-      "guessed": 92,
+      "misses": 33,
+      "guessed": 93,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -81,11 +81,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2,
-      "riskCount": 92,
-      "goalGap": 166,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 169,
+      "goalGapGames": 93,
       "perfect85": 10,
       "robbed85": 2,
       "covered85": 84,
@@ -98,8 +98,8 @@
       "points": 211,
       "exact": 14,
       "direction": 40,
-      "misses": 33,
-      "guessed": 87,
+      "misses": 34,
+      "guessed": 88,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -111,11 +111,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2,
-      "riskCount": 87,
-      "goalGap": 161,
-      "goalGapGames": 87,
+      "riskCount": 88,
+      "goalGap": 162,
+      "goalGapGames": 88,
       "perfect85": 10,
       "robbed85": 3,
       "covered85": 79,
@@ -128,8 +128,8 @@
       "points": 203.5,
       "exact": 12,
       "direction": 43,
-      "misses": 37,
-      "guessed": 92,
+      "misses": 38,
+      "guessed": 93,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -143,9 +143,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.1,
-      "riskCount": 92,
-      "goalGap": 182,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 186,
+      "goalGapGames": 93,
       "perfect85": 9,
       "robbed85": 1,
       "covered85": 84,
@@ -158,8 +158,8 @@
       "points": 198,
       "exact": 13,
       "direction": 41,
-      "misses": 34,
-      "guessed": 88,
+      "misses": 35,
+      "guessed": 89,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": false,
@@ -173,9 +173,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.2,
-      "riskCount": 88,
-      "goalGap": 171,
-      "goalGapGames": 88,
+      "riskCount": 89,
+      "goalGap": 174,
+      "goalGapGames": 89,
       "perfect85": 8,
       "robbed85": 1,
       "covered85": 80,
@@ -188,8 +188,8 @@
       "points": 196.5,
       "exact": 9,
       "direction": 37,
-      "misses": 46,
-      "guessed": 92,
+      "misses": 47,
+      "guessed": 93,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -203,9 +203,9 @@
       },
       "momentum": 0,
       "riskAvg": 3,
-      "riskCount": 92,
-      "goalGap": 171,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 174,
+      "goalGapGames": 93,
       "perfect85": 9,
       "robbed85": 5,
       "covered85": 84,
@@ -215,11 +215,11 @@
     },
     {
       "name": "עומר שדה",
-      "points": 187.5,
+      "points": 193.5,
       "exact": 8,
-      "direction": 46,
+      "direction": 47,
       "misses": 36,
-      "guessed": 90,
+      "guessed": 91,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -231,11 +231,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 2,
       "riskAvg": 2.3,
-      "riskCount": 90,
-      "goalGap": 167,
-      "goalGapGames": 90,
+      "riskCount": 91,
+      "goalGap": 169,
+      "goalGapGames": 91,
       "perfect85": 10,
       "robbed85": 5,
       "covered85": 82,
@@ -244,13 +244,13 @@
       "rank": 8
     },
     {
-      "name": "עמית לוי",
-      "points": 182.5,
+      "name": "ברק ברהמי",
+      "points": 184,
       "exact": 10,
-      "direction": 42,
-      "misses": 40,
-      "guessed": 92,
-      "champion": "אנגליה",
+      "direction": 44,
+      "misses": 33,
+      "guessed": 87,
+      "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
       "pointsFromScorer": 17,
@@ -262,24 +262,54 @@
         "result": "1-1"
       },
       "momentum": 1,
+      "riskAvg": 2.1,
+      "riskCount": 87,
+      "goalGap": 160,
+      "goalGapGames": 87,
+      "perfect85": 12,
+      "robbed85": 4,
+      "covered85": 78,
+      "pointsLost": 38.5,
+      "pointsLostGames": 7,
+      "rank": 9
+    },
+    {
+      "name": "עמית לוי",
+      "points": 182.5,
+      "exact": 10,
+      "direction": 42,
+      "misses": 41,
+      "guessed": 93,
+      "champion": "אנגליה",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": false,
+      "pointsFromScorer": 17,
+      "bestBet": {
+        "points": 12,
+        "home": "מרוקו",
+        "away": "הולנד",
+        "guess": "1-1",
+        "result": "1-1"
+      },
+      "momentum": 0,
       "riskAvg": 2.4,
-      "riskCount": 92,
-      "goalGap": 184,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 188,
+      "goalGapGames": 93,
       "perfect85": 6,
       "robbed85": 0,
       "covered85": 84,
       "pointsLost": 27.5,
       "pointsLostGames": 5,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "רוזן",
       "points": 180.5,
       "exact": 10,
       "direction": 43,
-      "misses": 38,
-      "guessed": 91,
+      "misses": 39,
+      "guessed": 92,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -293,23 +323,23 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 91,
-      "goalGap": 172,
-      "goalGapGames": 91,
+      "riskCount": 92,
+      "goalGap": 175,
+      "goalGapGames": 92,
       "perfect85": 4,
       "robbed85": 1,
       "covered85": 83,
       "pointsLost": 25.5,
       "pointsLostGames": 5,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "יקיר כהן",
       "points": 180,
       "exact": 9,
       "direction": 38,
-      "misses": 45,
-      "guessed": 92,
+      "misses": 46,
+      "guessed": 93,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -323,44 +353,14 @@
       },
       "momentum": 0,
       "riskAvg": 2.7,
-      "riskCount": 92,
-      "goalGap": 191,
-      "goalGapGames": 92,
+      "riskCount": 93,
+      "goalGap": 195,
+      "goalGapGames": 93,
       "perfect85": 8,
       "robbed85": 3,
       "covered85": 84,
       "pointsLost": 49.5,
       "pointsLostGames": 6,
-      "rank": 11
-    },
-    {
-      "name": "ברק ברהמי",
-      "points": 178,
-      "exact": 10,
-      "direction": 43,
-      "misses": 33,
-      "guessed": 86,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": false,
-      "pointsFromScorer": 17,
-      "bestBet": {
-        "points": 12,
-        "home": "מרוקו",
-        "away": "הולנד",
-        "guess": "1-1",
-        "result": "1-1"
-      },
-      "momentum": 0,
-      "riskAvg": 2,
-      "riskCount": 86,
-      "goalGap": 158,
-      "goalGapGames": 86,
-      "perfect85": 12,
-      "robbed85": 4,
-      "covered85": 78,
-      "pointsLost": 38.5,
-      "pointsLostGames": 7,
       "rank": 12
     },
     {
@@ -368,8 +368,8 @@
       "points": 164,
       "exact": 6,
       "direction": 43,
-      "misses": 40,
-      "guessed": 89,
+      "misses": 41,
+      "guessed": 90,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -383,9 +383,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.5,
-      "riskCount": 89,
-      "goalGap": 172,
-      "goalGapGames": 89,
+      "riskCount": 90,
+      "goalGap": 175,
+      "goalGapGames": 90,
       "perfect85": 6,
       "robbed85": 2,
       "covered85": 81,
@@ -398,8 +398,8 @@
       "points": 151.5,
       "exact": 10,
       "direction": 26,
-      "misses": 46,
-      "guessed": 82,
+      "misses": 47,
+      "guessed": 83,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -413,9 +413,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.7,
-      "riskCount": 82,
-      "goalGap": 149,
-      "goalGapGames": 82,
+      "riskCount": 83,
+      "goalGap": 151,
+      "goalGapGames": 83,
       "perfect85": 10,
       "robbed85": 4,
       "covered85": 74,
@@ -497,6 +497,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 6
@@ -509,11 +514,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-1",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
         "points": 2
       },
       {
@@ -574,6 +574,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 0
@@ -586,11 +591,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-3",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 0
       },
       {
@@ -651,6 +651,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 7
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-2",
         "points": 0
@@ -664,11 +669,6 @@
         "name": "יקיר כהן",
         "guess": "1-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 7
       },
       {
         "name": "אלון לוין",
@@ -728,6 +728,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 2
@@ -740,11 +745,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
         "points": 2
       },
       {
@@ -805,6 +805,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-3",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-3",
         "points": 0
@@ -816,11 +821,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "0-3",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "0-3",
         "points": 0
       },
@@ -882,6 +882,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 0
@@ -895,11 +900,6 @@
         "name": "יקיר כהן",
         "guess": "2-2",
         "points": 4
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -954,6 +954,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-1",
         "points": 5.5
@@ -966,11 +971,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-4",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
         "points": 1.5
       },
       {
@@ -1093,6 +1093,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "5-0",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 1.5
@@ -1105,11 +1110,6 @@
       {
         "name": "יקיר כהן",
         "guess": "5-1",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "5-0",
         "points": 1.5
       },
       {
@@ -1170,6 +1170,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-2",
         "points": 7
@@ -1182,11 +1187,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
         "points": 0
       },
       {
@@ -1247,6 +1247,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -1260,11 +1265,6 @@
         "name": "יקיר כהן",
         "guess": "2-0",
         "points": 3.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -1391,6 +1391,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "6-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "6-0",
         "points": 0
@@ -1403,11 +1408,6 @@
       {
         "name": "יקיר כהן",
         "guess": "5-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "6-0",
         "points": 0
       },
       {
@@ -1468,6 +1468,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 0
@@ -1481,11 +1486,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 8
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -1545,6 +1545,11 @@
         "points": 9
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-3",
         "points": 0
@@ -1557,11 +1562,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 0
       },
       {
@@ -1612,6 +1612,11 @@
         "points": 4.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 4.5
@@ -1625,11 +1630,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 4.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-0",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -1689,6 +1689,11 @@
         "points": 5.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "4-1",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-1",
         "points": 5.5
@@ -1702,11 +1707,6 @@
         "name": "יקיר כהן",
         "guess": "3-1",
         "points": 5.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "4-1",
-        "points": 1.5
       },
       {
         "name": "אלון לוין",
@@ -1766,6 +1766,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-5",
         "points": 1.5
@@ -1778,11 +1783,6 @@
       {
         "name": "יקיר כהן",
         "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
         "points": 1.5
       },
       {
@@ -1843,6 +1843,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-0",
+        "points": 5.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 1.5
@@ -1856,11 +1861,6 @@
         "name": "יקיר כהן",
         "guess": "1-0",
         "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
-        "points": 5.5
       },
       {
         "name": "אלון לוין",
@@ -1920,6 +1920,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 1.5
@@ -1932,11 +1937,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
         "points": 1.5
       },
       {
@@ -1997,6 +1997,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 0
@@ -2009,11 +2014,6 @@
       {
         "name": "יקיר כהן",
         "guess": "3-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
         "points": 0
       },
       {
@@ -2074,6 +2074,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 2
@@ -2087,11 +2092,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -2151,6 +2151,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -2163,11 +2168,6 @@
       {
         "name": "יקיר כהן",
         "guess": "0-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
         "points": 0
       },
       {
@@ -2228,6 +2228,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 1.5
@@ -2240,11 +2245,6 @@
       {
         "name": "יקיר כהן",
         "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
         "points": 1.5
       },
       {
@@ -2300,6 +2300,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 7.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 7.5
@@ -2313,11 +2318,6 @@
         "name": "יקיר כהן",
         "guess": "2-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 7.5
       },
       {
         "name": "אלון לוין",
@@ -2372,6 +2372,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -2384,11 +2389,6 @@
       {
         "name": "יקיר כהן",
         "guess": "3-1",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
         "points": 2
       },
       {
@@ -2449,6 +2449,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 2
@@ -2462,11 +2467,6 @@
         "name": "יקיר כהן",
         "guess": "0-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -2526,6 +2526,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 2
@@ -2539,11 +2544,6 @@
         "name": "יקיר כהן",
         "guess": "1-2",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -2603,6 +2603,11 @@
         "points": 6
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 2
@@ -2614,11 +2619,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "2-1",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
       },
@@ -2680,6 +2680,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -2692,11 +2697,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
         "points": 2
       },
       {
@@ -2757,6 +2757,11 @@
         "points": 5.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "6-0",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "5-0",
         "points": 1.5
@@ -2769,11 +2774,6 @@
       {
         "name": "יקיר כהן",
         "guess": "4-0",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "6-0",
         "points": 1.5
       },
       {
@@ -2824,6 +2824,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -2835,11 +2840,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
       },
@@ -2891,6 +2891,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-2",
         "points": 0
@@ -2904,11 +2909,6 @@
         "name": "יקיר כהן",
         "guess": "2-2",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -2958,6 +2958,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 1.5
@@ -2970,11 +2975,6 @@
       {
         "name": "יקיר כהן",
         "guess": "4-0",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
         "points": 1.5
       },
       {
@@ -3030,6 +3030,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 0
@@ -3042,11 +3047,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
         "points": 0
       },
       {
@@ -3107,6 +3107,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -3118,11 +3123,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "0-2",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 2
       },
@@ -3184,6 +3184,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "4-1",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 1.5
@@ -3195,11 +3200,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "4-1",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 1.5
       },
@@ -3261,6 +3261,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-1",
         "points": 0
@@ -3273,11 +3278,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
         "points": 0
       },
       {
@@ -3333,6 +3333,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 0
@@ -3345,11 +3350,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
         "points": 0
       },
       {
@@ -3410,6 +3410,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-1",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -3423,11 +3428,6 @@
         "name": "יקיר כהן",
         "guess": "2-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-1",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -3487,6 +3487,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 6
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-1",
         "points": 2
@@ -3500,11 +3505,6 @@
         "name": "יקיר כהן",
         "guess": "3-1",
         "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
-        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -3636,6 +3636,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 2
@@ -3647,11 +3652,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
       },
@@ -3713,6 +3713,11 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 2
@@ -3724,11 +3729,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
       },
@@ -3785,6 +3785,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 1.5
@@ -3798,11 +3803,6 @@
         "name": "יקיר כהן",
         "guess": "5-0",
         "points": 5.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
-        "points": 1.5
       },
       {
         "name": "אלון לוין",
@@ -3862,6 +3862,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "4-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-1",
         "points": 0
@@ -3874,11 +3879,6 @@
       {
         "name": "יקיר כהן",
         "guess": "3-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "4-1",
         "points": 0
       },
       {
@@ -3939,6 +3939,11 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-3",
         "points": 1.5
@@ -3951,11 +3956,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -4016,6 +4016,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 1.5
@@ -4028,11 +4033,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
         "points": 1.5
       },
       {
@@ -4123,6 +4123,16 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 6.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -4151,16 +4161,6 @@
         "name": "יקיר כהן",
         "guess": "0-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 6.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
-        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -4265,6 +4265,16 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -4292,16 +4302,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-0",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
         "points": 1.5
       },
       {
@@ -4407,42 +4407,42 @@
         "points": 0
       },
       {
-        "name": "עמית לוי",
-        "guess": "1-2",
-        "points": 2.5
-      },
-      {
-        "name": "עמית לוי",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 2.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "יקיר כהן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 2.5
       },
       {
         "name": "ברק ברהמי",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "1-2",
+        "points": 2.5
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
+        "points": 2.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
         "guess": "1-2",
         "points": 0
       },
@@ -4559,6 +4559,16 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-3",
         "points": 1.5
@@ -4586,16 +4596,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 0
       },
       {
@@ -4711,6 +4711,16 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-4",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 7
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 1.5
@@ -4739,16 +4749,6 @@
         "name": "יקיר כהן",
         "guess": "2-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-4",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 7
       },
       {
         "name": "אלון לוין",
@@ -5005,6 +5005,16 @@
         "points": 2
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 2
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-0",
         "points": 1.5
@@ -5031,16 +5041,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "1-3",
-        "points": 2
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 2
       },
@@ -5152,6 +5152,16 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-1",
         "points": 0
@@ -5180,16 +5190,6 @@
         "name": "יקיר כהן",
         "guess": "2-2",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
-        "points": 1.5
       },
       {
         "name": "אלון לוין",
@@ -5304,6 +5304,16 @@
         "points": 1.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-2",
+        "points": 1.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-0",
         "points": 0
@@ -5327,16 +5337,6 @@
         "name": "יקיר כהן",
         "guess": "1-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-2",
-        "points": 1.5
       },
       {
         "name": "אלון לוין",
@@ -5451,6 +5451,16 @@
         "points": 2.5
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 2.5
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 3.5
@@ -5478,16 +5488,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 2.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
         "points": 2.5
       },
       {
@@ -5583,6 +5583,16 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 5.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "0-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-4",
         "points": 1.5
@@ -5610,16 +5620,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
-        "points": 5.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-1",
         "points": 0
       },
       {
@@ -5715,6 +5715,16 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-4",
+        "points": 1.5
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 6
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-3",
         "points": 1.5
@@ -5743,16 +5753,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
-        "points": 1.5
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -5822,6 +5822,11 @@
         "points": 4
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 4
@@ -5835,11 +5840,6 @@
         "name": "יקיר כהן",
         "guess": "1-2",
         "points": 4
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -5971,6 +5971,11 @@
         "points": 12
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 12
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 12
@@ -5984,11 +5989,6 @@
         "name": "יקיר כהן",
         "guess": "2-2",
         "points": 6
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 12
       },
       {
         "name": "אלון לוין",
@@ -6048,6 +6048,11 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 3
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 3
@@ -6061,11 +6066,6 @@
         "name": "יקיר כהן",
         "guess": "0-0",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 3
       },
       {
         "name": "אלון לוין",
@@ -6120,6 +6120,11 @@
         "points": 10
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 4
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-2",
         "points": 10
@@ -6132,11 +6137,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-3",
-        "points": 4
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 4
       },
       {
@@ -6197,6 +6197,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 0
@@ -6208,11 +6213,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "3-1",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 0
       },
@@ -6274,6 +6274,11 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "4-0",
+        "points": 3
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-1",
         "points": 3
@@ -6286,11 +6291,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-0",
-        "points": 3
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "4-0",
         "points": 3
       },
       {
@@ -6351,6 +6351,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-2",
         "points": 0
@@ -6364,11 +6369,6 @@
         "name": "יקיר כהן",
         "guess": "0-0",
         "points": 6
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-2",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -6423,6 +6423,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 0
@@ -6435,11 +6440,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
         "points": 0
       },
       {
@@ -6500,6 +6500,11 @@
         "points": 4
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 4
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 4
@@ -6513,11 +6518,6 @@
         "name": "יקיר כהן",
         "guess": "0-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 4
       },
       {
         "name": "אלון לוין",
@@ -6577,6 +6577,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-2",
         "points": 0
@@ -6589,11 +6594,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
         "points": 0
       },
       {
@@ -6654,6 +6654,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-1",
         "points": 0
@@ -6667,11 +6672,6 @@
         "name": "יקיר כהן",
         "guess": "1-0",
         "points": 9
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -6731,6 +6731,11 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "4-1",
+        "points": 3
+      },
+      {
         "name": "עמית לוי",
         "guess": "4-0",
         "points": 3
@@ -6744,11 +6749,6 @@
         "name": "יקיר כהן",
         "guess": "1-1",
         "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "4-1",
-        "points": 3
       },
       {
         "name": "אלון לוין",
@@ -6808,6 +6808,11 @@
         "points": 8
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-2",
         "points": 0
@@ -6820,11 +6825,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
         "points": 0
       },
       {
@@ -6885,6 +6885,11 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "3-1",
+        "points": 3
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-1",
         "points": 3
@@ -6897,11 +6902,6 @@
       {
         "name": "יקיר כהן",
         "guess": "2-1",
-        "points": 3
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
         "points": 3
       },
       {
@@ -6962,6 +6962,11 @@
         "points": 4
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-0",
+        "points": 10
+      },
+      {
         "name": "עמית לוי",
         "guess": "3-0",
         "points": 4
@@ -6973,11 +6978,6 @@
       },
       {
         "name": "יקיר כהן",
-        "guess": "2-0",
-        "points": 10
-      },
-      {
-        "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 10
       },
@@ -7039,6 +7039,11 @@
         "points": 4
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 4
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-0",
         "points": 0
@@ -7051,11 +7056,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-2",
-        "points": 4
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
         "points": 4
       },
       {
@@ -7116,6 +7116,11 @@
         "points": 0
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "2-2",
         "points": 0
@@ -7129,11 +7134,6 @@
         "name": "יקיר כהן",
         "guess": "1-2",
         "points": 16
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
-        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -7188,6 +7188,11 @@
         "points": 4
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "2-2",
+        "points": 0
+      },
+      {
         "name": "עמית לוי",
         "guess": "1-3",
         "points": 4
@@ -7200,11 +7205,6 @@
       {
         "name": "יקיר כהן",
         "guess": "1-0",
-        "points": 0
-      },
-      {
-        "name": "ברק ברהמי",
-        "guess": "2-2",
         "points": 0
       },
       {
@@ -7260,6 +7260,11 @@
         "points": 3
       },
       {
+        "name": "ברק ברהמי",
+        "guess": "1-3",
+        "points": 3
+      },
+      {
         "name": "עמית לוי",
         "guess": "0-4",
         "points": 3
@@ -7275,11 +7280,6 @@
         "points": 3
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
-        "points": 3
-      },
-      {
         "name": "אלון לוין",
         "guess": "1-3",
         "points": 3
@@ -7292,6 +7292,78 @@
       {
         "name": "אורי חיון",
         "guess": "1-1",
+        "points": 0
+      }
+    ],
+    "1783364400000": [
+      {
+        "name": "מרום אריש",
+        "guess": "1-1",
+        "points": 6
+      },
+      {
+        "name": "תומר לידא",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "תומר בר",
+        "guess": "0-1",
+        "points": 0
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "Itay Mor yosef",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "1-1",
+        "points": 6
+      },
+      {
+        "name": "ברק ברהמי",
+        "guess": "1-1",
+        "points": 6
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "1-3",
+        "points": 0
+      },
+      {
+        "name": "אלון לוין",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "0-2",
         "points": 0
       }
     ]
@@ -7696,6 +7768,11 @@
       "home": "פראגוואי",
       "away": "צרפת",
       "result": "0-1"
+    },
+    "1783364400000": {
+      "home": "פורטוגל",
+      "away": "ספרד",
+      "result": "0-0"
     }
   },
   "timeline": [
@@ -7747,6 +7824,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 6
@@ -7759,11 +7841,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-1",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
           "points": 2
         },
         {
@@ -7831,6 +7908,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 0
@@ -7843,11 +7925,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-3",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 0
         },
         {
@@ -7915,6 +7992,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 7
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 0
@@ -7928,11 +8010,6 @@
           "name": "יקיר כהן",
           "guess": "1-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 7
         },
         {
           "name": "אלון לוין",
@@ -7999,6 +8076,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 2
@@ -8011,11 +8093,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
           "points": 2
         },
         {
@@ -8083,6 +8160,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-3",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 0
@@ -8094,11 +8176,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "0-3",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "0-3",
           "points": 0
         },
@@ -8167,6 +8244,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 0
@@ -8180,11 +8262,6 @@
           "name": "יקיר כהן",
           "guess": "2-2",
           "points": 4
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -8246,6 +8323,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-4",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-1",
           "points": 5.5
@@ -8258,11 +8340,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-4",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
           "points": 1.5
         },
         {
@@ -8399,6 +8476,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "5-0",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 1.5
@@ -8411,11 +8493,6 @@
         {
           "name": "יקיר כהן",
           "guess": "5-1",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "5-0",
           "points": 1.5
         },
         {
@@ -8483,6 +8560,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-2",
           "points": 7
@@ -8495,11 +8577,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
           "points": 0
         },
         {
@@ -8567,6 +8644,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -8580,11 +8662,6 @@
           "name": "יקיר כהן",
           "guess": "2-0",
           "points": 3.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -8725,6 +8802,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "6-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "6-0",
           "points": 0
@@ -8737,11 +8819,6 @@
         {
           "name": "יקיר כהן",
           "guess": "5-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "6-0",
           "points": 0
         },
         {
@@ -8809,6 +8886,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 0
@@ -8822,11 +8904,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 8
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -8893,6 +8970,11 @@
           "points": 9
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 0
@@ -8905,11 +8987,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 0
         },
         {
@@ -8967,6 +9044,11 @@
           "points": 4.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 4.5
@@ -8980,11 +9062,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 4.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-0",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -9051,6 +9128,11 @@
           "points": 5.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "4-1",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-1",
           "points": 5.5
@@ -9064,11 +9146,6 @@
           "name": "יקיר כהן",
           "guess": "3-1",
           "points": 5.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "4-1",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -9135,6 +9212,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-4",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-5",
           "points": 1.5
@@ -9147,11 +9229,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
           "points": 1.5
         },
         {
@@ -9219,6 +9296,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-0",
+          "points": 5.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 1.5
@@ -9232,11 +9314,6 @@
           "name": "יקיר כהן",
           "guess": "1-0",
           "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
-          "points": 5.5
         },
         {
           "name": "אלון לוין",
@@ -9303,6 +9380,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 1.5
@@ -9315,11 +9397,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -9387,6 +9464,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 0
@@ -9399,11 +9481,6 @@
         {
           "name": "יקיר כהן",
           "guess": "3-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
           "points": 0
         },
         {
@@ -9471,6 +9548,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 2
@@ -9484,11 +9566,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -9555,6 +9632,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -9567,11 +9649,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
           "points": 0
         },
         {
@@ -9639,6 +9716,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-4",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 1.5
@@ -9651,11 +9733,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-2",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
           "points": 1.5
         },
         {
@@ -9718,6 +9795,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 7.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 7.5
@@ -9731,11 +9813,6 @@
           "name": "יקיר כהן",
           "guess": "2-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 7.5
         },
         {
           "name": "אלון לוין",
@@ -9797,6 +9874,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -9809,11 +9891,6 @@
         {
           "name": "יקיר כהן",
           "guess": "3-1",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
           "points": 2
         },
         {
@@ -9881,6 +9958,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 2
@@ -9894,11 +9976,6 @@
           "name": "יקיר כהן",
           "guess": "0-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -9965,6 +10042,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 2
@@ -9978,11 +10060,6 @@
           "name": "יקיר כהן",
           "guess": "1-2",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -10049,6 +10126,11 @@
           "points": 6
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 2
@@ -10060,11 +10142,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "2-1",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
         },
@@ -10133,6 +10210,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -10145,11 +10227,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
           "points": 2
         },
         {
@@ -10217,6 +10294,11 @@
           "points": 5.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "6-0",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "5-0",
           "points": 1.5
@@ -10229,11 +10311,6 @@
         {
           "name": "יקיר כהן",
           "guess": "4-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "6-0",
           "points": 1.5
         },
         {
@@ -10291,6 +10368,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -10302,11 +10384,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
         },
@@ -10365,6 +10442,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-2",
           "points": 0
@@ -10378,11 +10460,6 @@
           "name": "יקיר כהן",
           "guess": "2-2",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -10439,6 +10516,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 1.5
@@ -10451,11 +10533,6 @@
         {
           "name": "יקיר כהן",
           "guess": "4-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
           "points": 1.5
         },
         {
@@ -10518,6 +10595,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 0
@@ -10530,11 +10612,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
           "points": 0
         },
         {
@@ -10602,6 +10679,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -10613,11 +10695,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "0-2",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 2
         },
@@ -10686,6 +10763,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "4-1",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 1.5
@@ -10697,11 +10779,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "4-1",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 1.5
         },
@@ -10770,6 +10847,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-1",
           "points": 0
@@ -10782,11 +10864,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
           "points": 0
         },
         {
@@ -10849,6 +10926,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 0
@@ -10861,11 +10943,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
           "points": 0
         },
         {
@@ -10933,6 +11010,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-1",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -10946,11 +11028,6 @@
           "name": "יקיר כהן",
           "guess": "2-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-1",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -11017,6 +11094,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 6
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-1",
           "points": 2
@@ -11030,11 +11112,6 @@
           "name": "יקיר כהן",
           "guess": "3-1",
           "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
-          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -11180,6 +11257,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 2
@@ -11191,11 +11273,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
         },
@@ -11264,6 +11341,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 2
@@ -11275,11 +11357,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
         },
@@ -11343,6 +11420,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 1.5
@@ -11356,11 +11438,6 @@
           "name": "יקיר כהן",
           "guess": "5-0",
           "points": 5.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -11427,6 +11504,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "4-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-1",
           "points": 0
@@ -11439,11 +11521,6 @@
         {
           "name": "יקיר כהן",
           "guess": "3-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "4-1",
           "points": 0
         },
         {
@@ -11511,6 +11588,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 1.5
@@ -11523,11 +11605,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -11595,6 +11672,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 1.5
@@ -11607,11 +11689,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
           "points": 1.5
         },
         {
@@ -11674,6 +11751,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 6.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -11687,11 +11769,6 @@
           "name": "יקיר כהן",
           "guess": "2-2",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 6.5
         },
         {
           "name": "אלון לוין",
@@ -11753,6 +11830,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 2
@@ -11766,11 +11848,6 @@
           "name": "יקיר כהן",
           "guess": "0-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
-          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -11832,6 +11909,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -11844,11 +11926,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-1",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
           "points": 1.5
         },
         {
@@ -11911,6 +11988,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-0",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 1.5
@@ -11923,11 +12005,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -11990,6 +12067,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 2.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 2.5
@@ -12003,11 +12085,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
-          "points": 2.5
         },
         {
           "name": "אלון לוין",
@@ -12069,6 +12146,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -12080,11 +12162,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "1-2",
           "points": 0
         },
@@ -12153,6 +12230,11 @@
           "points": 5.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-3",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 1.5
@@ -12166,11 +12248,6 @@
           "name": "יקיר כהן",
           "guess": "0-2",
           "points": 5.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-3",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -12237,6 +12314,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 0
@@ -12249,11 +12331,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 0
         },
         {
@@ -12321,6 +12398,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-4",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 1.5
@@ -12333,11 +12415,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-5",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-4",
           "points": 1.5
         },
         {
@@ -12405,6 +12482,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 7
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 7
@@ -12418,11 +12500,6 @@
           "name": "יקיר כהן",
           "guess": "2-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 7
         },
         {
           "name": "אלון לוין",
@@ -12647,6 +12724,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-0",
           "points": 1.5
@@ -12659,11 +12741,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
           "points": 1.5
         },
         {
@@ -12731,6 +12808,11 @@
           "points": 2
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 2
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 2
@@ -12742,11 +12824,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "1-3",
-          "points": 2
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 2
         },
@@ -12810,6 +12887,11 @@
           "points": 3.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-1",
           "points": 0
@@ -12822,11 +12904,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
           "points": 0
         },
         {
@@ -12894,6 +12971,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -12907,11 +12989,6 @@
           "name": "יקיר כהן",
           "guess": "2-2",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -12978,6 +13055,11 @@
           "points": 7
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-0",
           "points": 0
@@ -12991,11 +13073,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 7
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -13062,6 +13139,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-2",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 1.5
@@ -13070,11 +13152,6 @@
           "name": "יקיר כהן",
           "guess": "1-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-2",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -13141,6 +13218,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-4",
+          "points": 1.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-3",
           "points": 1.5
@@ -13154,11 +13236,6 @@
           "name": "יקיר כהן",
           "guess": "0-2",
           "points": 5.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
-          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -13225,6 +13302,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 6
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 6
@@ -13238,11 +13320,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -13309,6 +13386,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 3.5
@@ -13321,11 +13403,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
           "points": 0
         },
         {
@@ -13383,6 +13460,11 @@
           "points": 2.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 2.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -13395,11 +13477,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 2.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
           "points": 2.5
         },
         {
@@ -13457,6 +13534,11 @@
           "points": 1.5
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 5.5
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-4",
           "points": 1.5
@@ -13470,11 +13552,6 @@
           "name": "יקיר כהן",
           "guess": "0-3",
           "points": 1.5
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
-          "points": 5.5
         },
         {
           "name": "אלון לוין",
@@ -13531,6 +13608,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 0
@@ -13543,11 +13625,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-1",
           "points": 0
         },
         {
@@ -13600,6 +13677,11 @@
           "points": 4
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 4
@@ -13613,11 +13695,6 @@
           "name": "יקיר כהן",
           "guess": "1-2",
           "points": 4
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -13763,6 +13840,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 0
@@ -13774,11 +13856,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "3-1",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 0
         },
@@ -13847,6 +13924,11 @@
           "points": 12
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 12
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 12
@@ -13860,11 +13942,6 @@
           "name": "יקיר כהן",
           "guess": "2-2",
           "points": 6
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 12
         },
         {
           "name": "אלון לוין",
@@ -13926,6 +14003,11 @@
           "points": 10
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 4
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 10
@@ -13938,11 +14020,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-3",
-          "points": 4
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 4
         },
         {
@@ -14010,6 +14087,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "4-0",
+          "points": 3
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-1",
           "points": 3
@@ -14022,11 +14104,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 3
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "4-0",
           "points": 3
         },
         {
@@ -14094,6 +14171,11 @@
           "points": 4
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 4
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 4
@@ -14107,11 +14189,6 @@
           "name": "יקיר כהן",
           "guess": "0-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 4
         },
         {
           "name": "אלון לוין",
@@ -14178,6 +14255,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "4-1",
+          "points": 3
+        },
+        {
           "name": "עמית לוי",
           "guess": "4-0",
           "points": 3
@@ -14191,11 +14273,6 @@
           "name": "יקיר כהן",
           "guess": "1-1",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "4-1",
-          "points": 3
         },
         {
           "name": "אלון לוין",
@@ -14262,6 +14339,11 @@
           "points": 8
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 0
@@ -14274,11 +14356,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
           "points": 0
         },
         {
@@ -14346,6 +14423,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 3
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 3
@@ -14359,11 +14441,6 @@
           "name": "יקיר כהן",
           "guess": "0-0",
           "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 3
         },
         {
           "name": "אלון לוין",
@@ -14430,6 +14507,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 3
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-1",
           "points": 3
@@ -14442,11 +14524,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-1",
-          "points": 3
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
           "points": 3
         },
         {
@@ -14514,6 +14591,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-2",
           "points": 0
@@ -14526,11 +14608,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-2",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
           "points": 0
         },
         {
@@ -14598,6 +14675,11 @@
           "points": 4
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-0",
+          "points": 10
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 4
@@ -14609,11 +14691,6 @@
         },
         {
           "name": "יקיר כהן",
-          "guess": "2-0",
-          "points": 10
-        },
-        {
-          "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 10
         },
@@ -14682,6 +14759,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-2",
           "points": 0
@@ -14695,11 +14777,6 @@
           "name": "יקיר כהן",
           "guess": "0-0",
           "points": 6
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-2",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -14761,6 +14838,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "3-0",
           "points": 0
@@ -14773,11 +14855,6 @@
         {
           "name": "יקיר כהן",
           "guess": "2-0",
-          "points": 0
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
           "points": 0
         },
         {
@@ -14845,6 +14922,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-1",
           "points": 0
@@ -14858,11 +14940,6 @@
           "name": "יקיר כהן",
           "guess": "1-0",
           "points": 9
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -14929,6 +15006,11 @@
           "points": 4
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "0-2",
+          "points": 4
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-0",
           "points": 0
@@ -14941,11 +15023,6 @@
         {
           "name": "יקיר כהן",
           "guess": "1-2",
-          "points": 4
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
           "points": 4
         },
         {
@@ -15013,6 +15090,11 @@
           "points": 3
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "1-3",
+          "points": 3
+        },
+        {
           "name": "עמית לוי",
           "guess": "0-4",
           "points": 3
@@ -15025,11 +15107,6 @@
         {
           "name": "יקיר כהן",
           "guess": "0-3",
-          "points": 3
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
           "points": 3
         },
         {
@@ -15097,6 +15174,11 @@
           "points": 0
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "2-2",
           "points": 0
@@ -15110,11 +15192,6 @@
           "name": "יקיר כהן",
           "guess": "1-2",
           "points": 16
-        },
-        {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
-          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -15176,6 +15253,11 @@
           "points": 4
         },
         {
+          "name": "ברק ברהמי",
+          "guess": "2-2",
+          "points": 0
+        },
+        {
           "name": "עמית לוי",
           "guess": "1-3",
           "points": 4
@@ -15191,11 +15273,6 @@
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-2",
-          "points": 0
-        },
-        {
           "name": "אלון לוין",
           "guess": "1-1",
           "points": 0
@@ -15206,29 +15283,101 @@
           "points": 0
         }
       ]
+    },
+    {
+      "gid": "56a47130d98abd",
+      "ts": 1783364400000,
+      "home": "פורטוגל",
+      "away": "ספרד",
+      "result": "0-0",
+      "picks": [
+        {
+          "name": "מרום אריש",
+          "guess": "1-1",
+          "points": 6
+        },
+        {
+          "name": "תומר לידא",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
+          "name": "גל אטיאס",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
+          "name": "תומר בר",
+          "guess": "0-1",
+          "points": 0
+        },
+        {
+          "name": "Guy Shmuel",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "Itay Mor yosef",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "עומר שדה",
+          "guess": "1-1",
+          "points": 6
+        },
+        {
+          "name": "ברק ברהמי",
+          "guess": "1-1",
+          "points": 6
+        },
+        {
+          "name": "עמית לוי",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "יקיר כהן",
+          "guess": "1-3",
+          "points": 0
+        },
+        {
+          "name": "אלון לוין",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
+          "name": "amit yeruham",
+          "guess": "0-2",
+          "points": 0
+        }
+      ]
     }
   ],
   "missingBets": {
     "1783382400000": [
       "אורי חיון"
     ],
-    "1783364400000": [
-      "אורי חיון"
-    ],
     "1783440000000": [
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
-      "עמית לוי",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
     ],
     "1783454400000": [
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
-      "עמית לוי",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
@@ -15236,15 +15385,12 @@
     "1783627200000": [
       "מרום אריש",
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
-      "Guy Shmuel",
       "רועי שלו",
       "Itay Mor yosef",
-      "עמית לוי",
+      "ברק ברהמי",
       "רוזן",
       "יקיר כהן",
-      "ברק ברהמי",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
@@ -15252,16 +15398,13 @@
     "1783803600000": [
       "מרום אריש",
       "תומר לידא",
-      "גל אטיאס",
       "תומר בר",
-      "Guy Shmuel",
       "רועי שלו",
       "Itay Mor yosef",
       "עומר שדה",
-      "עמית לוי",
+      "ברק ברהמי",
       "רוזן",
       "יקיר כהן",
-      "ברק ברהמי",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
