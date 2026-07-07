@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:20:44.218Z",
+  "updated": "2026-07-07T05:49:45.433Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -376,7 +376,7 @@
     },
     "94": {
       "h": "1",
-      "a": "2"
+      "a": "4"
     }
   },
   "status": {
@@ -473,7 +473,7 @@
     "91": "FINISHED",
     "92": "FINISHED",
     "93": "FINISHED",
-    "94": "IN_PLAY"
+    "94": "FINISHED"
   },
   "forms": {},
   "scorers": [
@@ -639,6 +639,13 @@
       "penalties": 1
     },
     {
+      "name": "Romelu Lukaku",
+      "teamHe": "בלגיה",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Cyle Larin",
       "teamHe": "קנדה",
       "goals": 2,
@@ -676,13 +683,6 @@
     {
       "name": "Yasin Ayari",
       "teamHe": "שוודיה",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Emam Ashour",
-      "teamHe": "מצרים",
       "goals": 2,
       "assists": 0,
       "penalties": 0
