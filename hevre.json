@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-07T01:19:33.540Z",
+  "updated": "2026-07-07T05:34:37.428Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "גל אטיאס",
-      "points": 231.5,
-      "exact": 12,
-      "direction": 50,
+      "points": 225.5,
+      "exact": 11,
+      "direction": 51,
       "misses": 32,
       "guessed": 94,
       "champion": "אנגליה",
@@ -24,7 +24,7 @@
       "momentum": 3,
       "riskAvg": 2,
       "riskCount": 94,
-      "goalGap": 168,
+      "goalGap": 170,
       "goalGapGames": 94,
       "perfect85": 10,
       "robbed85": 2,
@@ -54,7 +54,7 @@
       "momentum": 0,
       "riskAvg": 2.2,
       "riskCount": 94,
-      "goalGap": 197,
+      "goalGap": 199,
       "goalGapGames": 94,
       "perfect85": 6,
       "robbed85": 2,
@@ -84,7 +84,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 93,
-      "goalGap": 168,
+      "goalGap": 170,
       "goalGapGames": 93,
       "perfect85": 10,
       "robbed85": 1,
@@ -114,7 +114,7 @@
       "momentum": 0,
       "riskAvg": 2,
       "riskCount": 89,
-      "goalGap": 163,
+      "goalGap": 165,
       "goalGapGames": 89,
       "perfect85": 10,
       "robbed85": 3,
@@ -144,7 +144,7 @@
       "momentum": 0,
       "riskAvg": 2.1,
       "riskCount": 94,
-      "goalGap": 186,
+      "goalGap": 188,
       "goalGapGames": 94,
       "perfect85": 9,
       "robbed85": 1,
@@ -174,7 +174,7 @@
       "momentum": 1,
       "riskAvg": 2.2,
       "riskCount": 90,
-      "goalGap": 175,
+      "goalGap": 177,
       "goalGapGames": 90,
       "perfect85": 8,
       "robbed85": 1,
@@ -204,7 +204,7 @@
       "momentum": 0,
       "riskAvg": 3,
       "riskCount": 94,
-      "goalGap": 174,
+      "goalGap": 176,
       "goalGapGames": 94,
       "perfect85": 9,
       "robbed85": 5,
@@ -234,7 +234,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 92,
-      "goalGap": 169,
+      "goalGap": 171,
       "goalGapGames": 92,
       "perfect85": 10,
       "robbed85": 5,
@@ -264,7 +264,7 @@
       "momentum": 0,
       "riskAvg": 2.4,
       "riskCount": 94,
-      "goalGap": 189,
+      "goalGap": 191,
       "goalGapGames": 94,
       "perfect85": 6,
       "robbed85": 0,
@@ -294,7 +294,7 @@
       "momentum": 0,
       "riskAvg": 2.7,
       "riskCount": 94,
-      "goalGap": 197,
+      "goalGap": 199,
       "goalGapGames": 94,
       "perfect85": 8,
       "robbed85": 3,
@@ -324,7 +324,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 93,
-      "goalGap": 175,
+      "goalGap": 177,
       "goalGapGames": 93,
       "perfect85": 4,
       "robbed85": 1,
@@ -354,7 +354,7 @@
       "momentum": 0,
       "riskAvg": 2.1,
       "riskCount": 88,
-      "goalGap": 160,
+      "goalGap": 162,
       "goalGapGames": 88,
       "perfect85": 12,
       "robbed85": 4,
@@ -384,7 +384,7 @@
       "momentum": 0,
       "riskAvg": 2.5,
       "riskCount": 91,
-      "goalGap": 177,
+      "goalGap": 179,
       "goalGapGames": 91,
       "perfect85": 6,
       "robbed85": 2,
@@ -414,7 +414,7 @@
       "momentum": 0,
       "riskAvg": 2.7,
       "riskCount": 84,
-      "goalGap": 151,
+      "goalGap": 153,
       "goalGapGames": 84,
       "perfect85": 10,
       "robbed85": 4,
@@ -425,9 +425,9 @@
     },
     {
       "name": "אורי חיון",
-      "points": 152.5,
-      "exact": 6,
-      "direction": 41,
+      "points": 146.5,
+      "exact": 5,
+      "direction": 42,
       "misses": 34,
       "guessed": 81,
       "champion": "פורטוגל",
@@ -435,16 +435,16 @@
       "pointsFromChampion": false,
       "pointsFromScorer": 17,
       "bestBet": {
-        "points": 12,
-        "home": "ארצות הברית",
-        "away": "בלגיה",
-        "guess": "1-2",
-        "result": "1-2"
+        "points": 9,
+        "home": "צרפת",
+        "away": "שבדיה",
+        "guess": "3-0",
+        "result": "3-0"
       },
       "momentum": 1,
       "riskAvg": 2.3,
       "riskCount": 81,
-      "goalGap": 160,
+      "goalGap": 162,
       "goalGapGames": 81,
       "perfect85": 6,
       "robbed85": 3,
@@ -7299,7 +7299,7 @@
       {
         "name": "גל אטיאס",
         "guess": "1-2",
-        "points": 12
+        "points": 6
       },
       {
         "name": "מרום אריש",
@@ -7369,7 +7369,7 @@
       {
         "name": "אורי חיון",
         "guess": "1-2",
-        "points": 12
+        "points": 6
       }
     ],
     "1783364400000": [
@@ -7849,7 +7849,7 @@
     "1783382400000": {
       "home": "ארצות הברית",
       "away": "בלגיה",
-      "result": "1-2"
+      "result": "1-4"
     },
     "1783364400000": {
       "home": "פורטוגל",
@@ -15450,12 +15450,12 @@
       "ts": 1783382400000,
       "home": "ארצות הברית",
       "away": "בלגיה",
-      "result": "1-2",
+      "result": "1-4",
       "picks": [
         {
           "name": "גל אטיאס",
           "guess": "1-2",
-          "points": 12
+          "points": 6
         },
         {
           "name": "מרום אריש",
@@ -15525,21 +15525,19 @@
         {
           "name": "אורי חיון",
           "guess": "1-2",
-          "points": 12
+          "points": 6
         }
       ]
     }
   ],
   "missingBets": {
     "1783440000000": [
-      "תומר לידא",
       "תומר בר",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
     ],
     "1783454400000": [
-      "תומר לידא",
       "תומר בר",
       "אלון לוין",
       "amit yeruham",
