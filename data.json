@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T15:49:05.354Z",
+  "updated": "2026-07-07T18:15:45.541Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -377,6 +377,10 @@
     "94": {
       "h": "1",
       "a": "4"
+    },
+    "95": {
+      "h": "3",
+      "a": "2"
     }
   },
   "status": {
@@ -474,7 +478,7 @@
     "92": "FINISHED",
     "93": "FINISHED",
     "94": "FINISHED",
-    "95": "TIMED",
+    "95": "FINISHED",
     "96": "TIMED",
     "97": "TIMED",
     "98": "TIMED",
@@ -482,6 +486,13 @@
   },
   "forms": {},
   "scorers": [
+    {
+      "name": "Lionel Messi",
+      "teamHe": "ארגנטינה",
+      "goals": 8,
+      "assists": 1,
+      "penalties": 0
+    },
     {
       "name": "Kylian Mbappé",
       "teamHe": "צרפת",
@@ -492,13 +503,6 @@
     {
       "name": "Erling Haaland",
       "teamHe": "נורבגיה",
-      "goals": 7,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Lionel Messi",
-      "teamHe": "ארגנטינה",
       "goals": 7,
       "assists": 0,
       "penalties": 0
