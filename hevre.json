@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T05:34:37.428Z",
+  "updated": "2026-07-07T05:38:51.724Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -26,11 +26,11 @@
       "riskCount": 94,
       "goalGap": 170,
       "goalGapGames": 94,
-      "perfect85": 10,
-      "robbed85": 2,
-      "covered85": 84,
-      "pointsLost": 19.5,
-      "pointsLostGames": 6,
+      "perfect85": 11,
+      "robbed85": 3,
+      "covered85": 93,
+      "pointsLost": 25.5,
+      "pointsLostGames": 7,
       "rank": 1
     },
     {
@@ -56,11 +56,11 @@
       "riskCount": 94,
       "goalGap": 199,
       "goalGapGames": 94,
-      "perfect85": 6,
+      "perfect85": 8,
       "robbed85": 2,
-      "covered85": 84,
-      "pointsLost": 23.5,
-      "pointsLostGames": 4,
+      "covered85": 93,
+      "pointsLost": 29.5,
+      "pointsLostGames": 5,
       "rank": 2
     },
     {
@@ -88,7 +88,7 @@
       "goalGapGames": 93,
       "perfect85": 10,
       "robbed85": 1,
-      "covered85": 83,
+      "covered85": 92,
       "pointsLost": 9.5,
       "pointsLostGames": 3,
       "rank": 3
@@ -116,9 +116,9 @@
       "riskCount": 89,
       "goalGap": 165,
       "goalGapGames": 89,
-      "perfect85": 10,
+      "perfect85": 11,
       "robbed85": 3,
-      "covered85": 79,
+      "covered85": 88,
       "pointsLost": 19.5,
       "pointsLostGames": 5,
       "rank": 4
@@ -148,7 +148,7 @@
       "goalGapGames": 94,
       "perfect85": 9,
       "robbed85": 1,
-      "covered85": 84,
+      "covered85": 93,
       "pointsLost": 14.5,
       "pointsLostGames": 5,
       "rank": 5
@@ -176,9 +176,9 @@
       "riskCount": 90,
       "goalGap": 177,
       "goalGapGames": 90,
-      "perfect85": 8,
+      "perfect85": 9,
       "robbed85": 1,
-      "covered85": 80,
+      "covered85": 89,
       "pointsLost": 8.5,
       "pointsLostGames": 3,
       "rank": 6
@@ -206,11 +206,11 @@
       "riskCount": 94,
       "goalGap": 176,
       "goalGapGames": 94,
-      "perfect85": 9,
-      "robbed85": 5,
-      "covered85": 84,
-      "pointsLost": 53,
-      "pointsLostGames": 9,
+      "perfect85": 11,
+      "robbed85": 6,
+      "covered85": 93,
+      "pointsLost": 59,
+      "pointsLostGames": 10,
       "rank": 7
     },
     {
@@ -238,9 +238,9 @@
       "goalGapGames": 92,
       "perfect85": 10,
       "robbed85": 5,
-      "covered85": 82,
-      "pointsLost": 48.5,
-      "pointsLostGames": 9,
+      "covered85": 91,
+      "pointsLost": 54.5,
+      "pointsLostGames": 10,
       "rank": 8
     },
     {
@@ -268,7 +268,7 @@
       "goalGapGames": 94,
       "perfect85": 6,
       "robbed85": 0,
-      "covered85": 84,
+      "covered85": 93,
       "pointsLost": 27.5,
       "pointsLostGames": 5,
       "rank": 9
@@ -296,9 +296,9 @@
       "riskCount": 94,
       "goalGap": 199,
       "goalGapGames": 94,
-      "perfect85": 8,
+      "perfect85": 9,
       "robbed85": 3,
-      "covered85": 84,
+      "covered85": 93,
       "pointsLost": 49.5,
       "pointsLostGames": 6,
       "rank": 10
@@ -328,7 +328,7 @@
       "goalGapGames": 93,
       "perfect85": 4,
       "robbed85": 1,
-      "covered85": 83,
+      "covered85": 92,
       "pointsLost": 25.5,
       "pointsLostGames": 5,
       "rank": 11
@@ -356,11 +356,11 @@
       "riskCount": 88,
       "goalGap": 162,
       "goalGapGames": 88,
-      "perfect85": 12,
-      "robbed85": 4,
-      "covered85": 78,
-      "pointsLost": 38.5,
-      "pointsLostGames": 7,
+      "perfect85": 13,
+      "robbed85": 5,
+      "covered85": 87,
+      "pointsLost": 50.5,
+      "pointsLostGames": 9,
       "rank": 12
     },
     {
@@ -388,7 +388,7 @@
       "goalGapGames": 91,
       "perfect85": 6,
       "robbed85": 2,
-      "covered85": 81,
+      "covered85": 90,
       "pointsLost": 26.5,
       "pointsLostGames": 6,
       "rank": 13
@@ -418,7 +418,7 @@
       "goalGapGames": 84,
       "perfect85": 10,
       "robbed85": 4,
-      "covered85": 74,
+      "covered85": 83,
       "pointsLost": 43.5,
       "pointsLostGames": 7,
       "rank": 14
@@ -448,7 +448,7 @@
       "goalGapGames": 81,
       "perfect85": 6,
       "robbed85": 3,
-      "covered85": 75,
+      "covered85": 80,
       "pointsLost": 25.5,
       "pointsLostGames": 5,
       "rank": 15
