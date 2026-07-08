@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08T06:35:40.587Z",
+  "updated": "2026-07-08T13:10:51.153Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "מרום אריש",
-      "points": 231.5,
+      "points": 234.5,
       "exact": 10,
       "direction": 51,
       "misses": 35,
@@ -13,7 +13,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 20,
         "home": "ארגנטינה",
@@ -35,7 +35,7 @@
     },
     {
       "name": "תומר בר",
-      "points": 228,
+      "points": 231,
       "exact": 15,
       "direction": 42,
       "misses": 34,
@@ -43,7 +43,7 @@
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 12,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -65,7 +65,7 @@
     },
     {
       "name": "גל אטיאס",
-      "points": 225.5,
+      "points": 228.5,
       "exact": 11,
       "direction": 52,
       "misses": 33,
@@ -73,7 +73,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -95,7 +95,7 @@
     },
     {
       "name": "תומר לידא",
-      "points": 225,
+      "points": 228,
       "exact": 13,
       "direction": 48,
       "misses": 34,
@@ -103,7 +103,7 @@
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 12,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 10,
         "home": "חוף השנהב",
@@ -125,7 +125,7 @@
     },
     {
       "name": "Guy Shmuel",
-      "points": 214.5,
+      "points": 217.5,
       "exact": 12,
       "direction": 46,
       "misses": 38,
@@ -133,7 +133,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 14,
         "home": "בלגיה",
@@ -193,7 +193,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 14,
         "home": "ארגנטינה",
@@ -215,7 +215,7 @@
     },
     {
       "name": "עומר שדה",
-      "points": 193.5,
+      "points": 196.5,
       "exact": 8,
       "direction": 48,
       "misses": 38,
@@ -223,7 +223,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -253,7 +253,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -283,7 +283,7 @@
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 16,
         "home": "ברזיל",
@@ -304,38 +304,8 @@
       "rank": 10
     },
     {
-      "name": "רוזן",
-      "points": 183.5,
-      "exact": 10,
-      "direction": 44,
-      "misses": 41,
-      "guessed": 95,
-      "champion": "צרפת",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": false,
-      "pointsFromScorer": 14,
-      "bestBet": {
-        "points": 10,
-        "home": "ברזיל",
-        "away": "יפן",
-        "guess": "2-1",
-        "result": "2-1"
-      },
-      "momentum": 0,
-      "riskAvg": 2.3,
-      "riskCount": 95,
-      "goalGap": 185,
-      "goalGapGames": 95,
-      "perfect85": 4,
-      "robbed85": 1,
-      "covered85": 92,
-      "pointsLost": 25.5,
-      "pointsLostGames": 5,
-      "rank": 11
-    },
-    {
       "name": "ברק ברהמי",
-      "points": 181,
+      "points": 184,
       "exact": 10,
       "direction": 44,
       "misses": 36,
@@ -343,7 +313,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -361,6 +331,36 @@
       "covered85": 87,
       "pointsLost": 50.5,
       "pointsLostGames": 9,
+      "rank": 11
+    },
+    {
+      "name": "רוזן",
+      "points": 183.5,
+      "exact": 10,
+      "direction": 44,
+      "misses": 41,
+      "guessed": 95,
+      "champion": "צרפת",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": false,
+      "pointsFromScorer": 17,
+      "bestBet": {
+        "points": 10,
+        "home": "ברזיל",
+        "away": "יפן",
+        "guess": "2-1",
+        "result": "2-1"
+      },
+      "momentum": 0,
+      "riskAvg": 2.3,
+      "riskCount": 95,
+      "goalGap": 185,
+      "goalGapGames": 95,
+      "perfect85": 4,
+      "robbed85": 1,
+      "covered85": 92,
+      "pointsLost": 25.5,
+      "pointsLostGames": 5,
       "rank": 12
     },
     {
@@ -373,7 +373,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 9,
         "home": "ארצות הברית",
@@ -395,7 +395,7 @@
     },
     {
       "name": "amit yeruham",
-      "points": 159.5,
+      "points": 162.5,
       "exact": 10,
       "direction": 28,
       "misses": 47,
@@ -403,7 +403,7 @@
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 12,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 12,
         "home": "ספרד",
@@ -425,7 +425,7 @@
     },
     {
       "name": "אורי חיון",
-      "points": 146.5,
+      "points": 149.5,
       "exact": 5,
       "direction": 43,
       "misses": 35,
@@ -433,7 +433,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 14,
+      "pointsFromScorer": 17,
       "bestBet": {
         "points": 9,
         "home": "צרפת",
@@ -507,14 +507,14 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
-        "points": 6
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 2
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-0",
+        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -584,13 +584,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-1",
+        "name": "ברק ברהמי",
+        "guess": "0-2",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -661,14 +661,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 7
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -738,13 +738,13 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "3-1",
         "points": 2
       },
       {
@@ -815,12 +815,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "0-3",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "0-3",
         "points": 0
       },
@@ -892,13 +892,13 @@
         "points": 4
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
+        "name": "ברק ברהמי",
+        "guess": "3-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 0
       },
       {
@@ -964,13 +964,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
+        "name": "ברק ברהמי",
+        "guess": "0-4",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
+        "name": "רוזן",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -1103,13 +1103,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "6-0",
+        "name": "ברק ברהמי",
+        "guess": "5-0",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "5-0",
+        "name": "רוזן",
+        "guess": "6-0",
         "points": 1.5
       },
       {
@@ -1180,13 +1180,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "3-1",
         "points": 0
       },
       {
@@ -1257,14 +1257,14 @@
         "points": 3.5
       },
       {
-        "name": "רוזן",
-        "guess": "1-0",
-        "points": 7.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
+        "points": 7.5
       },
       {
         "name": "אלון לוין",
@@ -1401,13 +1401,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "4-0",
+        "name": "ברק ברהמי",
+        "guess": "6-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "6-0",
+        "name": "רוזן",
+        "guess": "4-0",
         "points": 0
       },
       {
@@ -1478,13 +1478,13 @@
         "points": 8
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 0
       },
       {
@@ -1555,13 +1555,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
+        "name": "ברק ברהמי",
+        "guess": "0-2",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -1622,14 +1622,14 @@
         "points": 4.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-0",
-        "points": 4.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-0",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-0",
+        "points": 4.5
       },
       {
         "name": "אלון לוין",
@@ -1699,14 +1699,14 @@
         "points": 5.5
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
-        "points": 5.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-1",
+        "points": 5.5
       },
       {
         "name": "אלון לוין",
@@ -1776,13 +1776,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
+        "name": "ברק ברהמי",
+        "guess": "0-4",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
+        "name": "רוזן",
+        "guess": "0-3",
         "points": 1.5
       },
       {
@@ -1853,14 +1853,14 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 5.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-0",
+        "points": 1.5
       },
       {
         "name": "אלון לוין",
@@ -1930,14 +1930,14 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -2007,13 +2007,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "4-0",
+        "name": "ברק ברהמי",
+        "guess": "2-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
+        "name": "רוזן",
+        "guess": "4-0",
         "points": 0
       },
       {
@@ -2084,12 +2084,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "2-1",
         "points": 2
       },
@@ -2161,14 +2161,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-0",
-        "points": 6
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
+        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -2238,13 +2238,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
+        "name": "ברק ברהמי",
+        "guess": "0-4",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-4",
+        "name": "רוזן",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -2310,12 +2310,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 7.5
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "1-1",
         "points": 7.5
       },
@@ -2382,13 +2382,13 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "1-0",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "1-0",
         "points": 2
       },
       {
@@ -2459,12 +2459,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "2-0",
         "points": 2
       },
@@ -2536,14 +2536,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 2
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-2",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -2613,13 +2613,13 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "3-1",
         "points": 2
       },
       {
@@ -2690,13 +2690,13 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
+        "name": "ברק ברהמי",
+        "guess": "1-3",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
+        "name": "רוזן",
+        "guess": "0-2",
         "points": 2
       },
       {
@@ -2767,13 +2767,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "4-1",
+        "name": "ברק ברהמי",
+        "guess": "6-0",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "6-0",
+        "name": "רוזן",
+        "guess": "4-1",
         "points": 1.5
       },
       {
@@ -2834,13 +2834,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
+        "name": "ברק ברהמי",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
+        "name": "רוזן",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -2901,14 +2901,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 2
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -2968,12 +2968,12 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "3-1",
         "points": 1.5
       },
@@ -3040,13 +3040,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
+        "name": "ברק ברהמי",
+        "guess": "3-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "3-0",
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 0
       },
       {
@@ -3117,13 +3117,13 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "1-3",
+        "name": "ברק ברהמי",
+        "guess": "0-2",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "1-3",
         "points": 2
       },
       {
@@ -3194,13 +3194,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
+        "name": "ברק ברהמי",
+        "guess": "4-1",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "4-1",
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -3271,12 +3271,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "2-0",
         "points": 0
       },
@@ -3343,12 +3343,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "2-0",
         "points": 0
       },
@@ -3420,13 +3420,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
+        "name": "ברק ברהמי",
+        "guess": "0-1",
         "points": 2
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-1",
+        "name": "רוזן",
+        "guess": "1-2",
         "points": 2
       },
       {
@@ -3497,12 +3497,12 @@
         "points": 2
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 6
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "2-0",
         "points": 6
       },
@@ -3646,14 +3646,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "3-2",
-        "points": 6
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-2",
+        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -3723,14 +3723,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "0-1",
-        "points": 2
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-1",
+        "points": 2
       },
       {
         "name": "אלון לוין",
@@ -3795,12 +3795,12 @@
         "points": 5.5
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "3-0",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "3-0",
         "points": 1.5
       },
@@ -3872,12 +3872,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "4-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "4-1",
         "points": 0
       },
@@ -3949,13 +3949,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
+        "name": "ברק ברהמי",
+        "guess": "0-2",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "0-3",
         "points": 1.5
       },
       {
@@ -4026,13 +4026,13 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 1.5
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -4143,16 +4143,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-0",
-        "points": 2
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 6.5
@@ -4160,6 +4150,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "2-0",
+        "points": 2
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
         "points": 2
       },
       {
@@ -4285,16 +4285,6 @@
         "points": 1.5
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "2-0",
-        "points": 1.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 1.5
@@ -4302,6 +4292,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "3-0",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -4427,16 +4427,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 2.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 2.5
@@ -4444,6 +4434,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
+        "points": 2.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -4579,22 +4579,22 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "0-1",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "0-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-3",
         "points": 1.5
       },
       {
         "name": "ברק ברהמי",
+        "guess": "0-2",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-1",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
         "guess": "0-2",
         "points": 0
       },
@@ -4731,16 +4731,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-4",
         "points": 1.5
@@ -4749,6 +4739,16 @@
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 7
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-1",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -5025,16 +5025,6 @@
         "points": 2
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "2-4",
-        "points": 2
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "3-1",
         "points": 1.5
@@ -5042,6 +5032,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "1-3",
+        "points": 2
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-1",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-4",
         "points": 2
       },
       {
@@ -5172,16 +5172,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
-        "name": "רוזן",
-        "guess": "0-2",
-        "points": 1.5
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 0
@@ -5189,6 +5179,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "1-3",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -5324,11 +5324,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 0
@@ -5337,6 +5332,11 @@
         "name": "ברק ברהמי",
         "guess": "1-2",
         "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -5471,16 +5471,6 @@
         "points": 2.5
       },
       {
-        "name": "רוזן",
-        "guess": "2-3",
-        "points": 0
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 0
@@ -5489,6 +5479,16 @@
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 2.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-3",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -5603,16 +5603,6 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-3",
         "points": 5.5
@@ -5620,6 +5610,16 @@
       {
         "name": "ברק ברהמי",
         "guess": "0-1",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -5735,22 +5735,22 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רוזן",
-        "guess": "2-1",
-        "points": 6
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-4",
         "points": 1.5
       },
       {
         "name": "ברק ברהמי",
+        "guess": "2-1",
+        "points": 6
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רוזן",
         "guess": "2-1",
         "points": 6
       },
@@ -5832,14 +5832,14 @@
         "points": 4
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
-        "points": 4
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-2",
+        "points": 4
       },
       {
         "name": "אלון לוין",
@@ -5981,14 +5981,14 @@
         "points": 6
       },
       {
-        "name": "רוזן",
-        "guess": "2-2",
-        "points": 6
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 12
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-2",
+        "points": 6
       },
       {
         "name": "אלון לוין",
@@ -6058,14 +6058,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 3
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -6130,14 +6130,14 @@
         "points": 4
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
-        "points": 10
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "0-2",
         "points": 4
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-2",
+        "points": 10
       },
       {
         "name": "אלון לוין",
@@ -6207,13 +6207,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
+        "name": "ברק ברהמי",
+        "guess": "3-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
+        "name": "רוזן",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -6284,13 +6284,13 @@
         "points": 3
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
+        "name": "ברק ברהמי",
+        "guess": "4-0",
         "points": 3
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "4-0",
+        "name": "רוזן",
+        "guess": "3-1",
         "points": 3
       },
       {
@@ -6361,13 +6361,13 @@
         "points": 6
       },
       {
-        "name": "רוזן",
-        "guess": "0-2",
+        "name": "ברק ברהמי",
+        "guess": "1-2",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-2",
+        "name": "רוזן",
+        "guess": "0-2",
         "points": 0
       },
       {
@@ -6433,13 +6433,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "3-0",
+        "name": "ברק ברהמי",
+        "guess": "3-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
+        "name": "רוזן",
+        "guess": "3-0",
         "points": 0
       },
       {
@@ -6510,14 +6510,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-1",
         "points": 4
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-2",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -6587,13 +6587,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "2-2",
+        "name": "ברק ברהמי",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
+        "name": "רוזן",
+        "guess": "2-2",
         "points": 0
       },
       {
@@ -6664,14 +6664,14 @@
         "points": 9
       },
       {
-        "name": "רוזן",
-        "guess": "3-1",
-        "points": 3
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-1",
+        "points": 3
       },
       {
         "name": "אלון לוין",
@@ -6741,13 +6741,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "3-0",
+        "name": "ברק ברהמי",
+        "guess": "4-1",
         "points": 3
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "4-1",
+        "name": "רוזן",
+        "guess": "3-0",
         "points": 3
       },
       {
@@ -6818,13 +6818,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
+        "name": "ברק ברהמי",
+        "guess": "2-0",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-0",
+        "name": "רוזן",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -6895,13 +6895,13 @@
         "points": 3
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
+        "name": "ברק ברהמי",
+        "guess": "3-1",
         "points": 3
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "3-1",
+        "name": "רוזן",
+        "guess": "2-1",
         "points": 3
       },
       {
@@ -6972,14 +6972,14 @@
         "points": 10
       },
       {
-        "name": "רוזן",
-        "guess": "0-1",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "2-0",
         "points": 10
+      },
+      {
+        "name": "רוזן",
+        "guess": "0-1",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -7049,13 +7049,13 @@
         "points": 4
       },
       {
-        "name": "רוזן",
-        "guess": "1-2",
+        "name": "ברק ברהמי",
+        "guess": "0-2",
         "points": 4
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "0-2",
+        "name": "רוזן",
+        "guess": "1-2",
         "points": 4
       },
       {
@@ -7126,13 +7126,13 @@
         "points": 16
       },
       {
-        "name": "רוזן",
-        "guess": "2-2",
+        "name": "ברק ברהמי",
+        "guess": "2-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-1",
+        "name": "רוזן",
+        "guess": "2-2",
         "points": 0
       },
       {
@@ -7198,13 +7198,13 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "1-1",
+        "name": "ברק ברהמי",
+        "guess": "2-2",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "2-2",
+        "name": "רוזן",
+        "guess": "1-1",
         "points": 0
       },
       {
@@ -7270,13 +7270,13 @@
         "points": 3
       },
       {
-        "name": "רוזן",
-        "guess": "0-3",
+        "name": "ברק ברהמי",
+        "guess": "1-3",
         "points": 3
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-3",
+        "name": "רוזן",
+        "guess": "0-3",
         "points": 3
       },
       {
@@ -7347,12 +7347,12 @@
         "points": 0
       },
       {
-        "name": "רוזן",
+        "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
+        "name": "רוזן",
         "guess": "1-1",
         "points": 0
       },
@@ -7424,13 +7424,13 @@
         "points": 5
       },
       {
-        "name": "רוזן",
-        "guess": "2-1",
+        "name": "ברק ברהמי",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "ברק ברהמי",
-        "guess": "1-1",
+        "name": "רוזן",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -7496,14 +7496,14 @@
         "points": 3
       },
       {
-        "name": "רוזן",
-        "guess": "2-0",
-        "points": 3
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "2-0",
+        "points": 3
       },
       {
         "name": "אלון לוין",
@@ -7568,14 +7568,14 @@
         "points": 0
       },
       {
-        "name": "רוזן",
-        "guess": "3-2",
-        "points": 0
-      },
-      {
         "name": "ברק ברהמי",
         "guess": "1-1",
         "points": 6
+      },
+      {
+        "name": "רוזן",
+        "guess": "3-2",
+        "points": 0
       },
       {
         "name": "אלון לוין",
@@ -8075,14 +8075,14 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
-          "points": 6
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 2
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-0",
+          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -8159,13 +8159,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-1",
           "points": 0
         },
         {
@@ -8243,14 +8243,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-0",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -8327,13 +8327,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "3-1",
           "points": 2
         },
         {
@@ -8411,12 +8411,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "0-3",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "0-3",
           "points": 0
         },
@@ -8495,13 +8495,13 @@
           "points": 4
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "3-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 0
         },
         {
@@ -8574,13 +8574,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "0-4",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -8727,13 +8727,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "6-0",
+          "name": "ברק ברהמי",
+          "guess": "5-0",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "5-0",
+          "name": "רוזן",
+          "guess": "6-0",
           "points": 1.5
         },
         {
@@ -8811,13 +8811,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "3-1",
           "points": 0
         },
         {
@@ -8895,14 +8895,14 @@
           "points": 3.5
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
-          "points": 7.5
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "0-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-0",
+          "points": 7.5
         },
         {
           "name": "אלון לוין",
@@ -9053,13 +9053,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "4-0",
+          "name": "ברק ברהמי",
+          "guess": "6-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "6-0",
+          "name": "רוזן",
+          "guess": "4-0",
           "points": 0
         },
         {
@@ -9137,13 +9137,13 @@
           "points": 8
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 0
         },
         {
@@ -9221,13 +9221,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 0
         },
         {
@@ -9295,14 +9295,14 @@
           "points": 4.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-0",
-          "points": 4.5
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-0",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-0",
+          "points": 4.5
         },
         {
           "name": "אלון לוין",
@@ -9379,14 +9379,14 @@
           "points": 5.5
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
-          "points": 5.5
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 1.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "3-1",
+          "points": 5.5
         },
         {
           "name": "אלון לוין",
@@ -9463,13 +9463,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "0-4",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
+          "name": "רוזן",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -9547,14 +9547,14 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
-          "points": 1.5
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 5.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-0",
+          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -9631,14 +9631,14 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 1.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -9715,13 +9715,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "4-0",
+          "name": "ברק ברהמי",
+          "guess": "2-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
+          "name": "רוזן",
+          "guess": "4-0",
           "points": 0
         },
         {
@@ -9799,12 +9799,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-1",
           "points": 2
         },
@@ -9883,14 +9883,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
-          "points": 6
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-0",
+          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -9967,13 +9967,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "0-4",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -10046,12 +10046,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7.5
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "1-1",
           "points": 7.5
         },
@@ -10125,13 +10125,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "1-0",
           "points": 2
         },
         {
@@ -10209,12 +10209,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-0",
           "points": 2
         },
@@ -10293,14 +10293,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-2",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 2
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-2",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -10377,13 +10377,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "3-1",
           "points": 2
         },
         {
@@ -10461,13 +10461,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 2
         },
         {
@@ -10545,13 +10545,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "4-1",
+          "name": "ברק ברהמי",
+          "guess": "6-0",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "6-0",
+          "name": "רוזן",
+          "guess": "4-1",
           "points": 1.5
         },
         {
@@ -10619,13 +10619,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
+          "name": "ברק ברהמי",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
+          "name": "רוזן",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -10693,14 +10693,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 2
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-2",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -10767,12 +10767,12 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "3-1",
           "points": 1.5
         },
@@ -10846,13 +10846,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "3-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 0
         },
         {
@@ -10930,13 +10930,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "1-3",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-3",
           "points": 2
         },
         {
@@ -11014,13 +11014,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "4-1",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "4-1",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 1.5
         },
         {
@@ -11098,12 +11098,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-0",
           "points": 0
         },
@@ -11177,12 +11177,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-0",
           "points": 0
         },
@@ -11261,13 +11261,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "0-1",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-1",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 2
         },
         {
@@ -11345,12 +11345,12 @@
           "points": 2
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 6
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-0",
           "points": 6
         },
@@ -11508,14 +11508,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "3-2",
-          "points": 6
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "3-2",
+          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -11592,14 +11592,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "0-1",
-          "points": 2
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-1",
+          "points": 2
         },
         {
           "name": "אלון לוין",
@@ -11671,12 +11671,12 @@
           "points": 5.5
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "3-0",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "3-0",
           "points": 1.5
         },
@@ -11755,12 +11755,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "4-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "4-1",
           "points": 0
         },
@@ -11839,13 +11839,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -11923,13 +11923,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 1.5
         },
         {
@@ -12002,14 +12002,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 6.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-2",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -12081,13 +12081,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
+          "name": "ברק ברהמי",
+          "guess": "2-0",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
+          "name": "רוזן",
+          "guess": "1-0",
           "points": 2
         },
         {
@@ -12160,13 +12160,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -12239,13 +12239,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
+          "name": "ברק ברהמי",
+          "guess": "3-0",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-0",
+          "name": "רוזן",
+          "guess": "2-0",
           "points": 1.5
         },
         {
@@ -12318,13 +12318,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 2.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 2.5
         },
         {
@@ -12397,13 +12397,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
+          "name": "ברק ברהמי",
+          "guess": "1-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-2",
+          "name": "רוזן",
+          "guess": "1-1",
           "points": 0
         },
         {
@@ -12481,13 +12481,13 @@
           "points": 5.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-1",
+          "name": "ברק ברהמי",
+          "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-3",
+          "name": "רוזן",
+          "guess": "0-1",
           "points": 1.5
         },
         {
@@ -12565,12 +12565,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "0-2",
           "points": 0
         },
@@ -12649,13 +12649,13 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "1-4",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-4",
+          "name": "רוזן",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -12733,14 +12733,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 7
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-1",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -12975,12 +12975,12 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "3-1",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "3-1",
           "points": 1.5
         },
@@ -13059,13 +13059,13 @@
           "points": 2
         },
         {
-          "name": "רוזן",
-          "guess": "2-4",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 2
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "2-4",
           "points": 2
         },
         {
@@ -13138,12 +13138,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-1",
           "points": 0
         },
@@ -13222,13 +13222,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -13306,13 +13306,13 @@
           "points": 7
         },
         {
-          "name": "רוזן",
-          "guess": "1-0",
+          "name": "ברק ברהמי",
+          "guess": "2-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
+          "name": "רוזן",
+          "guess": "1-0",
           "points": 0
         },
         {
@@ -13469,13 +13469,13 @@
           "points": 5.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "0-4",
           "points": 1.5
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-4",
+          "name": "רוזן",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -13553,12 +13553,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 6
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "2-1",
           "points": 6
         },
@@ -13637,13 +13637,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-3",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "2-3",
           "points": 0
         },
         {
@@ -13711,14 +13711,14 @@
           "points": 2.5
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 2.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -13785,14 +13785,14 @@
           "points": 1.5
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
-          "points": 1.5
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-3",
           "points": 5.5
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-3",
+          "points": 1.5
         },
         {
           "name": "אלון לוין",
@@ -13859,13 +13859,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "0-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-1",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 0
         },
         {
@@ -13928,14 +13928,14 @@
           "points": 4
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
-          "points": 4
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-2",
+          "points": 4
         },
         {
           "name": "אלון לוין",
@@ -14091,13 +14091,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
+          "name": "ברק ברהמי",
+          "guess": "3-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
+          "name": "רוזן",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -14175,14 +14175,14 @@
           "points": 6
         },
         {
-          "name": "רוזן",
-          "guess": "2-2",
-          "points": 6
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 12
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-2",
+          "points": 6
         },
         {
           "name": "אלון לוין",
@@ -14254,14 +14254,14 @@
           "points": 4
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
-          "points": 10
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "0-2",
           "points": 4
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-2",
+          "points": 10
         },
         {
           "name": "אלון לוין",
@@ -14338,13 +14338,13 @@
           "points": 3
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
+          "name": "ברק ברהמי",
+          "guess": "4-0",
           "points": 3
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "4-0",
+          "name": "רוזן",
+          "guess": "3-1",
           "points": 3
         },
         {
@@ -14422,14 +14422,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-2",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 4
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-2",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -14506,13 +14506,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "3-0",
+          "name": "ברק ברהמי",
+          "guess": "4-1",
           "points": 3
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "4-1",
+          "name": "רוזן",
+          "guess": "3-0",
           "points": 3
         },
         {
@@ -14590,13 +14590,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "2-0",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-0",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 0
         },
         {
@@ -14674,14 +14674,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-1",
           "points": 3
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -14758,13 +14758,13 @@
           "points": 3
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
+          "name": "ברק ברהמי",
+          "guess": "3-1",
           "points": 3
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
+          "name": "רוזן",
+          "guess": "2-1",
           "points": 3
         },
         {
@@ -14842,13 +14842,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "2-2",
+          "name": "ברק ברהמי",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
+          "name": "רוזן",
+          "guess": "2-2",
           "points": 0
         },
         {
@@ -14926,14 +14926,14 @@
           "points": 10
         },
         {
-          "name": "רוזן",
-          "guess": "0-1",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "2-0",
           "points": 10
+        },
+        {
+          "name": "רוזן",
+          "guess": "0-1",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -15010,13 +15010,13 @@
           "points": 6
         },
         {
-          "name": "רוזן",
-          "guess": "0-2",
+          "name": "ברק ברהמי",
+          "guess": "1-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-2",
+          "name": "רוזן",
+          "guess": "0-2",
           "points": 0
         },
         {
@@ -15089,13 +15089,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "3-0",
+          "name": "ברק ברהמי",
+          "guess": "3-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "3-1",
+          "name": "רוזן",
+          "guess": "3-0",
           "points": 0
         },
         {
@@ -15173,14 +15173,14 @@
           "points": 9
         },
         {
-          "name": "רוזן",
-          "guess": "3-1",
-          "points": 3
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "3-1",
+          "points": 3
         },
         {
           "name": "אלון לוין",
@@ -15257,13 +15257,13 @@
           "points": 4
         },
         {
-          "name": "רוזן",
-          "guess": "1-2",
+          "name": "ברק ברהמי",
+          "guess": "0-2",
           "points": 4
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "0-2",
+          "name": "רוזן",
+          "guess": "1-2",
           "points": 4
         },
         {
@@ -15341,13 +15341,13 @@
           "points": 3
         },
         {
-          "name": "רוזן",
-          "guess": "0-3",
+          "name": "ברק ברהמי",
+          "guess": "1-3",
           "points": 3
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-3",
+          "name": "רוזן",
+          "guess": "0-3",
           "points": 3
         },
         {
@@ -15425,13 +15425,13 @@
           "points": 16
         },
         {
-          "name": "רוזן",
-          "guess": "2-2",
+          "name": "ברק ברהמי",
+          "guess": "2-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-1",
+          "name": "רוזן",
+          "guess": "2-2",
           "points": 0
         },
         {
@@ -15504,13 +15504,13 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "1-1",
+          "name": "ברק ברהמי",
+          "guess": "2-2",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "2-2",
+          "name": "רוזן",
+          "guess": "1-1",
           "points": 0
         },
         {
@@ -15583,13 +15583,13 @@
           "points": 5
         },
         {
-          "name": "רוזן",
-          "guess": "2-1",
+          "name": "ברק ברהמי",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
-          "guess": "1-1",
+          "name": "רוזן",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -15662,12 +15662,12 @@
           "points": 0
         },
         {
-          "name": "רוזן",
+          "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
         },
         {
-          "name": "ברק ברהמי",
+          "name": "רוזן",
           "guess": "1-1",
           "points": 0
         },
@@ -15746,14 +15746,14 @@
           "points": 3
         },
         {
-          "name": "רוזן",
-          "guess": "2-0",
-          "points": 3
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "2-0",
+          "points": 3
         },
         {
           "name": "אלון לוין",
@@ -15825,14 +15825,14 @@
           "points": 0
         },
         {
-          "name": "רוזן",
-          "guess": "3-2",
-          "points": 0
-        },
-        {
           "name": "ברק ברהמי",
           "guess": "1-1",
           "points": 6
+        },
+        {
+          "name": "רוזן",
+          "guess": "3-2",
+          "points": 0
         },
         {
           "name": "אלון לוין",
@@ -15882,6 +15882,23 @@
       "עומר שדה",
       "עמית לוי",
       "ברק ברהמי",
+      "אלון לוין",
+      "amit yeruham",
+      "אורי חיון"
+    ],
+    "1783818000000": [
+      "מרום אריש",
+      "תומר בר",
+      "גל אטיאס",
+      "תומר לידא",
+      "Guy Shmuel",
+      "רועי שלו",
+      "Itay Mor yosef",
+      "עומר שדה",
+      "עמית לוי",
+      "יקיר כהן",
+      "ברק ברהמי",
+      "רוזן",
       "אלון לוין",
       "amit yeruham",
       "אורי חיון"
