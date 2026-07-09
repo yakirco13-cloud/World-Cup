@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:27:23.003Z",
+  "updated": "2026-07-09T22:06:30.636Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -387,7 +387,7 @@
       "a": "3"
     },
     "97": {
-      "h": "0",
+      "h": "2",
       "a": "0"
     }
   },
@@ -488,25 +488,25 @@
     "94": "FINISHED",
     "95": "FINISHED",
     "96": "FINISHED",
-    "97": "IN_PLAY",
+    "97": "FINISHED",
     "98": "TIMED",
     "99": "TIMED"
   },
   "forms": {},
   "scorers": [
     {
+      "name": "Kylian Mbappé",
+      "teamHe": "צרפת",
+      "goals": 8,
+      "assists": 2,
+      "penalties": 1
+    },
+    {
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 8,
       "assists": 1,
       "penalties": 0
-    },
-    {
-      "name": "Kylian Mbappé",
-      "teamHe": "צרפת",
-      "goals": 7,
-      "assists": 2,
-      "penalties": 1
     },
     {
       "name": "Erling Haaland",
@@ -521,6 +521,13 @@
       "goals": 6,
       "assists": 1,
       "penalties": 2
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "teamHe": "צרפת",
+      "goals": 5,
+      "assists": 2,
+      "penalties": 0
     },
     {
       "name": "Julián Quiñones",
@@ -548,13 +555,6 @@
       "teamHe": "ספרד",
       "goals": 4,
       "assists": 1,
-      "penalties": 0
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "teamHe": "צרפת",
-      "goals": 4,
-      "assists": 2,
       "penalties": 0
     },
     {
