@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T18:23:35.121Z",
+  "updated": "2026-07-09T20:27:23.003Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -385,6 +385,10 @@
     "96": {
       "h": "4",
       "a": "3"
+    },
+    "97": {
+      "h": "0",
+      "a": "0"
     }
   },
   "status": {
@@ -484,7 +488,7 @@
     "94": "FINISHED",
     "95": "FINISHED",
     "96": "FINISHED",
-    "97": "TIMED",
+    "97": "IN_PLAY",
     "98": "TIMED",
     "99": "TIMED"
   },
