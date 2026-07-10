@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:07:19.753Z",
+  "updated": "2026-07-10T20:51:44.528Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -391,8 +391,8 @@
       "a": "0"
     },
     "98": {
-      "h": "0",
-      "a": "0"
+      "h": "1",
+      "a": "1"
     }
   },
   "status": {
@@ -667,6 +667,13 @@
       "penalties": 0
     },
     {
+      "name": "Charles De Ketelaere",
+      "teamHe": "בלגיה",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Cyle Larin",
       "teamHe": "קנדה",
       "goals": 2,
@@ -697,13 +704,6 @@
     {
       "name": "Amad Diallo",
       "teamHe": "חוף השנהב",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Yasin Ayari",
-      "teamHe": "שוודיה",
       "goals": 2,
       "assists": 0,
       "penalties": 0
