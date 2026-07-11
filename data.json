@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:28:17.644Z",
+  "updated": "2026-07-11T23:34:10.125Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -395,8 +395,8 @@
       "a": "1"
     },
     "99": {
-      "h": "2",
-      "a": "1"
+      "h": "1",
+      "a": "2"
     }
   },
   "status": {
@@ -498,7 +498,7 @@
     "96": "FINISHED",
     "97": "FINISHED",
     "98": "FINISHED",
-    "99": "IN_PLAY"
+    "99": "PAUSED"
   },
   "forms": {},
   "scorers": [
@@ -533,7 +533,7 @@
     {
       "name": "Jude Bellingham",
       "teamHe": "אנגליה",
-      "goals": 5,
+      "goals": 6,
       "assists": 1,
       "penalties": 0
     },
