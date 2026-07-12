@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:34:10.125Z",
+  "updated": "2026-07-12T01:12:14.125Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -498,7 +498,7 @@
     "96": "FINISHED",
     "97": "FINISHED",
     "98": "FINISHED",
-    "99": "PAUSED"
+    "99": "FINISHED"
   },
   "forms": {},
   "scorers": [
