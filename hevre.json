@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-12T00:03:45.107Z",
+  "updated": "2026-07-12T03:47:11.734Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "מרום אריש",
-      "points": 254.5,
+      "points": 259.5,
       "exact": 11,
-      "direction": 52,
+      "direction": 53,
       "misses": 36,
-      "guessed": 99,
+      "guessed": 100,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -21,11 +21,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 2,
+      "momentum": 3,
       "riskAvg": 2.2,
-      "riskCount": 99,
-      "goalGap": 207,
-      "goalGapGames": 99,
+      "riskCount": 100,
+      "goalGap": 209,
+      "goalGapGames": 100,
       "perfect85": 8,
       "robbed85": 2,
       "covered85": 93,
@@ -38,8 +38,8 @@
       "points": 243.5,
       "exact": 12,
       "direction": 53,
-      "misses": 34,
-      "guessed": 99,
+      "misses": 35,
+      "guessed": 100,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -53,9 +53,9 @@
       },
       "momentum": 0,
       "riskAvg": 2,
-      "riskCount": 99,
-      "goalGap": 178,
-      "goalGapGames": 99,
+      "riskCount": 100,
+      "goalGap": 179,
+      "goalGapGames": 100,
       "perfect85": 11,
       "robbed85": 3,
       "covered85": 93,
@@ -68,8 +68,8 @@
       "points": 240.5,
       "exact": 13,
       "direction": 48,
-      "misses": 38,
-      "guessed": 99,
+      "misses": 39,
+      "guessed": 100,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -81,11 +81,11 @@
         "guess": "2-2",
         "result": "2-2"
       },
-      "momentum": 5,
+      "momentum": 0,
       "riskAvg": 2.2,
-      "riskCount": 99,
-      "goalGap": 195,
-      "goalGapGames": 99,
+      "riskCount": 100,
+      "goalGap": 197,
+      "goalGapGames": 100,
       "perfect85": 9,
       "robbed85": 1,
       "covered85": 93,
@@ -98,8 +98,8 @@
       "points": 237,
       "exact": 15,
       "direction": 44,
-      "misses": 35,
-      "guessed": 94,
+      "misses": 36,
+      "guessed": 95,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -113,9 +113,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.1,
-      "riskCount": 94,
-      "goalGap": 172,
-      "goalGapGames": 94,
+      "riskCount": 95,
+      "goalGap": 174,
+      "goalGapGames": 95,
       "perfect85": 11,
       "robbed85": 3,
       "covered85": 88,
@@ -128,8 +128,8 @@
       "points": 228,
       "exact": 13,
       "direction": 48,
-      "misses": 37,
-      "guessed": 98,
+      "misses": 38,
+      "guessed": 99,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -143,9 +143,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 98,
-      "goalGap": 180,
-      "goalGapGames": 98,
+      "riskCount": 99,
+      "goalGap": 181,
+      "goalGapGames": 99,
       "perfect85": 10,
       "robbed85": 1,
       "covered85": 92,
@@ -154,72 +154,12 @@
       "rank": 5
     },
     {
-      "name": "Itay Mor yosef",
-      "points": 219.5,
-      "exact": 9,
-      "direction": 41,
-      "misses": 49,
-      "guessed": 99,
-      "champion": "פורטוגל",
-      "scorer": "קיליאן אמבפה",
-      "pointsFromChampion": false,
-      "pointsFromScorer": 20,
-      "bestBet": {
-        "points": 14,
-        "home": "ארגנטינה",
-        "away": "קייפ ורדה",
-        "guess": "0-0",
-        "result": "1-1"
-      },
-      "momentum": 1,
-      "riskAvg": 3,
-      "riskCount": 99,
-      "goalGap": 185,
-      "goalGapGames": 99,
-      "perfect85": 11,
-      "robbed85": 6,
-      "covered85": 93,
-      "pointsLost": 59,
-      "pointsLostGames": 10,
-      "rank": 6
-    },
-    {
-      "name": "רועי שלו",
-      "points": 218,
-      "exact": 13,
-      "direction": 45,
-      "misses": 37,
-      "guessed": 95,
-      "champion": "צרפת",
-      "scorer": "חוליאן אלבארס",
-      "pointsFromChampion": false,
-      "pointsFromScorer": 0,
-      "bestBet": {
-        "points": 16,
-        "home": "ברזיל",
-        "away": "נורווגיה",
-        "guess": "1-2",
-        "result": "1-2"
-      },
-      "momentum": 1,
-      "riskAvg": 2.2,
-      "riskCount": 95,
-      "goalGap": 185,
-      "goalGapGames": 95,
-      "perfect85": 9,
-      "robbed85": 1,
-      "covered85": 89,
-      "pointsLost": 8.5,
-      "pointsLostGames": 3,
-      "rank": 7
-    },
-    {
       "name": "עומר שדה",
-      "points": 213.5,
-      "exact": 9,
+      "points": 224.5,
+      "exact": 10,
       "direction": 48,
       "misses": 40,
-      "guessed": 97,
+      "guessed": 98,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -231,16 +171,76 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 2,
       "riskAvg": 2.3,
-      "riskCount": 97,
+      "riskCount": 98,
       "goalGap": 179,
-      "goalGapGames": 97,
+      "goalGapGames": 98,
       "perfect85": 10,
       "robbed85": 5,
       "covered85": 91,
       "pointsLost": 54.5,
       "pointsLostGames": 10,
+      "rank": 6
+    },
+    {
+      "name": "Itay Mor yosef",
+      "points": 224.5,
+      "exact": 9,
+      "direction": 42,
+      "misses": 49,
+      "guessed": 100,
+      "champion": "פורטוגל",
+      "scorer": "קיליאן אמבפה",
+      "pointsFromChampion": false,
+      "pointsFromScorer": 20,
+      "bestBet": {
+        "points": 14,
+        "home": "ארגנטינה",
+        "away": "קייפ ורדה",
+        "guess": "0-0",
+        "result": "1-1"
+      },
+      "momentum": 2,
+      "riskAvg": 3,
+      "riskCount": 100,
+      "goalGap": 187,
+      "goalGapGames": 100,
+      "perfect85": 11,
+      "robbed85": 6,
+      "covered85": 93,
+      "pointsLost": 59,
+      "pointsLostGames": 10,
+      "rank": 7
+    },
+    {
+      "name": "רועי שלו",
+      "points": 221,
+      "exact": 13,
+      "direction": 45,
+      "misses": 38,
+      "guessed": 96,
+      "champion": "צרפת",
+      "scorer": "חוליאן אלבארס",
+      "pointsFromChampion": false,
+      "pointsFromScorer": 3,
+      "bestBet": {
+        "points": 16,
+        "home": "ברזיל",
+        "away": "נורווגיה",
+        "guess": "1-2",
+        "result": "1-2"
+      },
+      "momentum": 0,
+      "riskAvg": 2.2,
+      "riskCount": 96,
+      "goalGap": 187,
+      "goalGapGames": 96,
+      "perfect85": 9,
+      "robbed85": 1,
+      "covered85": 89,
+      "pointsLost": 8.5,
+      "pointsLostGames": 3,
       "rank": 8
     },
     {
@@ -248,8 +248,8 @@
       "points": 206.5,
       "exact": 11,
       "direction": 46,
-      "misses": 41,
-      "guessed": 98,
+      "misses": 42,
+      "guessed": 99,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -261,11 +261,11 @@
         "guess": "2-1",
         "result": "2-1"
       },
-      "momentum": 3,
+      "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 98,
-      "goalGap": 188,
-      "goalGapGames": 98,
+      "riskCount": 99,
+      "goalGap": 189,
+      "goalGapGames": 99,
       "perfect85": 4,
       "robbed85": 1,
       "covered85": 92,
@@ -278,8 +278,8 @@
       "points": 197,
       "exact": 9,
       "direction": 42,
-      "misses": 48,
-      "guessed": 99,
+      "misses": 49,
+      "guessed": 100,
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -293,9 +293,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.7,
-      "riskCount": 99,
-      "goalGap": 207,
-      "goalGapGames": 99,
+      "riskCount": 100,
+      "goalGap": 209,
+      "goalGapGames": 100,
       "perfect85": 9,
       "robbed85": 3,
       "covered85": 93,
@@ -308,8 +308,8 @@
       "points": 193.5,
       "exact": 10,
       "direction": 44,
-      "misses": 44,
-      "guessed": 98,
+      "misses": 45,
+      "guessed": 99,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -323,9 +323,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.4,
-      "riskCount": 98,
-      "goalGap": 198,
-      "goalGapGames": 98,
+      "riskCount": 99,
+      "goalGap": 199,
+      "goalGapGames": 99,
       "perfect85": 6,
       "robbed85": 0,
       "covered85": 93,
@@ -398,8 +398,8 @@
       "points": 165.5,
       "exact": 10,
       "direction": 29,
-      "misses": 48,
-      "guessed": 87,
+      "misses": 49,
+      "guessed": 88,
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -413,9 +413,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.7,
-      "riskCount": 87,
-      "goalGap": 160,
-      "goalGapGames": 87,
+      "riskCount": 88,
+      "goalGap": 161,
+      "goalGapGames": 88,
       "perfect85": 10,
       "robbed85": 4,
       "covered85": 83,
@@ -428,8 +428,8 @@
       "points": 155.5,
       "exact": 5,
       "direction": 44,
-      "misses": 37,
-      "guessed": 86,
+      "misses": 38,
+      "guessed": 87,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -443,9 +443,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 86,
-      "goalGap": 172,
-      "goalGapGames": 86,
+      "riskCount": 87,
+      "goalGap": 174,
+      "goalGapGames": 87,
       "perfect85": 6,
       "robbed85": 3,
       "covered85": 80,
@@ -487,12 +487,12 @@
         "points": 6
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-1",
         "points": 2
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-1",
         "points": 2
       },
@@ -564,14 +564,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-0",
-        "points": 3
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 3
       },
       {
         "name": "רוזן",
@@ -641,13 +641,13 @@
         "points": 7
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-1",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "3-1",
         "points": 0
       },
       {
@@ -718,14 +718,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "2-0",
         "points": 2
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -795,12 +795,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "0-3",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "0-3",
         "points": 0
       },
@@ -872,14 +872,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 8
-      },
-      {
         "name": "עומר שדה",
         "guess": "2-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 8
       },
       {
         "name": "רוזן",
@@ -944,13 +944,13 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-2",
+        "name": "עומר שדה",
+        "guess": "0-3",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "0-3",
+        "name": "רועי שלו",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -1016,12 +1016,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "0-2",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "0-2",
         "points": 0
       },
@@ -1083,13 +1083,13 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "4-0",
+        "name": "עומר שדה",
+        "guess": "5-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "5-0",
+        "name": "רועי שלו",
+        "guess": "4-0",
         "points": 1.5
       },
       {
@@ -1160,14 +1160,14 @@
         "points": 7
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-0",
-        "points": 3
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-0",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-0",
+        "points": 3
       },
       {
         "name": "רוזן",
@@ -1237,13 +1237,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
+        "name": "עומר שדה",
+        "guess": "2-2",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-2",
+        "name": "רועי שלו",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -1381,13 +1381,13 @@
         "points": 8
       },
       {
-        "name": "רועי שלו",
-        "guess": "5-0",
+        "name": "עומר שדה",
+        "guess": "4-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "4-0",
+        "name": "רועי שלו",
+        "guess": "5-0",
         "points": 0
       },
       {
@@ -1458,12 +1458,12 @@
         "points": 8
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-1",
         "points": 0
       },
@@ -1535,14 +1535,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 9
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -1679,12 +1679,12 @@
         "points": 5.5
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "3-1",
         "points": 5.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "3-1",
         "points": 5.5
       },
@@ -1756,13 +1756,13 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-4",
+        "name": "עומר שדה",
+        "guess": "0-3",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "0-3",
+        "name": "רועי שלו",
+        "guess": "0-4",
         "points": 1.5
       },
       {
@@ -1833,12 +1833,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-0",
         "points": 1.5
       },
@@ -1910,13 +1910,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-0",
+        "name": "עומר שדה",
+        "guess": "3-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "3-0",
+        "name": "רועי שלו",
+        "guess": "2-0",
         "points": 1.5
       },
       {
@@ -1987,13 +1987,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "4-1",
+        "name": "עומר שדה",
+        "guess": "3-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "3-0",
+        "name": "רועי שלו",
+        "guess": "4-1",
         "points": 0
       },
       {
@@ -2064,14 +2064,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-0",
         "points": 2
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -2141,13 +2141,13 @@
         "points": 2
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "2-0",
         "points": 2
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-0",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 2
       },
       {
@@ -2218,13 +2218,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-2",
+        "name": "עומר שדה",
+        "guess": "0-3",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "0-3",
+        "name": "רועי שלו",
+        "guess": "0-2",
         "points": 1.5
       },
       {
@@ -2290,13 +2290,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -2362,13 +2362,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-0",
+        "name": "עומר שדה",
+        "guess": "2-1",
         "points": 2
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-1",
+        "name": "רועי שלו",
+        "guess": "2-0",
         "points": 2
       },
       {
@@ -2439,14 +2439,14 @@
         "points": 2
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-0",
-        "points": 2
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-0",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 2
       },
       {
         "name": "רוזן",
@@ -2516,12 +2516,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "1-1",
         "points": 0
       },
@@ -2593,14 +2593,14 @@
         "points": 2
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 2
-      },
-      {
         "name": "עומר שדה",
         "guess": "2-0",
         "points": 6
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 2
       },
       {
         "name": "רוזן",
@@ -2670,14 +2670,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-1",
-        "points": 6
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-1",
+        "points": 6
       },
       {
         "name": "רוזן",
@@ -2747,12 +2747,12 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "3-0",
         "points": 5.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "3-0",
         "points": 5.5
       },
@@ -2814,13 +2814,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-1",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -2881,13 +2881,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-0",
+        "name": "עומר שדה",
+        "guess": "2-1",
         "points": 2
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-1",
+        "name": "רועי שלו",
+        "guess": "1-0",
         "points": 2
       },
       {
@@ -2948,12 +2948,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-0",
         "points": 1.5
       },
@@ -3020,13 +3020,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-1",
+        "name": "עומר שדה",
+        "guess": "3-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "3-0",
+        "name": "רועי שלו",
+        "guess": "3-1",
         "points": 0
       },
       {
@@ -3097,13 +3097,13 @@
         "points": 2
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
+        "name": "עומר שדה",
+        "guess": "0-2",
         "points": 2
       },
       {
-        "name": "עומר שדה",
-        "guess": "0-2",
+        "name": "רועי שלו",
+        "guess": "1-2",
         "points": 2
       },
       {
@@ -3174,13 +3174,13 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "2-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-0",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 1.5
       },
       {
@@ -3251,13 +3251,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-0",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "2-0",
         "points": 0
       },
       {
@@ -3400,14 +3400,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-3",
-        "points": 6
-      },
-      {
         "name": "עומר שדה",
         "guess": "2-2",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
+        "points": 6
       },
       {
         "name": "רוזן",
@@ -3477,13 +3477,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 2
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 2
       },
       {
@@ -3554,12 +3554,12 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "4-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "4-0",
         "points": 1.5
       },
@@ -3626,12 +3626,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-1",
         "points": 2
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-1",
         "points": 2
       },
@@ -3703,14 +3703,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 6
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-1",
         "points": 2
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 6
       },
       {
         "name": "רוזן",
@@ -3775,12 +3775,12 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "3-0",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "3-0",
         "points": 1.5
       },
@@ -3852,12 +3852,12 @@
         "points": 6
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "3-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "3-1",
         "points": 0
       },
@@ -3929,12 +3929,12 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "0-2",
         "points": 1.5
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "0-2",
         "points": 1.5
       },
@@ -4006,14 +4006,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 1.5
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-0",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 1.5
       },
       {
         "name": "רוזן",
@@ -4245,16 +4245,6 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "3-0",
-        "points": 1.5
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-1",
         "points": 1.5
@@ -4262,6 +4252,16 @@
       {
         "name": "עומר שדה",
         "guess": "2-0",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "3-0",
         "points": 1.5
       },
       {
@@ -4387,6 +4387,16 @@
         "points": 0
       },
       {
+        "name": "עומר שדה",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
         "name": "רועי שלו",
         "guess": "1-1",
         "points": 0
@@ -4394,16 +4404,6 @@
       {
         "name": "רועי שלו",
         "guess": "0-2",
-        "points": 0
-      },
-      {
-        "name": "עומר שדה",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "עומר שדה",
-        "guess": "1-1",
         "points": 0
       },
       {
@@ -4539,16 +4539,6 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-4",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-2",
         "points": 5.5
@@ -4556,6 +4546,16 @@
       {
         "name": "עומר שדה",
         "guess": "0-2",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-4",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
         "points": 0
       },
       {
@@ -4691,16 +4691,6 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-3",
         "points": 1.5
@@ -4709,6 +4699,16 @@
         "name": "עומר שדה",
         "guess": "2-2",
         "points": 3
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -4843,16 +4843,6 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
@@ -4861,6 +4851,16 @@
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 3
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -4985,16 +4985,6 @@
         "points": 2
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-0",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 2
-      },
-      {
         "name": "עומר שדה",
         "guess": "2-0",
         "points": 1.5
@@ -5002,6 +4992,16 @@
       {
         "name": "עומר שדה",
         "guess": "1-3",
+        "points": 2
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "3-0",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
         "points": 2
       },
       {
@@ -5132,16 +5132,6 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 1.5
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 3.5
@@ -5149,6 +5139,16 @@
       {
         "name": "עומר שדה",
         "guess": "0-2",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
         "points": 1.5
       },
       {
@@ -5284,16 +5284,6 @@
         "points": 1.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 7
@@ -5301,6 +5291,16 @@
       {
         "name": "עומר שדה",
         "guess": "0-1",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-3",
         "points": 1.5
       },
       {
@@ -5431,16 +5431,6 @@
         "points": 2.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 2.5
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-2",
         "points": 0
@@ -5448,6 +5438,16 @@
       {
         "name": "עומר שדה",
         "guess": "1-0",
+        "points": 2.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-0",
         "points": 2.5
       },
       {
@@ -5563,16 +5563,6 @@
         "points": 3.5
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-3",
-        "points": 1.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-3",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-2",
         "points": 1.5
@@ -5580,6 +5570,16 @@
       {
         "name": "עומר שדה",
         "guess": "0-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-3",
+        "points": 1.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-3",
         "points": 0
       },
       {
@@ -5695,16 +5695,6 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-2",
-        "points": 5.5
-      },
-      {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-3",
         "points": 1.5
@@ -5712,6 +5702,16 @@
       {
         "name": "עומר שדה",
         "guess": "1-1",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-2",
+        "points": 5.5
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
         "points": 0
       },
       {
@@ -5889,14 +5889,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-0",
-        "points": 4
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-0",
+        "points": 4
       },
       {
         "name": "רוזן",
@@ -5961,12 +5961,12 @@
         "points": 12
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "1-1",
         "points": 12
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "1-1",
         "points": 12
       },
@@ -6038,14 +6038,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-0",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-0",
         "points": 3
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-0",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -6110,12 +6110,12 @@
         "points": 4
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "1-2",
         "points": 10
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "1-2",
         "points": 10
       },
@@ -6187,13 +6187,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-1",
+        "name": "עומר שדה",
+        "guess": "3-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "3-0",
+        "name": "רועי שלו",
+        "guess": "3-1",
         "points": 0
       },
       {
@@ -6264,13 +6264,13 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "2-0",
         "points": 3
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-0",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 3
       },
       {
@@ -6341,14 +6341,14 @@
         "points": 12
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 12
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 12
       },
       {
         "name": "רוזן",
@@ -6413,13 +6413,13 @@
         "points": 14
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-0",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "3-0",
         "points": 0
       },
       {
@@ -6490,14 +6490,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-0",
         "points": 4
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -6567,14 +6567,14 @@
         "points": 10
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 10
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 10
       },
       {
         "name": "רוזן",
@@ -6644,14 +6644,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 3
-      },
-      {
         "name": "עומר שדה",
         "guess": "0-0",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 3
       },
       {
         "name": "רוזן",
@@ -6721,12 +6721,12 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "3-0",
         "points": 3
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "3-0",
         "points": 3
       },
@@ -6798,12 +6798,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "1-1",
         "points": 8
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "1-1",
         "points": 8
       },
@@ -6875,13 +6875,13 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-1",
+        "name": "עומר שדה",
+        "guess": "2-0",
         "points": 3
       },
       {
-        "name": "עומר שדה",
-        "guess": "2-0",
+        "name": "רועי שלו",
+        "guess": "3-1",
         "points": 3
       },
       {
@@ -6952,13 +6952,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "3-1",
+        "name": "עומר שדה",
+        "guess": "1-0",
         "points": 4
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-0",
+        "name": "רועי שלו",
+        "guess": "3-1",
         "points": 4
       },
       {
@@ -7029,14 +7029,14 @@
         "points": 4
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-2",
         "points": 4
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -7106,14 +7106,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-2",
-        "points": 16
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-2",
+        "points": 16
       },
       {
         "name": "רוזן",
@@ -7178,14 +7178,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-1",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-2",
         "points": 4
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-1",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -7250,13 +7250,13 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-2",
+        "name": "עומר שדה",
+        "guess": "0-3",
         "points": 3
       },
       {
-        "name": "עומר שדה",
-        "guess": "0-3",
+        "name": "רועי שלו",
+        "guess": "0-2",
         "points": 3
       },
       {
@@ -7327,14 +7327,14 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "0-1",
-        "points": 6
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "0-1",
+        "points": 6
       },
       {
         "name": "רוזן",
@@ -7404,13 +7404,13 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
+        "name": "עומר שדה",
+        "guess": "1-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
-        "guess": "1-1",
+        "name": "רועי שלו",
+        "guess": "2-1",
         "points": 0
       },
       {
@@ -7476,12 +7476,12 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "2-0",
         "points": 3
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "2-0",
         "points": 3
       },
@@ -7548,14 +7548,14 @@
         "points": 6
       },
       {
-        "name": "רועי שלו",
-        "guess": "1-0",
-        "points": 0
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 6
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "1-0",
+        "points": 0
       },
       {
         "name": "רוזן",
@@ -7625,14 +7625,14 @@
         "points": 3
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-1",
-        "points": 3
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 3
       },
       {
         "name": "רוזן",
@@ -7702,14 +7702,14 @@
         "points": 8
       },
       {
-        "name": "רועי שלו",
-        "guess": "2-2",
-        "points": 8
-      },
-      {
         "name": "עומר שדה",
         "guess": "1-1",
         "points": 14
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-2",
+        "points": 8
       },
       {
         "name": "רוזן",
@@ -7769,12 +7769,12 @@
         "points": 0
       },
       {
-        "name": "רועי שלו",
+        "name": "עומר שדה",
         "guess": "1-1",
         "points": 0
       },
       {
-        "name": "עומר שדה",
+        "name": "רועי שלו",
         "guess": "1-1",
         "points": 0
       },
@@ -7796,6 +7796,73 @@
       {
         "name": "אורי חיון",
         "guess": "1-2",
+        "points": 0
+      }
+    ],
+    "1783818000000": [
+      {
+        "name": "מרום אריש",
+        "guess": "2-2",
+        "points": 5
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "תומר בר",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "תומר לידא",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "Itay Mor yosef",
+        "guess": "0-0",
+        "points": 5
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "1-1",
+        "points": 11
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "רוזן",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
+        "name": "יקיר כהן",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "1-0",
+        "points": 0
+      },
+      {
+        "name": "amit yeruham",
+        "guess": "1-2",
+        "points": 0
+      },
+      {
+        "name": "אורי חיון",
+        "guess": "2-0",
         "points": 0
       }
     ]
@@ -8235,6 +8302,11 @@
       "home": "ספרד",
       "away": "בלגיה",
       "result": "2-1"
+    },
+    "1783818000000": {
+      "home": "ארגנטינה",
+      "away": "שוויץ",
+      "result": "1-1"
     }
   },
   "timeline": [
@@ -8276,12 +8348,12 @@
           "points": 6
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-1",
           "points": 2
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-1",
           "points": 2
         },
@@ -8360,14 +8432,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-0",
-          "points": 3
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 3
         },
         {
           "name": "רוזן",
@@ -8444,13 +8516,13 @@
           "points": 7
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-1",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "3-1",
           "points": 0
         },
         {
@@ -8528,14 +8600,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "2-0",
           "points": 2
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -8612,12 +8684,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "0-3",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "0-3",
           "points": 0
         },
@@ -8696,14 +8768,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 8
-        },
-        {
           "name": "עומר שדה",
           "guess": "2-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 8
         },
         {
           "name": "רוזן",
@@ -8775,13 +8847,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
+          "name": "עומר שדה",
+          "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-3",
+          "name": "רועי שלו",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -8854,12 +8926,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "0-2",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "0-2",
           "points": 0
         },
@@ -8928,13 +9000,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "4-0",
+          "name": "עומר שדה",
+          "guess": "5-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "5-0",
+          "name": "רועי שלו",
+          "guess": "4-0",
           "points": 1.5
         },
         {
@@ -9012,14 +9084,14 @@
           "points": 7
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-0",
-          "points": 3
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-0",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "0-0",
+          "points": 3
         },
         {
           "name": "רוזן",
@@ -9096,13 +9168,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "2-2",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-2",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 0
         },
         {
@@ -9254,13 +9326,13 @@
           "points": 8
         },
         {
-          "name": "רועי שלו",
-          "guess": "5-0",
+          "name": "עומר שדה",
+          "guess": "4-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "4-0",
+          "name": "רועי שלו",
+          "guess": "5-0",
           "points": 0
         },
         {
@@ -9338,12 +9410,12 @@
           "points": 8
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-1",
           "points": 0
         },
@@ -9422,14 +9494,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-3",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 9
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -9580,12 +9652,12 @@
           "points": 5.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "3-1",
           "points": 5.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "3-1",
           "points": 5.5
         },
@@ -9664,13 +9736,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-4",
+          "name": "עומר שדה",
+          "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-3",
+          "name": "רועי שלו",
+          "guess": "0-4",
           "points": 1.5
         },
         {
@@ -9748,12 +9820,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-0",
           "points": 1.5
         },
@@ -9832,13 +9904,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
+          "name": "עומר שדה",
+          "guess": "3-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "3-0",
+          "name": "רועי שלו",
+          "guess": "2-0",
           "points": 1.5
         },
         {
@@ -9916,13 +9988,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "4-1",
+          "name": "עומר שדה",
+          "guess": "3-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "3-0",
+          "name": "רועי שלו",
+          "guess": "4-1",
           "points": 0
         },
         {
@@ -10000,14 +10072,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-0",
           "points": 2
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -10084,13 +10156,13 @@
           "points": 2
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 2
         },
         {
@@ -10168,13 +10240,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
+          "name": "עומר שדה",
+          "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-3",
+          "name": "רועי שלו",
+          "guess": "0-2",
           "points": 1.5
         },
         {
@@ -10247,13 +10319,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -10326,13 +10398,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
+          "name": "עומר שדה",
+          "guess": "2-1",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-1",
+          "name": "רועי שלו",
+          "guess": "2-0",
           "points": 2
         },
         {
@@ -10410,14 +10482,14 @@
           "points": 2
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-0",
-          "points": 2
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-0",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 2
         },
         {
           "name": "רוזן",
@@ -10494,12 +10566,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 0
         },
@@ -10578,14 +10650,14 @@
           "points": 2
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 2
-        },
-        {
           "name": "עומר שדה",
           "guess": "2-0",
           "points": 6
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 2
         },
         {
           "name": "רוזן",
@@ -10662,14 +10734,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-1",
-          "points": 6
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "0-1",
+          "points": 6
         },
         {
           "name": "רוזן",
@@ -10746,12 +10818,12 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "3-0",
           "points": 5.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "3-0",
           "points": 5.5
         },
@@ -10820,13 +10892,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-1",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -10894,13 +10966,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-0",
+          "name": "עומר שדה",
+          "guess": "2-1",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-1",
+          "name": "רועי שלו",
+          "guess": "1-0",
           "points": 2
         },
         {
@@ -10968,12 +11040,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-0",
           "points": 1.5
         },
@@ -11047,13 +11119,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-1",
+          "name": "עומר שדה",
+          "guess": "3-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "3-0",
+          "name": "רועי שלו",
+          "guess": "3-1",
           "points": 0
         },
         {
@@ -11131,13 +11203,13 @@
           "points": 2
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "0-2",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-2",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 2
         },
         {
@@ -11215,13 +11287,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 1.5
         },
         {
@@ -11299,13 +11371,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "2-0",
           "points": 0
         },
         {
@@ -11462,14 +11534,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-3",
-          "points": 6
-        },
-        {
           "name": "עומר שדה",
           "guess": "2-2",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-3",
+          "points": 6
         },
         {
           "name": "רוזן",
@@ -11546,13 +11618,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 2
         },
         {
@@ -11630,12 +11702,12 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "4-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "4-0",
           "points": 1.5
         },
@@ -11709,12 +11781,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-1",
           "points": 2
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-1",
           "points": 2
         },
@@ -11793,14 +11865,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 6
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-1",
           "points": 2
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 6
         },
         {
           "name": "רוזן",
@@ -11872,12 +11944,12 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "3-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "3-0",
           "points": 1.5
         },
@@ -11956,12 +12028,12 @@
           "points": 6
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "3-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "3-1",
           "points": 0
         },
@@ -12040,12 +12112,12 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "0-2",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "0-2",
           "points": 1.5
         },
@@ -12124,14 +12196,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 1.5
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-0",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 1.5
         },
         {
           "name": "רוזן",
@@ -12361,13 +12433,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "0-1",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-1",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 1.5
         },
         {
@@ -12440,13 +12512,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-0",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -12519,12 +12591,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 0
         },
@@ -12598,13 +12670,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
+          "name": "עומר שדה",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-1",
+          "name": "רועי שלו",
+          "guess": "0-2",
           "points": 0
         },
         {
@@ -12682,14 +12754,14 @@
           "points": 5.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-4",
-          "points": 1.5
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-2",
           "points": 5.5
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-4",
+          "points": 1.5
         },
         {
           "name": "רוזן",
@@ -12766,13 +12838,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-3",
+          "name": "עומר שדה",
+          "guess": "0-2",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-2",
+          "name": "רועי שלו",
+          "guess": "1-3",
           "points": 0
         },
         {
@@ -12850,12 +12922,12 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "0-3",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "0-3",
           "points": 1.5
         },
@@ -12934,14 +13006,14 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "2-2",
           "points": 3
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -13018,12 +13090,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 0
         },
@@ -13097,14 +13169,14 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 3
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -13176,13 +13248,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-0",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "3-0",
           "points": 1.5
         },
         {
@@ -13260,13 +13332,13 @@
           "points": 2
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "1-3",
           "points": 2
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-3",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 2
         },
         {
@@ -13339,14 +13411,14 @@
           "points": 3.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 3.5
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -13423,13 +13495,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "0-2",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-2",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 1.5
         },
         {
@@ -13507,14 +13579,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 7
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -13591,13 +13663,13 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-3",
+          "name": "עומר שדה",
+          "guess": "0-1",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-1",
+          "name": "רועי שלו",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -13670,14 +13742,14 @@
           "points": 1.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
-          "points": 5.5
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-3",
           "points": 1.5
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "0-2",
+          "points": 5.5
         },
         {
           "name": "רוזן",
@@ -13754,13 +13826,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
+          "name": "עומר שדה",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-1",
+          "name": "רועי שלו",
+          "guess": "1-2",
           "points": 0
         },
         {
@@ -13838,12 +13910,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-2",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-2",
           "points": 0
         },
@@ -13912,13 +13984,13 @@
           "points": 2.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 2.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "2-0",
           "points": 2.5
         },
         {
@@ -13986,13 +14058,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-3",
+          "name": "עומר שדה",
+          "guess": "0-2",
           "points": 1.5
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-2",
+          "name": "רועי שלו",
+          "guess": "0-3",
           "points": 1.5
         },
         {
@@ -14060,13 +14132,13 @@
           "points": 3.5
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-3",
+          "name": "עומר שדה",
+          "guess": "0-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-1",
+          "name": "רועי שלו",
+          "guess": "1-3",
           "points": 0
         },
         {
@@ -14213,14 +14285,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-0",
-          "points": 4
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-0",
+          "points": 4
         },
         {
           "name": "רוזן",
@@ -14292,13 +14364,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-1",
+          "name": "עומר שדה",
+          "guess": "3-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "3-0",
+          "name": "רועי שלו",
+          "guess": "3-1",
           "points": 0
         },
         {
@@ -14376,12 +14448,12 @@
           "points": 12
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 12
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 12
         },
@@ -14455,12 +14527,12 @@
           "points": 4
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-2",
           "points": 10
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-2",
           "points": 10
         },
@@ -14539,13 +14611,13 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 3
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 3
         },
         {
@@ -14623,14 +14695,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-0",
           "points": 4
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -14707,12 +14779,12 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "3-0",
           "points": 3
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "3-0",
           "points": 3
         },
@@ -14791,12 +14863,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 8
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 8
         },
@@ -14875,14 +14947,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-0",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-0",
           "points": 3
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "0-0",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -14959,13 +15031,13 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-1",
+          "name": "עומר שדה",
+          "guess": "2-0",
           "points": 3
         },
         {
-          "name": "עומר שדה",
-          "guess": "2-0",
+          "name": "רועי שלו",
+          "guess": "3-1",
           "points": 3
         },
         {
@@ -15043,14 +15115,14 @@
           "points": 10
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 10
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 10
         },
         {
           "name": "רוזן",
@@ -15127,13 +15199,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-1",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 4
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "3-1",
           "points": 4
         },
         {
@@ -15211,14 +15283,14 @@
           "points": 12
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 12
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 12
         },
         {
           "name": "רוזן",
@@ -15290,13 +15362,13 @@
           "points": 14
         },
         {
-          "name": "רועי שלו",
-          "guess": "3-0",
+          "name": "עומר שדה",
+          "guess": "1-0",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-0",
+          "name": "רועי שלו",
+          "guess": "3-0",
           "points": 0
         },
         {
@@ -15374,14 +15446,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 3
-        },
-        {
           "name": "עומר שדה",
           "guess": "0-0",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 3
         },
         {
           "name": "רוזן",
@@ -15458,14 +15530,14 @@
           "points": 4
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-2",
           "points": 4
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -15542,13 +15614,13 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-2",
+          "name": "עומר שדה",
+          "guess": "0-3",
           "points": 3
         },
         {
-          "name": "עומר שדה",
-          "guess": "0-3",
+          "name": "רועי שלו",
+          "guess": "0-2",
           "points": 3
         },
         {
@@ -15626,14 +15698,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-2",
-          "points": 16
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-2",
+          "points": 16
         },
         {
           "name": "רוזן",
@@ -15705,14 +15777,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-1",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-2",
           "points": 4
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-1",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -15784,13 +15856,13 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
+          "name": "עומר שדה",
+          "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
-          "guess": "1-1",
+          "name": "רועי שלו",
+          "guess": "2-1",
           "points": 0
         },
         {
@@ -15863,14 +15935,14 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
-          "guess": "0-1",
-          "points": 6
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "0-1",
+          "points": 6
         },
         {
           "name": "רוזן",
@@ -15947,12 +16019,12 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "2-0",
           "points": 3
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "2-0",
           "points": 3
         },
@@ -16026,14 +16098,14 @@
           "points": 6
         },
         {
-          "name": "רועי שלו",
-          "guess": "1-0",
-          "points": 0
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 6
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "1-0",
+          "points": 0
         },
         {
           "name": "רוזן",
@@ -16110,14 +16182,14 @@
           "points": 3
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-1",
-          "points": 3
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 3
         },
         {
           "name": "רוזן",
@@ -16194,12 +16266,12 @@
           "points": 0
         },
         {
-          "name": "רועי שלו",
+          "name": "עומר שדה",
           "guess": "1-1",
           "points": 0
         },
         {
-          "name": "עומר שדה",
+          "name": "רועי שלו",
           "guess": "1-1",
           "points": 0
         },
@@ -16263,14 +16335,14 @@
           "points": 8
         },
         {
-          "name": "רועי שלו",
-          "guess": "2-2",
-          "points": 8
-        },
-        {
           "name": "עומר שדה",
           "guess": "1-1",
           "points": 14
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-2",
+          "points": 8
         },
         {
           "name": "רוזן",
@@ -16298,21 +16370,91 @@
           "points": 0
         }
       ]
+    },
+    {
+      "gid": "36a4e03dbd221f",
+      "ts": 1783818000000,
+      "home": "ארגנטינה",
+      "away": "שוויץ",
+      "result": "1-1",
+      "picks": [
+        {
+          "name": "מרום אריש",
+          "guess": "2-2",
+          "points": 5
+        },
+        {
+          "name": "גל אטיאס",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "Guy Shmuel",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
+          "name": "תומר בר",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
+          "name": "תומר לידא",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "Itay Mor yosef",
+          "guess": "0-0",
+          "points": 5
+        },
+        {
+          "name": "עומר שדה",
+          "guess": "1-1",
+          "points": 11
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
+          "name": "רוזן",
+          "guess": "1-0",
+          "points": 0
+        },
+        {
+          "name": "יקיר כהן",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
+          "name": "עמית לוי",
+          "guess": "1-0",
+          "points": 0
+        },
+        {
+          "name": "amit yeruham",
+          "guess": "1-2",
+          "points": 0
+        },
+        {
+          "name": "אורי חיון",
+          "guess": "2-0",
+          "points": 0
+        }
+      ]
     }
   ],
   "missingBets": {
-    "1783818000000": [
-      "ברק ברהמי",
-      "אלון לוין"
-    ],
     "1784055600000": [
       "מרום אריש",
       "גל אטיאס",
       "תומר בר",
       "תומר לידא",
       "Itay Mor yosef",
-      "רועי שלו",
       "עומר שדה",
+      "רועי שלו",
       "רוזן",
       "ברק ברהמי",
       "אלון לוין",
