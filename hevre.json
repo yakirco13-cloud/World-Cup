@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-13T03:48:35.505Z",
+  "updated": "2026-07-13T07:31:10.758Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
     {
       "name": "מרום אריש",
-      "points": 263.5,
+      "points": 259.5,
       "exact": 11,
       "direction": 53,
       "misses": 36,
@@ -13,7 +13,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 20,
         "home": "ארגנטינה",
@@ -35,7 +35,7 @@
     },
     {
       "name": "גל אטיאס",
-      "points": 247.5,
+      "points": 243.5,
       "exact": 12,
       "direction": 53,
       "misses": 35,
@@ -43,7 +43,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Guy Shmuel",
-      "points": 244.5,
+      "points": 240.5,
       "exact": 13,
       "direction": 48,
       "misses": 39,
@@ -73,7 +73,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 14,
         "home": "בלגיה",
@@ -95,7 +95,7 @@
     },
     {
       "name": "תומר בר",
-      "points": 240,
+      "points": 237,
       "exact": 15,
       "direction": 44,
       "misses": 36,
@@ -103,7 +103,7 @@
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 18,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -125,7 +125,7 @@
     },
     {
       "name": "תומר לידא",
-      "points": 231,
+      "points": 228,
       "exact": 13,
       "direction": 48,
       "misses": 38,
@@ -133,7 +133,7 @@
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 18,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 10,
         "home": "חוף השנהב",
@@ -155,7 +155,7 @@
     },
     {
       "name": "עומר שדה",
-      "points": 228.5,
+      "points": 224.5,
       "exact": 10,
       "direction": 48,
       "misses": 40,
@@ -163,7 +163,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 14,
         "home": "אנגליה",
@@ -185,7 +185,7 @@
     },
     {
       "name": "Itay Mor yosef",
-      "points": 228.5,
+      "points": 224.5,
       "exact": 9,
       "direction": 42,
       "misses": 49,
@@ -193,7 +193,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 14,
         "home": "ארגנטינה",
@@ -245,7 +245,7 @@
     },
     {
       "name": "רוזן",
-      "points": 210.5,
+      "points": 206.5,
       "exact": 11,
       "direction": 46,
       "misses": 42,
@@ -253,7 +253,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 10,
         "home": "ברזיל",
@@ -275,7 +275,7 @@
     },
     {
       "name": "יקיר כהן",
-      "points": 201,
+      "points": 197,
       "exact": 9,
       "direction": 42,
       "misses": 49,
@@ -283,7 +283,7 @@
       "champion": "ספרד",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 16,
         "home": "ברזיל",
@@ -305,7 +305,7 @@
     },
     {
       "name": "עמית לוי",
-      "points": 197.5,
+      "points": 193.5,
       "exact": 10,
       "direction": 44,
       "misses": 45,
@@ -313,7 +313,7 @@
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -335,7 +335,7 @@
     },
     {
       "name": "ברק ברהמי",
-      "points": 194,
+      "points": 190,
       "exact": 10,
       "direction": 45,
       "misses": 36,
@@ -343,7 +343,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 12,
         "home": "מרוקו",
@@ -365,7 +365,7 @@
     },
     {
       "name": "אלון לוין",
-      "points": 182,
+      "points": 178,
       "exact": 6,
       "direction": 45,
       "misses": 44,
@@ -373,7 +373,7 @@
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 9,
         "home": "ארצות הברית",
@@ -395,7 +395,7 @@
     },
     {
       "name": "amit yeruham",
-      "points": 168.5,
+      "points": 165.5,
       "exact": 10,
       "direction": 29,
       "misses": 49,
@@ -403,7 +403,7 @@
       "champion": "ברזיל",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
-      "pointsFromScorer": 18,
+      "pointsFromScorer": 15,
       "bestBet": {
         "points": 12,
         "home": "ספרד",
@@ -425,7 +425,7 @@
     },
     {
       "name": "אורי חיון",
-      "points": 159.5,
+      "points": 155.5,
       "exact": 5,
       "direction": 44,
       "misses": 38,
@@ -433,7 +433,7 @@
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
-      "pointsFromScorer": 24,
+      "pointsFromScorer": 20,
       "bestBet": {
         "points": 9,
         "home": "צרפת",
@@ -16451,7 +16451,6 @@
       "מרום אריש",
       "גל אטיאס",
       "תומר בר",
-      "תומר לידא",
       "רועי שלו",
       "רוזן",
       "ברק ברהמי",
@@ -16463,7 +16462,6 @@
       "מרום אריש",
       "גל אטיאס",
       "תומר בר",
-      "תומר לידא",
       "רועי שלו",
       "רוזן",
       "עמית לוי",
