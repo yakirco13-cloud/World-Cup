@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:48:32.248Z",
+  "updated": "2026-07-15T21:12:20.348Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -513,7 +513,7 @@
       "name": "Lionel Messi",
       "teamHe": "ארגנטינה",
       "goals": 8,
-      "assists": 2,
+      "assists": 4,
       "penalties": 0
     },
     {
@@ -671,6 +671,13 @@
       "penalties": 0
     },
     {
+      "name": "Lautaro Martínez",
+      "teamHe": "ארגנטינה",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 1
+    },
+    {
       "name": "Charles De Ketelaere",
       "teamHe": "בלגיה",
       "goals": 3,
@@ -701,13 +708,6 @@
     {
       "name": "Daichi Kamada",
       "teamHe": "יפן",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0
-    },
-    {
-      "name": "Amad Diallo",
-      "teamHe": "חוף השנהב",
       "goals": 2,
       "assists": 0,
       "penalties": 0
