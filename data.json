@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:31:42.034Z",
+  "updated": "2026-07-18T22:28:54.619Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -505,8 +505,8 @@
     {
       "name": "Kylian Mbappé",
       "teamHe": "צרפת",
-      "goals": 8,
-      "assists": 3,
+      "goals": 9,
+      "assists": 4,
       "penalties": 1
     },
     {
@@ -615,6 +615,13 @@
       "penalties": 0
     },
     {
+      "name": "Bradley Barcola",
+      "teamHe": "צרפת",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Yoane Wissa",
       "teamHe": "הרפובליקה הדמוקרטית של קונגו",
       "goals": 3,
@@ -703,13 +710,6 @@
       "teamHe": "הולנד",
       "goals": 2,
       "assists": 2,
-      "penalties": 0
-    },
-    {
-      "name": "Daichi Kamada",
-      "teamHe": "יפן",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0
     }
   ],
