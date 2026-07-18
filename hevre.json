@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:00:48.397Z",
+  "updated": "2026-07-18T21:58:18.909Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -8,8 +8,8 @@
       "points": 259.5,
       "exact": 11,
       "direction": 53,
-      "misses": 38,
-      "guessed": 102,
+      "misses": 39,
+      "guessed": 103,
       "champion": "פורטוגל",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -23,9 +23,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 102,
-      "goalGap": 213,
-      "goalGapGames": 102,
+      "riskCount": 103,
+      "goalGap": 219,
+      "goalGapGames": 103,
       "perfect85": 8,
       "robbed85": 2,
       "covered85": 93,
@@ -38,8 +38,8 @@
       "points": 243.5,
       "exact": 12,
       "direction": 53,
-      "misses": 37,
-      "guessed": 102,
+      "misses": 38,
+      "guessed": 103,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -53,9 +53,9 @@
       },
       "momentum": 0,
       "riskAvg": 2,
-      "riskCount": 102,
-      "goalGap": 184,
-      "goalGapGames": 102,
+      "riskCount": 103,
+      "goalGap": 189,
+      "goalGapGames": 103,
       "perfect85": 11,
       "robbed85": 3,
       "covered85": 93,
@@ -68,8 +68,8 @@
       "points": 240.5,
       "exact": 13,
       "direction": 48,
-      "misses": 41,
-      "guessed": 102,
+      "misses": 42,
+      "guessed": 103,
       "champion": "צרפת",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -83,9 +83,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.2,
-      "riskCount": 102,
-      "goalGap": 201,
-      "goalGapGames": 102,
+      "riskCount": 103,
+      "goalGap": 207,
+      "goalGapGames": 103,
       "perfect85": 9,
       "robbed85": 1,
       "covered85": 93,
@@ -98,8 +98,8 @@
       "points": 237,
       "exact": 15,
       "direction": 44,
-      "misses": 37,
-      "guessed": 96,
+      "misses": 38,
+      "guessed": 97,
       "champion": "צרפת",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -113,9 +113,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.1,
-      "riskCount": 96,
-      "goalGap": 177,
-      "goalGapGames": 96,
+      "riskCount": 97,
+      "goalGap": 183,
+      "goalGapGames": 97,
       "perfect85": 11,
       "robbed85": 3,
       "covered85": 88,
@@ -128,8 +128,8 @@
       "points": 233,
       "exact": 14,
       "direction": 45,
-      "misses": 39,
-      "guessed": 98,
+      "misses": 40,
+      "guessed": 99,
       "champion": "צרפת",
       "scorer": "חוליאן אלבארס",
       "pointsFromChampion": false,
@@ -141,11 +141,11 @@
         "guess": "1-2",
         "result": "1-2"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 98,
-      "goalGap": 189,
-      "goalGapGames": 98,
+      "riskCount": 99,
+      "goalGap": 194,
+      "goalGapGames": 99,
       "perfect85": 9,
       "robbed85": 1,
       "covered85": 89,
@@ -158,8 +158,8 @@
       "points": 228,
       "exact": 13,
       "direction": 48,
-      "misses": 40,
-      "guessed": 101,
+      "misses": 41,
+      "guessed": 102,
       "champion": "אנגליה",
       "scorer": "הארי קיין",
       "pointsFromChampion": false,
@@ -173,9 +173,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 101,
-      "goalGap": 187,
-      "goalGapGames": 101,
+      "riskCount": 102,
+      "goalGap": 193,
+      "goalGapGames": 102,
       "perfect85": 10,
       "robbed85": 1,
       "covered85": 92,
@@ -188,8 +188,8 @@
       "points": 224.5,
       "exact": 10,
       "direction": 48,
-      "misses": 42,
-      "guessed": 100,
+      "misses": 43,
+      "guessed": 101,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -203,9 +203,9 @@
       },
       "momentum": 0,
       "riskAvg": 2.3,
-      "riskCount": 100,
-      "goalGap": 182,
-      "goalGapGames": 100,
+      "riskCount": 101,
+      "goalGap": 187,
+      "goalGapGames": 101,
       "perfect85": 10,
       "robbed85": 5,
       "covered85": 91,
@@ -278,8 +278,8 @@
       "points": 199.5,
       "exact": 10,
       "direction": 45,
-      "misses": 46,
-      "guessed": 101,
+      "misses": 47,
+      "guessed": 102,
       "champion": "אנגליה",
       "scorer": "קיליאן אמבפה",
       "pointsFromChampion": false,
@@ -291,11 +291,11 @@
         "guess": "1-1",
         "result": "1-1"
       },
-      "momentum": 1,
+      "momentum": 0,
       "riskAvg": 2.4,
-      "riskCount": 101,
-      "goalGap": 202,
-      "goalGapGames": 101,
+      "riskCount": 102,
+      "goalGap": 206,
+      "goalGapGames": 102,
       "perfect85": 6,
       "robbed85": 0,
       "covered85": 93,
@@ -7984,6 +7984,48 @@
         "guess": "3-3",
         "points": 0
       }
+    ],
+    "1784408400000": [
+      {
+        "name": "מרום אריש",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "גל אטיאס",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "Guy Shmuel",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "תומר בר",
+        "guess": "2-0",
+        "points": 0
+      },
+      {
+        "name": "רועי שלו",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "תומר לידא",
+        "guess": "3-1",
+        "points": 0
+      },
+      {
+        "name": "עומר שדה",
+        "guess": "2-1",
+        "points": 0
+      },
+      {
+        "name": "עמית לוי",
+        "guess": "1-1",
+        "points": 0
+      }
     ]
   },
   "matches": {
@@ -8436,6 +8478,11 @@
       "home": "אנגליה",
       "away": "ארגנטינה",
       "result": "1-2"
+    },
+    "1784408400000": {
+      "home": "צרפת",
+      "away": "אנגליה",
+      "result": "0-4"
     }
   },
   "timeline": [
@@ -16706,18 +16753,58 @@
           "points": 0
         }
       ]
+    },
+    {
+      "gid": "06a57fddedf0e5",
+      "ts": 1784408400000,
+      "home": "צרפת",
+      "away": "אנגליה",
+      "result": "0-4",
+      "picks": [
+        {
+          "name": "מרום אריש",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
+          "name": "גל אטיאס",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "Guy Shmuel",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
+          "name": "תומר בר",
+          "guess": "2-0",
+          "points": 0
+        },
+        {
+          "name": "רועי שלו",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "תומר לידא",
+          "guess": "3-1",
+          "points": 0
+        },
+        {
+          "name": "עומר שדה",
+          "guess": "2-1",
+          "points": 0
+        },
+        {
+          "name": "עמית לוי",
+          "guess": "1-1",
+          "points": 0
+        }
+      ]
     }
   ],
   "missingBets": {
-    "1784408400000": [
-      "Itay Mor yosef",
-      "רוזן",
-      "יקיר כהן",
-      "ברק ברהמי",
-      "אלון לוין",
-      "amit yeruham",
-      "אורי חיון"
-    ],
     "1784487600000": [
       "תומר בר",
       "Itay Mor yosef",
