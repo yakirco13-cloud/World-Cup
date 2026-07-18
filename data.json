@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:28:54.619Z",
+  "updated": "2026-07-18T23:33:32.698Z",
   "source": "football-data.org",
   "scores": {
     "1": {
@@ -505,7 +505,7 @@
     {
       "name": "Kylian Mbappé",
       "teamHe": "צרפת",
-      "goals": 9,
+      "goals": 10,
       "assists": 4,
       "penalties": 1
     },
@@ -524,6 +524,13 @@
       "penalties": 0
     },
     {
+      "name": "Jude Bellingham",
+      "teamHe": "אנגליה",
+      "goals": 7,
+      "assists": 1,
+      "penalties": 0
+    },
+    {
       "name": "Harry Kane",
       "teamHe": "אנגליה",
       "goals": 6,
@@ -531,10 +538,10 @@
       "penalties": 2
     },
     {
-      "name": "Jude Bellingham",
-      "teamHe": "אנגליה",
+      "name": "Ousmane Dembélé",
+      "teamHe": "צרפת",
       "goals": 6,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0
     },
     {
@@ -543,13 +550,6 @@
       "goals": 5,
       "assists": 1,
       "penalties": 1
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "teamHe": "צרפת",
-      "goals": 5,
-      "assists": 2,
-      "penalties": 0
     },
     {
       "name": "Julián Quiñones",
@@ -692,6 +692,13 @@
       "penalties": 0
     },
     {
+      "name": "Bukayo Saka",
+      "teamHe": "אנגליה",
+      "goals": 3,
+      "assists": 3,
+      "penalties": 1
+    },
+    {
       "name": "Cyle Larin",
       "teamHe": "קנדה",
       "goals": 2,
@@ -704,13 +711,6 @@
       "goals": 2,
       "assists": 2,
       "penalties": 1
-    },
-    {
-      "name": "Crysencio Summerville",
-      "teamHe": "הולנד",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0
     }
   ],
   "crests": {
