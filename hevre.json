@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:58:53.741Z",
+  "updated": "2026-07-19T00:02:12.530Z",
   "groupName": "",
   "membersCount": 15,
   "table": [
@@ -24,7 +24,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 103,
-      "goalGap": 217,
+      "goalGap": 219,
       "goalGapGames": 103,
       "perfect85": 8,
       "robbed85": 2,
@@ -54,7 +54,7 @@
       "momentum": 0,
       "riskAvg": 2,
       "riskCount": 103,
-      "goalGap": 189,
+      "goalGap": 191,
       "goalGapGames": 103,
       "perfect85": 11,
       "robbed85": 3,
@@ -84,7 +84,7 @@
       "momentum": 0,
       "riskAvg": 2.2,
       "riskCount": 103,
-      "goalGap": 205,
+      "goalGap": 207,
       "goalGapGames": 103,
       "perfect85": 9,
       "robbed85": 1,
@@ -114,7 +114,7 @@
       "momentum": 0,
       "riskAvg": 2.1,
       "riskCount": 97,
-      "goalGap": 183,
+      "goalGap": 185,
       "goalGapGames": 97,
       "perfect85": 11,
       "robbed85": 3,
@@ -144,7 +144,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 99,
-      "goalGap": 194,
+      "goalGap": 196,
       "goalGapGames": 99,
       "perfect85": 9,
       "robbed85": 1,
@@ -174,7 +174,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 101,
-      "goalGap": 187,
+      "goalGap": 189,
       "goalGapGames": 101,
       "perfect85": 10,
       "robbed85": 5,
@@ -234,7 +234,7 @@
       "momentum": 0,
       "riskAvg": 2.3,
       "riskCount": 102,
-      "goalGap": 191,
+      "goalGap": 193,
       "goalGapGames": 102,
       "perfect85": 10,
       "robbed85": 1,
@@ -294,7 +294,7 @@
       "momentum": 0,
       "riskAvg": 2.4,
       "riskCount": 102,
-      "goalGap": 208,
+      "goalGap": 210,
       "goalGapGames": 102,
       "perfect85": 6,
       "robbed85": 0,
@@ -8482,7 +8482,7 @@
     "1784408400000": {
       "home": "צרפת",
       "away": "אנגליה",
-      "result": "3-5"
+      "result": "4-6"
     }
   },
   "timeline": [
@@ -16759,7 +16759,7 @@
       "ts": 1784408400000,
       "home": "צרפת",
       "away": "אנגליה",
-      "result": "3-5",
+      "result": "4-6",
       "picks": [
         {
           "name": "מרום אריש",
