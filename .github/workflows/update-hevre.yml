@@ -1,7 +1,9 @@
 name: Update hevre
+# Paused after the 2026 tournament — the schedule below ran twice an hour and
+# kept committing hevre.json. Re-add the `schedule:` block to resume.
 on:
-  schedule:
-    - cron: '7,37 * * * *'
+  # schedule:
+  #   - cron: '7,37 * * * *'
   workflow_dispatch: {}
 permissions:
   contents: write
